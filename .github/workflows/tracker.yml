@@ -16,19 +16,23 @@ jobs:
   track:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    env:
+      DATA_DIR: data
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - name: Read sitemaps
-        run: python scripts/tracker.py
+        run: |
+          if [ -f scripts/tracker.py ]; then python scripts/tracker.py; else python tracker.py; fi
       - name: Commit data
         if: always()
         run: |
+          mkdir -p data
           git config user.name "patrika-tracker-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/*.json
+          git add data
           if git diff --cached --quiet; then
             echo "No change"
           else
