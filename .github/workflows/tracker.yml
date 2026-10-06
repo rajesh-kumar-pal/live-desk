@@ -1,0 +1,38 @@
+name: Sitemap tracker
+
+on:
+  schedule:
+    - cron: "45 0-17 * * *"   # :15 IST, 06:15–23:15
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tracker
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Read sitemaps
+        run: python scripts/tracker.py
+      - name: Commit data
+        if: always()
+        run: |
+          git config user.name "patrika-tracker-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/*.json
+          if git diff --cached --quiet; then
+            echo "No change"
+          else
+            git commit -m "tracker: $(TZ=Asia/Kolkata date '+%Y-%m-%d %H:%M IST')"
+            git pull --rebase --quiet
+            git push
+          fi
