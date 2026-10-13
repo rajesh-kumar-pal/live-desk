@@ -1,123 +1,116 @@
 {
- "generatedAt": 1791846920730,
+ "generatedAt": 1791875298115,
  "items": [
   {
-   "id": "bh-lucknow-rape-accused-arrested-jodhpur-bilada-transit-remand-139339133.html",
+   "id": "bh-masani-barrage-water-treatment-project-rewari-haryana-139342088.html",
    "src": "bh",
    "pub": "Bhaskar",
-   "title": "दुष्कर्म के मामले में वांछित आरोपी राजस्थान से गिरफ्तार: जोधपुर के बिलाड़ा क्षेत्र से पकड़ा, ट्रांजिट रिमांड पर लखनऊ लाकर कोर्ट में पेश",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/dubagga/news/lucknow-rape-accused-arrested-jodhpur-bilada-transit-remand-139339133.html",
-   "t": 1791847000000,
-   "time": "04:46",
-   "score": 10,
-   "tags": [
-    "RAJ",
-    "HINDI",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.33,
-   "patrikaMatch": {
-    "title": "मुरैना में एक ही परिवार के 6 लोगों की हत्या मामले में फरार आरोपी को पकड़ा",
-    "url": "https://www.patrika.com/ahmedabad-news/ahmedabad-news-20979649"
-   }
-  },
-  {
-   "id": "bh-manda-navratri-maa-brahmacharini-puja-durga-pandal-mandir-update-139339068.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "मांडा में मां ब्रह्मचारिणी की पूजा, भक्ति में डूबा इलाका: शारदीय नवरात्र के दूसरे दिन दुर्गा पंडालों और मंदिरों में उमड़ी भीड़, सुबह-शाम विशेष आरती",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/prayagraj/manda/news/manda-navratri-maa-brahmacharini-puja-durga-pandal-mandir-update-139339068.html",
-   "t": 1791846482000,
-   "time": "04:38",
+   "title": "रेवाड़ी में मसानी बैराज पर 217 करोड़ की परियोजना शुरू: दूषित पानी की निकासी, 15 गांवों को मिलेगा फायदा; 40 किमी पाइपलाइन बिछेगी",
+   "url": "https://www.bhaskar.com/local/haryana/rewari/news/masani-barrage-water-treatment-project-rewari-haryana-139342088.html",
+   "t": 1791875519000,
+   "time": "12:41",
    "score": 8,
    "tags": [
-    "CG",
+    "MP",
     "HINDI",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "bh-nalanda-nursarai-laborer-murder-boiling-oil-death-case-139342075.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "नालंदा- 2.65 लाख में मौत की डील!: मजदूरी मांगने पर युवक को खौलते तेल में धकेला; मुखिया ने भाई से‎ लिखवाया-मौत हुई तो आरोपी जिम्मेदार नहीं‎",
+   "url": "https://www.bhaskar.com/local/bihar/nalanda/news/nalanda-nursarai-laborer-murder-boiling-oil-death-case-139342075.html",
+   "t": 1791875345000,
+   "time": "12:39",
+   "score": 8,
+   "tags": [
+    "HINDI",
+    "CRIME",
     "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "au-supreme-court-seeks-delhi-police-response-over-alleged-assault-on-women-journalists-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "महिला पत्रकारों से मारपीट पर सुप्रीम कोर्ट सख्त दिल्ली पुलिस के बड़े अधिकारी को किया तलब, क्या है पूरा मामला",
+   "url": "https://www.amarujala.com/india-news/supreme-court-seeks-delhi-police-response-over-alleged-assault-on-women-journalists-2026-10-13",
+   "t": 1791875216000,
+   "time": "12:36",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "POL"
    ],
    "status": "GAP",
    "match": 0.21
   },
   {
-   "id": "bh-manda-police-visit-dighiya-durga-pandal-peace-appeal-navratri-2026-139339061.html",
+   "id": "nbt-134910861.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "कानपुर में BJP नेता को बंधक बना नकाबपोश बदमाशों ने की 50 लाख की लूट, फार्म हाउस में अकेले रुके थे रमेश यादव",
+   "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/kanpur/bjp-leader-ramesh-yadav-held-hostage-and-robbed-of-50-lakh/articleshow/134910861.cms",
+   "t": 1791875199000,
+   "time": "12:36",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.27
+  },
+  {
+   "id": "au-kanpur-auto-carrying-pilgrims-for-tonsure-ceremony-overturns-into-water-filled-pit-half-a-dozen-injured-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "कानपुर हादसा पानी भरे गड्ढे में पलटा मुंडन यात्रियों से भरा ऑटो, मासूम समेत आधा दर्जन घायल, अस्पताल में भर्ती",
+   "url": "https://www.amarujala.com/uttar-pradesh/kanpur/kanpur-auto-carrying-pilgrims-for-tonsure-ceremony-overturns-into-water-filled-pit-half-a-dozen-injured-2026-10-13",
+   "t": 1791875124000,
+   "time": "12:35",
+   "score": 5,
+   "tags": [
+    "HINDI",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.14
+  },
+  {
+   "id": "bh-yamunanagar-gandhi-nagar-house-theft-case-gold-cash-stolen-139342062.html",
    "src": "bh",
    "pub": "Bhaskar",
-   "title": "दिघिया में बच्चों ने लगाए माता रानी के जयकारे: मांडा पुलिस ने दुर्गा पंडाल का जायजा लिया और ग्रामीणों से शांति की अपील की",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/prayagraj/dighiya/news/manda-police-visit-dighiya-durga-pandal-peace-appeal-navratri-2026-139339061.html",
-   "t": 1791846455000,
-   "time": "04:37",
-   "score": 8,
+   "title": "यमुनानगर में मकान से 25 हजार कैश-जेवर चोरी: बीमार मां से मिलने यूपी गया था परिवार; बच्चों का गुल्लक भी नहीं छोड़ा",
+   "url": "https://www.bhaskar.com/local/haryana/yamunanagar/news/yamunanagar-gandhi-nagar-house-theft-case-gold-cash-stolen-139342062.html",
+   "t": 1791874989000,
+   "time": "12:33",
+   "score": 5,
    "tags": [
-    "CG",
     "HINDI",
     "CRIME"
    ],
    "status": "GAP",
-   "match": 0.08
+   "match": 0.12
   },
   {
-   "id": "bh-muratganj-gt-road-accident-truck-car-collision-police-custody-139339047.html",
+   "id": "bh-rohtak-creta-car-theft-cctv-footage-sector-3-crime-news-139342059.html",
    "src": "bh",
    "pub": "Bhaskar",
-   "title": "मूरतगंज में ट्रक ने कार को मारी टक्कर: जीटी रोड पर हुआ हादसा, पुलिस ने ट्रक चालक को हिरासत में लिया",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/kaushambi/muratganj/news/muratganj-gt-road-accident-truck-car-collision-police-custody-139339047.html",
-   "t": 1791846356000,
-   "time": "04:35",
-   "score": 8,
+   "title": "रोहतक में शीशा तोड़कर चंद मिनटों में क्रेटा चोरी: सफेद कार में आए थे दो आरोपी; CCTV में हुए कैद",
+   "url": "https://www.bhaskar.com/local/haryana/rohtak/news/rohtak-creta-car-theft-cctv-footage-sector-3-crime-news-139342059.html",
+   "t": 1791874905000,
+   "time": "12:31",
+   "score": 5,
    "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.1
-  },
-  {
-   "id": "bh-charthawal-gyana-majra-fireworks-clash-video-viral-police-probe-139339025.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "पटाखे छुड़ाने पर दो पक्षों में मारपीट: चरथावल के ज्ञाना माजरा में विवाद, वीडियो वायरल होने के बाद पुलिस जांच में जुटी",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/muzaffarnagar/charthawal/news/charthawal-gyana-majra-fireworks-clash-video-viral-police-probe-139339025.html",
-   "t": 1791846259000,
-   "time": "04:34",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.09
-  },
-  {
-   "id": "bh-chaubariyapatti-bariarpur-woman-death-suicide-case-police-investigation-139339014.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "चौबरियापट्टी में विवाहिता का शव फंदे से लटका मिला: मेडिकल कॉलेज पहुंचने से पहले डॉक्टरों ने मृत घोषित किया, दो साल पहले हुई थी शादी",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/bariarpur/news/chaubariyapatti-bariarpur-woman-death-suicide-case-police-investigation-139339014.html",
-   "t": 1791846231000,
-   "time": "04:33",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.08
-  },
-  {
-   "id": "bh-ajnar-budhorya-muhal-bharatnatyam-dance-jhansi-party-navdurga-utsav-139339000.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "अजनर के बुधोरया मुहाल में भारतनाट्यम् का आयोजन: झांसी की पार्टी देगी प्रस्तुति, रातभर चलेगा कार्यक्रम; भीड़ नियंत्रण को पुलिस भी रहेगी",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/mahoba/ajnar/news/ajnar-budhorya-muhal-bharatnatyam-dance-jhansi-party-navdurga-utsav-139339000.html",
-   "t": 1791846179000,
-   "time": "04:32",
-   "score": 8,
-   "tags": [
-    "CG",
     "HINDI",
     "CRIME"
    ],
@@ -125,30 +118,583 @@
    "match": 0.06
   },
   {
-   "id": "bh-patti-police-security-check-durga-puja-pandal-guidelines-update-139338993.html",
+   "id": "bh-kanpur-rape-victim-threat-case-gangster-ajay-thakur-video-fir-139339548.html",
    "src": "bh",
    "pub": "Bhaskar",
-   "title": "पट्टी पुलिस ने दुर्गा पूजा पंडालों का निरीक्षण किया: नवरात्रि पर सुरक्षा व्यवस्था जांची, आयोजकों को दिए निर्देश",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/pratapgarh/pattigramin/news/patti-police-security-check-durga-puja-pandal-guidelines-update-139338993.html",
-   "t": 1791846162000,
-   "time": "04:32",
+   "title": "गैंगस्टर बोला-नाम गूगल सर्च कर लेना, लाशें नही मिलेंगी: कानपुर में रेप पीड़िता के घर गुर्गों के साथ पहुंचा, VIDEO, 3 पर FIR",
+   "url": "https://www.bhaskar.com/local/uttar-pradesh/kanpur/news/kanpur-rape-victim-threat-case-gangster-ajay-thakur-video-fir-139339548.html",
+   "t": 1791874860000,
+   "time": "12:31",
+   "score": 5,
+   "tags": [
+    "HINDI",
+    "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "au-meerut-news-today-live-latest-and-breaking-crime-shiksha-politics-meerut-samachar-in-hindi-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Meerut News Today Live मेरठ और आसपास की ताजा और अहम खबरें, पढ़ें 13 अक्टूबर को आपके शहर में क्या हुआ",
+   "url": "https://www.amarujala.com/live/uttar-pradesh/meerut/meerut-news-today-live-latest-and-breaking-crime-shiksha-politics-meerut-samachar-in-hindi-2026-10-13",
+   "t": 1791874839000,
+   "time": "12:30",
+   "score": 5,
+   "tags": [
+    "HINDI",
+    "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.06
+  },
+  {
+   "id": "au-world-updates-doval-iran-talk-west-asia-tension-russia-ukraine-poland-china-nepal-polity-crime-and-other-news-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "अंतरराष्ट्रीय सुर्खियां डोभाल,ईरानी समकक्ष के बीच वार्ता; काला सागर में दो जहाजों पर ड्रोन हमला, एक डूबा",
+   "url": "https://www.amarujala.com/world/world-updates-doval-iran-talk-west-asia-tension-russia-ukraine-poland-china-nepal-polity-crime-and-other-news-2026-10-13",
+   "t": 1791874812000,
+   "time": "12:30",
+   "score": 12,
+   "tags": [
+    "MP",
+    "CRIME",
+    "ACC",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "bh-rajasthan-politics-hanuman-beniwal-kisan-andolan-naresh-meena-ravindra-bhati-baat-khari-hai-139342053.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "पीली पगड़ी बांध हनुमान बेनीवाल ने संभाला 'मोर्चा': भाटी-मीणा का 'मिक्स जूस'; BJP नेता रामलाल शर्मा की 'स्पीड'",
+   "url": "https://www.bhaskar.com/local/rajasthan/news/rajasthan-politics-hanuman-beniwal-kisan-andolan-naresh-meena-ravindra-bhati-baat-khari-hai-139342053.html",
+   "t": 1791874697000,
+   "time": "12:28",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.09
+  },
+  {
+   "id": "au-kota-police-constable-arrested-in-smuggling-deal-14-lakh-cash-recovered-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "राजस्थान तस्करी के सौदे में पुलिस कांस्टेबल गिरफ्तार, 14 लाख रुपये नकद बरामद",
+   "url": "https://www.amarujala.com/rajasthan/kota-police-constable-arrested-in-smuggling-deal-14-lakh-cash-recovered-2026-10-13",
+   "t": 1791874557000,
+   "time": "12:25",
+   "score": 8,
+   "tags": [
+    "RAJ",
+    "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.47,
+   "patrikaMatch": {
+    "title": "राजस्थान में खाकी पर दाग! तस्करी का सौदा करते 14 लाख रुपए कैश के साथ कांस्टेबल गिरफ्तार",
+    "url": "https://www.patrika.com/jhalawar-news/rajasthan-cop-caught-red-handed-with-rs-14-lakh-cash-in-smuggling-deal-20980095"
+   }
+  },
+  {
+   "id": "au-jalaun-farmers-left-wandering-for-seven-day-commotion-at-kusmilia-society-police-bring-situation-under-control-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "जालौन में खाद के लिए हाहाकार सात दिन से भटक रहे किसान, कुसमिलिया समिति पर हंगामा, पुलिस ने संभाली स्थिति",
+   "url": "https://www.amarujala.com/uttar-pradesh/kanpur/jalaun-farmers-left-wandering-for-seven-day-commotion-at-kusmilia-society-police-bring-situation-under-control-2026-10-13",
+   "t": 1791874506000,
+   "time": "12:25",
+   "score": 5,
+   "tags": [
+    "HINDI",
+    "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.1
+  },
+  {
+   "id": "au-unidentified-man-s-body-found-near-shahdara-cut-in-agra-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "आगरा न्यूज शाहदरा कट पर मिला अज्ञात युवक का शव, शिनाख्त के प्रयास में जुटी पुलिस",
+   "url": "https://www.amarujala.com/uttar-pradesh/agra/unidentified-man-s-body-found-near-shahdara-cut-in-agra-2026-10-13",
+   "t": 1791874316000,
+   "time": "12:21",
+   "score": 8,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.06
+  },
+  {
+   "id": "au-old-man-body-found-cot-eldest-son-accuses-younger-brother-of-murder-meeting-held-regarding-sale-of-land-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "यूपी चारपाई पर मिला वृद्ध का शव, बड़े बेटे ने छोटे भाई पर लगाया हत्या का आरोप; जमीन बेचने को हुई थी पंचायत",
+   "url": "https://www.amarujala.com/uttar-pradesh/varanasi/old-man-body-found-cot-eldest-son-accuses-younger-brother-of-murder-meeting-held-regarding-sale-of-land-2026-10-13",
+   "t": 1791874159000,
+   "time": "12:19",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.2
+  },
+  {
+   "id": "nbt-134910475.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "क्या है दिल्ली की 'दुर्गा' योजना? महिलाओं और ट्रांसजेंडर्स को मिलेंगे ई-ऑटो, पोर्टल हुआ लॉन्च",
+   "url": "https://navbharattimes.indiatimes.com/government-schemes/delhi/durga-yojana-portal-launched-in-delhi-women-and-transgenders-to-get-e-auto/articleshow/134910475.cms",
+   "t": 1791874158000,
+   "time": "12:19",
+   "score": 5,
+   "tags": [
+    "CG",
+    "HINDI"
+   ],
+   "status": "GAP",
+   "match": 0.11
+  },
+  {
+   "id": "au-meerut-class-7-student-anushka-becomes-one-day-executive-officer-of-mawana-municipality-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "मेरठ नवरात्रि पर कक्षा 7 की अनुष्का बनीं एक दिन की EO, मवाना नगर पालिका की संभाली कमान; जानीं जनसमस्याएं",
+   "url": "https://www.amarujala.com/uttar-pradesh/meerut/meerut-class-7-student-anushka-becomes-one-day-executive-officer-of-mawana-municipality-2026-10-13",
+   "t": 1791874148000,
+   "time": "12:19",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "HINDI"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "nbt-134910451.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "पूर्व गृह मंत्री नरोत्तम मिश्रा लिफ्ट में फंसे, कोचिंग सेंटर का पहुंचे थे फीता काटने, ऐसे निकाला गया बाहर",
+   "url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/gwalior/ex-home-minister-narottam-mishra-trapped-in-lift-in-gwalior-narrowly-escaped-during-coaching-center-inauguration/articleshow/134910451.cms",
+   "t": 1791874058000,
+   "time": "12:17",
+   "score": 5,
+   "tags": [
+    "MP",
+    "ENT"
+   ],
+   "status": "GAP",
+   "match": 0.07
+  },
+  {
+   "id": "au-video-molestation-of-innocent-girl-accused-arrested-in-varanasi-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "पांच साल की बच्ची से छेड़खानी, आरोपी गिरफ्तार; VIDEO",
+   "url": "https://www.amarujala.com/video-shots/uttar-pradesh/varanasi/video-molestation-of-innocent-girl-accused-arrested-in-varanasi-2026-10-13",
+   "t": 1791874046000,
+   "time": "12:17",
+   "score": 5,
+   "tags": [
+    "HINDI",
+    "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.23
+  },
+  {
+   "id": "nbt-134910495.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "Video: आरा में दुर्गा पूजा में माहौल बिगड़ने की कोशिश, असामाजिक तत्वों ने पंडाल में लगाई आग",
+   "url": "https://navbharattimes.indiatimes.com/state/bihar/ara/miscreants-tried-to-torch-durga-puja-pandal-in-ara/videoshow/134910495.cms",
+   "t": 1791873955000,
+   "time": "12:15",
    "score": 8,
    "tags": [
     "CG",
     "HINDI",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.11
+  },
+  {
+   "id": "abp-allahabad-high-court-praises-azamgarh-ssp-adopts-triple-murder-ictims-daughters-ann-3201408",
+   "src": "abp",
+   "pub": "ABP Live",
+   "title": "allahabad high court praises azamgarh ssp adopts triple murder ictims daughters ann",
+   "url": "https://www.abplive.com/states/up-uk/allahabad-high-court-praises-azamgarh-ssp-adopts-triple-murder-ictims-daughters-ann-3201408",
+   "t": 1791873881000,
+   "time": "12:14",
+   "score": 7,
+   "tags": [
+    "CRIME",
+    "POL",
+    "CRK"
+   ],
+   "status": "GAP",
+   "match": 0.17
+  },
+  {
+   "id": "nbt-134909887.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "बीजेपी जिलाध्यक्ष को कहा 'शराबी', फिर थाने के अंदर गूंजी हनुमान चालीसा, 4 घंटे चले ड्रामे के बाद आधी रात CI सस्पेंड",
+   "url": "https://navbharattimes.indiatimes.com/state/rajasthan/baran/baran-atru-police-station-bjp-protest-ci-ashok-verma-line-hazir/articleshow/134909887.cms",
+   "t": 1791873679000,
+   "time": "12:11",
+   "score": 10,
+   "tags": [
+    "RAJ",
+    "CRIME",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.06
+  },
+  {
+   "id": "au-jaisalmer-transformer-oil-theft-police-chase-three-accused-caught-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "राजस्थान 100 किलोमीटर पीछा कर पुलिस ने पकड़े ट्रांसफॉर्मर तेल चुरा रहे तीन बदमाश",
+   "url": "https://www.amarujala.com/rajasthan/jaisalmer/jaisalmer-transformer-oil-theft-police-chase-three-accused-caught-2026-10-13",
+   "t": 1791873664000,
+   "time": "12:11",
+   "score": 8,
+   "tags": [
+    "RAJ",
     "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.1
+  },
+  {
+   "id": "at-bhadohi-ex-bahubali-mla-vijay-mishra-acquitted-in-many-cases-know-details-lclam-strc-2669205-2026-10-13",
+   "src": "at",
+   "pub": "Aaj Tak",
+   "title": "यूपी: पूर्व बाहुबली विधायक विजय मिश्रा को राहत, इन मामलों में दोषमुक्त; फिलहाल आगरा जेल में है बंद",
+   "url": "https://www.aajtak.in/uttar-pradesh/story/bhadohi-ex-bahubali-mla-vijay-mishra-acquitted-in-many-cases-know-details-lclam-strc-2669205-2026-10-13",
+   "t": 1791873564000,
+   "time": "12:09",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "ACC",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.08
+  },
+  {
+   "id": "au-varanasi-news-hearing-today-case-misdeed-female-student-three-people-including-two-juveniles-dead-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "वाराणसी समाचार छात्रा से सामूहिक दुष्कर्म केस में सुनवाई आज, दो किशोर सहित तीन की मौत; एक में हत्या का आरोप",
+   "url": "https://www.amarujala.com/uttar-pradesh/varanasi/varanasi-news-hearing-today-case-misdeed-female-student-three-people-including-two-juveniles-dead-2026-10-13",
+   "t": 1791873530000,
+   "time": "12:08",
+   "score": 8,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "ACC"
    ],
    "status": "GAP",
    "match": 0.14
   },
   {
-   "id": "bh-achalda-salempur-madaiya-dharmendra-death-postmortem-report-update-139338943.html",
+   "id": "au-elderly-man-returning-after-watching-durga-puja-and-ramlila-sonbhadra-died-collision-involving-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "सोनभद्र दुर्गा पूजा और रामलीला देखकर लौट रहे बुजुर्ग की दो बाइकों की टक्कर में मौत, चार घायल",
+   "url": "https://www.amarujala.com/uttar-pradesh/sonebhadra/elderly-man-returning-after-watching-durga-puja-and-ramlila-sonbhadra-died-collision-involving-2026-10-13",
+   "t": 1791873414000,
+   "time": "12:06",
+   "score": 8,
+   "tags": [
+    "CG",
+    "HINDI",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.18
+  },
+  {
+   "id": "abp-lucknow-shiva-sharma-murder-girlfriend-shraddha-dubey-lifestyle-alcohol-and-cigarette-ann-3201402",
+   "src": "abp",
+   "pub": "ABP Live",
+   "title": "lucknow shiva sharma murder girlfriend shraddha dubey lifestyle alcohol and cigarette ann",
+   "url": "https://www.abplive.com/states/up-uk/lucknow-shiva-sharma-murder-girlfriend-shraddha-dubey-lifestyle-alcohol-and-cigarette-ann-3201402",
+   "t": 1791873409000,
+   "time": "12:06",
+   "score": 5,
+   "tags": [
+    "HINDI",
+    "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.09
+  },
+  {
+   "id": "au-two-youths-were-taken-into-custody-this-morning-after-threatening-a-guard-with-a-knife-near-the-medical-college-icu-shahdol-news-c-1-1-noi1220-4827861-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "शहडोल गुटखा थूकने के विवाद में मेडिकल कॉलेज के सुरक्षाकर्मी पर ताना चाकू, पुलिस ने शिकंजे में लिया",
+   "url": "https://www.amarujala.com/madhya-pradesh/shahdol/two-youths-were-taken-into-custody-this-morning-after-threatening-a-guard-with-a-knife-near-the-medical-college-icu-shahdol-news-c-1-1-noi1220-4827861-2026-10-13",
+   "t": 1791873242000,
+   "time": "12:04",
+   "score": 7,
+   "tags": [
+    "MP",
+    "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "au-bihar-news-youth-dead-body-found-rajbandh-canal-lachhuar-in-jamui-news-munger-news-c-1-1-noi1245-4827877-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "बिहार नहर में मिला युवक का शव, हत्या कर फेंकने का आरोप; रातभर तलाशते रहे परिजन",
+   "url": "https://www.amarujala.com/bihar/munger/bihar-news-youth-dead-body-found-rajbandh-canal-lachhuar-in-jamui-news-munger-news-c-1-1-noi1245-4827877-2026-10-13",
+   "t": 1791873022000,
+   "time": "12:00",
+   "score": 5,
+   "tags": [
+    "HINDI",
+    "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "abp-delhi-protests-remind-one-of-2011-anna-movement-will-history-repeat-itself-upa-nda-modi-government-rahul-gandhi-cjp-explained-3201143",
+   "src": "abp",
+   "pub": "ABP Live",
+   "title": "delhi protests remind one of 2011 anna movement will history repeat itself upa nda modi government rahul gandhi cjp explained",
+   "url": "https://www.abplive.com/news/india/delhi-protests-remind-one-of-2011-anna-movement-will-history-repeat-itself-upa-nda-modi-government-rahul-gandhi-cjp-explained-3201143",
+   "t": 1791872914000,
+   "time": "11:58",
+   "score": 6,
+   "tags": [
+    "POL",
+    "CRK",
+    "MONEY"
+   ],
+   "status": "GAP",
+   "match": 0.17
+  },
+  {
+   "id": "au-video-video-gauu-ghata-para-magaramacachha-thakhana-oura-bcaca-ka-dabna-ka-btha-bha-nava-sa-natha-para-kara-raha-lga-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Video गऊ घाट पर मगरमच्छ दिखने और बच्चे के डूबने के बाद भी नाव से नदी पार कर रहे लोग",
+   "url": "https://www.amarujala.com/video/lucknow/video-video-gauu-ghata-para-magaramacachha-thakhana-oura-bcaca-ka-dabna-ka-btha-bha-nava-sa-natha-para-kara-raha-lga-2026-10-13",
+   "t": 1791872900000,
+   "time": "11:58",
+   "score": 5,
+   "tags": [
+    "HINDI",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.06
+  },
+  {
+   "id": "at-breaking-bad-actor-rj-mitte-walter-white-junior-death-suicide-bryan-cranston-rttm-strc-2669142-2026-10-13",
+   "src": "at",
+   "pub": "Aaj Tak",
+   "title": "'ब्रेकिंग बैड' एक्टर ने की आत्महत्या, ऑनस्क्रीन पिता बोले- दिल दुखता है",
+   "url": "https://www.aajtak.in/entertainment/news/story/breaking-bad-actor-rj-mitte-walter-white-junior-death-suicide-bryan-cranston-rttm-strc-2669142-2026-10-13",
+   "t": 1791872835000,
+   "time": "11:57",
+   "score": 6,
+   "tags": [
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.14
+  },
+  {
+   "id": "au-video-case-of-teenage-girl-death-in-raebareli-family-adamant-on-demands-for-enhanced-charges-and-compensation-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "रायबरेली में किशोरी की मौत का मामला, धाराएं बढ़ाने और मुआवजे की मांग पर अड़े परिजन, अंतिम संस्कार से इनकार",
+   "url": "https://www.amarujala.com/video/uttar-pradesh/raebareli/video-case-of-teenage-girl-death-in-raebareli-family-adamant-on-demands-for-enhanced-charges-and-compensation-2026-10-13",
+   "t": 1791872774000,
+   "time": "11:56",
+   "score": 5,
+   "tags": [
+    "HINDI",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.09
+  },
+  {
+   "id": "zee-3306589",
+   "src": "zee",
+   "pub": "Zee News Hindi",
+   "title": "घर में चल रही परेशानियों का कारण मानते थे आरोपी, कुल्हाड़ी से हमलाकर की मां-बेटे की हत्या, जादू-टोना के शक में हंसता खेलता परिवार तबाह",
+   "url": "https://zeenews.india.com/hindi/india/chhattisgarh/rajnandgaon-dongargarh-mother-and-son-murdered-on-suspicion-of-witchcraft-3-arrested/3306589",
+   "t": 1791872570000,
+   "time": "11:52",
+   "score": 8,
+   "tags": [
+    "CG",
+    "CRIME",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.1
+  },
+  {
+   "id": "bh-bayana-bharatpur-bjp-leader-atar-singh-bhadana-murder-cctv-dvr-139342025.html",
    "src": "bh",
    "pub": "Bhaskar",
-   "title": "अछल्दा में युवक की संदिग्ध हालात में मौत: पिता ने खेत में पड़ा देखा शव, पुलिस को पोस्टमार्टम रिपोर्ट का इंतजार",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/auraiya/achalda/news/achalda-salempur-madaiya-dharmendra-death-postmortem-report-update-139338943.html",
-   "t": 1791845940000,
-   "time": "04:29",
+   "title": "पूर्व-विधायक का पीछा करते हुए घर में घुसी थी भीड़: अतर सिंह का सिर फोड़ा, शरीर के हर हिस्से पर वार; घर जलाया, पत्नी पर भी हमला",
+   "url": "https://www.bhaskar.com/local/rajasthan/news/bayana-bharatpur-bjp-leader-atar-singh-bhadana-murder-cctv-dvr-139342025.html",
+   "t": 1791872469000,
+   "time": "11:51",
+   "score": 12,
+   "tags": [
+    "RAJ",
+    "CRIME",
+    "POL",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.11
+  },
+  {
+   "id": "nbt-134909915.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "आगरा में ढाबा कर्मी बिट्टू लवानिया की हुई थी हत्या, पुलिस ने अब सिपाही जैकी चौधरी को प्रयागराज से किया गिरफ्तार",
+   "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/agra/dhaba-worker-bittu-lavania-murder-case-constable-jacky-chaudhary-arrested-from-prayagraj/articleshow/134909915.cms",
+   "t": 1791872420000,
+   "time": "11:50",
+   "score": 8,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.08
+  },
+  {
+   "id": "au-cm-yogi-bareilly-visit-gram-prahari-salary-increase-3500-rupees-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "बरेली में सीएम योगी बोले- यूपी में सुरक्षा का माहौल, अब उपद्रव भूल गए लोग; ग्राम प्रहरियों को किया सम्मानित",
+   "url": "https://www.amarujala.com/uttar-pradesh/bareilly/cm-yogi-bareilly-visit-gram-prahari-salary-increase-3500-rupees-2026-10-13",
+   "t": 1791872408000,
+   "time": "11:50",
+   "score": 6,
+   "tags": [
+    "HINDI",
+    "POL",
+    "MONEY"
+   ],
+   "status": "GAP",
+   "match": 0.11
+  },
+  {
+   "id": "au-apricot-walnut-orchards-soil-carbon-storage-study-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "हिमाचल प्रदेश खुबानी और अखरोट के बगीचे मिट्टी में जमा करते हैं ज्यादा कार्बन, सेब से आगे निकले दोनों फल",
+   "url": "https://www.amarujala.com/shimla/apricot-walnut-orchards-soil-carbon-storage-study-2026-10-13",
+   "t": 1791872384000,
+   "time": "11:49",
+   "score": 5,
+   "tags": [
+    "ACC",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.06
+  },
+  {
+   "id": "au-history-of-world-literature-yasunari-kawabata-and-ernest-hemingway-suicide-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "विश्व साहित्य का आकाश प्रसिद्धि के बावजूद आत्महत्या",
+   "url": "https://www.amarujala.com/columns/blog/history-of-world-literature-yasunari-kawabata-and-ernest-hemingway-suicide-2026-10-13",
+   "t": 1791872113000,
+   "time": "11:45",
+   "score": 5,
+   "tags": [
+    "CRIME",
+    "MONEY"
+   ],
+   "status": "GAP",
+   "match": 0.07
+  },
+  {
+   "id": "nbt-134909851.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "पंजाब में एंटी ड्रग्स एक्टिविस्ट परविंदर सिंह झोटा की हत्या, मेडिकल स्टोर पर मारी गोली",
+   "url": "https://navbharattimes.indiatimes.com/state/punjab-and-haryana/chandigarh/punjab-anti-drug-activist-parvinder-singh-jhotta-shot-dead-at-medical-store/articleshow/134909851.cms",
+   "t": 1791871989000,
+   "time": "11:43",
+   "score": 6,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "ENT"
+   ],
+   "status": "COVERED",
+   "match": 0.58,
+   "patrikaMatch": {
+    "title": "पंजाब में नशे के खिलाफ आवाज उठाने वाले परविंदर झोटा की गोली मारकर हत्या, मेडिकल स्टोर संचालक पर आरोप",
+    "url": "https://www.patrika.com/bhatinda-news/parwinder-singh-jhota-murder-punjab-mansa-20980319"
+   }
+  },
+  {
+   "id": "au-jairam-ramesh-slams-modi-government-over-rising-inflation-retail-inflation-surge-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "&#39;झोला उठाने का वक्त आ गया&#39; महंगाई के आंकड़ों को लेकर सरकार पर हमलवार कांग्रेस, आईएमएफ रिपोर्ट पर क्या कहा",
+   "url": "https://www.amarujala.com/india-news/jairam-ramesh-slams-modi-government-over-rising-inflation-retail-inflation-surge-2026-10-13",
+   "t": 1791871984000,
+   "time": "11:43",
+   "score": 6,
+   "tags": [
+    "POL",
+    "CRK",
+    "MONEY"
+   ],
+   "status": "GAP",
+   "match": 0.15
+  },
+  {
+   "id": "abp-patna-neet-student-death-cbi-closure-report-court-hearing-ann-3201382",
+   "src": "abp",
+   "pub": "ABP Live",
+   "title": "patna neet student death cbi closure report court hearing ann",
+   "url": "https://www.abplive.com/states/bihar/patna-neet-student-death-cbi-closure-report-court-hearing-ann-3201382",
+   "t": 1791871813000,
+   "time": "11:40",
    "score": 10,
    "tags": [
     "HINDI",
@@ -157,478 +703,153 @@
     "MONEY"
    ],
    "status": "GAP",
-   "match": 0.13
+   "match": 0.2
   },
   {
-   "id": "bh-bochahan-police-flag-march-durga-puja-mlc-election-visit-139338911.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "दुर्गापूजा, MLC चुनाव को लेकर पुलिस का फ्लैग मार्च: बोचहां के कई इलाकों में भ्रमण, पूजा पंडालों का निरीक्षण किया",
-   "url": "https://www.bhaskar.com/local/bihar/muzaffarpur/bochaha/news/bochahan-police-flag-march-durga-puja-mlc-election-visit-139338911.html",
-   "t": 1791845798000,
-   "time": "04:26",
-   "score": 10,
-   "tags": [
-    "CG",
-    "HINDI",
-    "CRIME",
-    "POL"
-   ],
-   "status": "GAP",
-   "match": 0.1
-  },
-  {
-   "id": "bh-pariyawan-matamaiya-dham-nav-durga-pandal-mahakal-shivling-darshan-139338909.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "परियावां के मातामैया धाम में युवा लड़कों ने सजाया पंडाल: नव दुर्गा के साथ उज्जैन के महाकाल शिवलिंग के दर्शन कर रहे भक्त",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/pratapgarh/kalakankar/news/pariyawan-matamaiya-dham-nav-durga-pandal-mahakal-shivling-darshan-139338909.html",
-   "t": 1791845797000,
-   "time": "04:26",
-   "score": 9,
+   "id": "au-bageshwar-dham-sanatan-hindu-ekta-yatra-reaches-damoh-today-damoh-news-c-1-1-noi1513-4827860-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "बागेश्वर सरकार की यात्रा दमोह पहुंची श्रद्धालुओं में भारी उत्साह, हटा में हुआ जोरदार स्वागत और दिव्य दरबार",
+   "url": "https://www.amarujala.com/video/madhya-pradesh/damoh/bageshwar-dham-sanatan-hindu-ekta-yatra-reaches-damoh-today-damoh-news-c-1-1-noi1513-4827860-2026-10-13",
+   "t": 1791871640000,
+   "time": "11:37",
+   "score": 6,
    "tags": [
     "MP",
-    "CG",
-    "HINDI"
-   ],
-   "status": "GAP",
-   "match": 0.07
-  },
-  {
-   "id": "bh-agra-aligarh-highway-truck-driver-murder-case-police-custody-139338904.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "पत्थरों पर मिला ट्रक चालक का शव, हत्या की आशंका: आगरा-अलीगढ़ हाईवे की घटना, परिचालक हिरासत में",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/agra/kaveri-kunj-shalimar/news/agra-aligarh-highway-truck-driver-murder-case-police-custody-139338904.html",
-   "t": 1791845785000,
-   "time": "04:26",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "bh-meja-durga-puja-maa-brahmacharini-puja-bhaktimay-mahaul-update-139338890.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "मेजा में मां ब्रह्मचारिणी की पूजा, पंडालों में भीड़: शाम की आरती में उमड़े श्रद्धालु, वैदिक मंत्रोच्चार से गूंजे पंडाल, पुलिस भी सक्रिय",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/prayagraj/uruwa/news/meja-durga-puja-maa-brahmacharini-puja-bhaktimay-mahaul-update-139338890.html",
-   "t": 1791845696000,
-   "time": "04:24",
-   "score": 8,
-   "tags": [
-    "CG",
-    "HINDI",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.06
-  },
-  {
-   "id": "bh-bhatni-ghanti-bazaar-candle-march-tribute-youth-players-accident-139338877.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "चार युवा खिलाड़ियों की मौत से क्षेत्र में शोक: घांटी बाजार में हनुमान मंदिर चौराहे से पुलिस चौकी तक निकला कैंडल मार्च, हाथों में मोमबत्तियां लेकर लोगों ने दी श्रद्धांजलि",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/bhatni/news/bhatni-ghanti-bazaar-candle-march-tribute-youth-players-accident-139338877.html",
-   "t": 1791845632000,
-   "time": "04:23",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.12
-  },
-  {
-   "id": "bh-siwalkhas-infant-murder-case-father-custody-police-investigation-139338873.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "3 माह के मासूम की मौत,पिता पर हत्या का आरोप: सिवालखास में मां और मायके वालों के आरोप पर पुलिस ने पिता को हिरासत में लिया",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/meerut/janikhurd/news/siwalkhas-infant-murder-case-father-custody-police-investigation-139338873.html",
-   "t": 1791845612000,
-   "time": "04:23",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.14
-  },
-  {
-   "id": "bh-agra-balkeshwar-parshad-pati-girraj-bansal-whatsapp-hack-scam-alert-139338872.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "भाजपा के पूर्व मंडल अध्यक्ष का व्हाट्सएप हैक: पार्षद पति गिर्राज बंसल के नंबर से मांगे जा रहे पैसे, लोगों को किया अलर्ट",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/agra/lohia-nagar-radha-nagar/news/agra-balkeshwar-parshad-pati-girraj-bansal-whatsapp-hack-scam-alert-139338872.html",
-   "t": 1791845609000,
-   "time": "04:23",
-   "score": 9,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "POL",
     "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.19
-  },
-  {
-   "id": "bh-bhatni-jungli-jalpa-durga-mandir-navratri-shringar-darshan-update-139338853.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "शारदीय नवरात्र के दूसरे दिन मां ब्रह्मचारिणी के हुए दर्शन: भव्य शृंगार और कन्याओं के स्वरूप ने मोहा मन, भटनी में पुलिस प्रशासन रहा सतर्क",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/bhatni/news/bhatni-jungli-jalpa-durga-mandir-navratri-shringar-darshan-update-139338853.html",
-   "t": 1791845512000,
-   "time": "04:21",
-   "score": 8,
-   "tags": [
-    "CG",
-    "HINDI",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.16
-  },
-  {
-   "id": "bh-kanpur-sagar-highway-bidhnu-accident-bike-collision-elderly-injured-139338849.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "तेज रफ्तार बाइक ने 60 वर्षीय वृद्ध को मारी टक्कर: कानपुर-सागर हाईवे पर बिधनू बाजार के पास गंभीर घायल, जिला अस्पताल किया रेफर",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/kanpur/vidhnu/news/kanpur-sagar-highway-bidhnu-accident-bike-collision-elderly-injured-139338849.html",
-   "t": 1791845493000,
-   "time": "04:21",
-   "score": 9,
-   "tags": [
-    "MP",
-    "HINDI",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.14
-  },
-  {
-   "id": "bh-shardiya-navratri-udaypur-bidhnu-kanpur-maa-durga-puja-utsav-139338848.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "नव दुर्गा पूजा सेवा समिति ने मूर्ति स्थापित की: बिधनू में शारदीय नवरात्रि पर पूरा गांव भक्तिमय हुआ, नौ दिन चलेगा पाठ-कीर्तन",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/kanpur/udaipur/news/shardiya-navratri-udaypur-bidhnu-kanpur-maa-durga-puja-utsav-139338848.html",
-   "t": 1791845477000,
-   "time": "04:21",
-   "score": 10,
-   "tags": [
-    "RAJ",
-    "CG",
-    "HINDI"
-   ],
-   "status": "GAP",
-   "match": 0.12
-  },
-  {
-   "id": "bh-sambhal-moradabad-road-accident-mainather-swift-car-death-news-139338846.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "मैनाठेर में स्विफ्ट कार की टक्कर से बुजुर्ग की मौत: संभल-मुरादाबाद मार्ग पर हादसा, पुलिस ने कार और चालक को पकड़ा",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/moradabad/kundarki/news/sambhal-moradabad-road-accident-mainather-swift-car-death-news-139338846.html",
-   "t": 1791845467000,
-   "time": "04:21",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "bh-bagoda-car-accident-youth-trapped-pole-hospitalized-139338845.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "बागोड़ा में बेकाबू कार ने युवक को रौंदा: पेड-पोल के बीच फंसा; लोगों ने बाहर निकाला, अस्पताल रेफर",
-   "url": "https://www.bhaskar.com/local/rajasthan/jalore/bagaura/news/bagoda-car-accident-youth-trapped-pole-hospitalized-139338845.html",
-   "t": 1791845464000,
-   "time": "04:21",
-   "score": 8,
-   "tags": [
-    "RAJ",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "bh-maharajganj-road-accident-bike-collision-youth-injured-police-investigation-139338844.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "महराजगंज में तेज रफ्तार वाहन ने बाइक को मारी टक्कर: युवक की जांघ की हड्डी टूटी, दूसरा घायल; पुलिस ने जांच शुरू की",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/jaunpur/maharajganj/news/maharajganj-road-accident-bike-collision-youth-injured-police-investigation-139338844.html",
-   "t": 1791845463000,
-   "time": "04:21",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.1
-  },
-  {
-   "id": "bh-pilibhit-amariya-ramleela-mela-firing-dispute-crime-news-update-139338812.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "पीलीभीत में फायरिंग में तीन की मौत: मेले के हिसाब-किताब को लेकर दो पक्षों में हुआ था विवाद, चौथे घायल का इलाज जारी",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/pilibhit/news/pilibhit-amariya-ramleela-mela-firing-dispute-crime-news-update-139338812.html",
-   "t": 1791845185000,
-   "time": "04:16",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
    ],
    "status": "GAP",
    "match": 0.09
   },
   {
-   "id": "bh-savayajpur-bhupatipur-nagla-man-drowns-pond-wife-alleges-murder-139338802.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "सवायजपुर में अधेड़ की तालाब में डूबने से मौत: पत्नी ने ई-रिक्शा चालक पर धक्का देने का आरोप लगाया, 5 बच्चों के सिर से उठा पिता का साया",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/hardoi/bharakhani/news/savayajpur-bhupatipur-nagla-man-drowns-pond-wife-alleges-murder-139338802.html",
-   "t": 1791845131000,
-   "time": "04:15",
-   "score": 8,
+   "id": "au-sri-lanka-announce-squad-for-pakistan-test-series-kusal-mendis-replaces-dhananjaya-de-silva-as-captain-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "पाकिस्तान के खिलाफ सीरीज दो टेस्ट के लिए श्रीलंकाई टीम का एलान, धनंजय से कप्तानी छिनी, कौन बना नया कैप्टन",
+   "url": "https://www.amarujala.com/cricket/sri-lanka-announce-squad-for-pakistan-test-series-kusal-mendis-replaces-dhananjaya-de-silva-as-captain-2026-10-13",
+   "t": 1791871533000,
+   "time": "11:35",
+   "score": 6,
    "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
+    "WAR",
+    "CRK",
+    "MONEY"
    ],
    "status": "GAP",
-   "match": 0.19
+   "match": 0.36,
+   "patrikaMatch": {
+    "title": "पाकिस्तान दौरे के लिए श्रीलंका की टेस्ट टीम घोषित, ईशान मलिंगा और अंजला बंडारा को मौका",
+    "url": "https://www.patrika.com/cricket-news/sri-lanka-test-squad-announced-pakistan-tour-eshan-malinga-anjala-bandara-20980355"
+   }
   },
   {
-   "id": "bh-lalitpur-pipra-village-man-found-hanging-death-case-139338789.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "ललितपुर में पेड़ से लटका मिला युवक का शव: पुलिस ने शव को पोस्टमार्टम के लिए भेजा, जांच जारी",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/lalitpur/jakhaura/news/lalitpur-pipra-village-man-found-hanging-death-case-139338789.html",
-   "t": 1791845050000,
-   "time": "04:14",
-   "score": 8,
+   "id": "nbt-134909231.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "डेप्युटी सीएम के OSD रहे दीपक रायचूरा सस्पेंड, शराब ठेके के फर्जीवाड़े में फंसा नाम, फर्जी एफडीआर आई सामने",
+   "url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/bhopal/mp-excise-officer-deepak-raychura-suspended-over-fake-fdr-and-liquor-tender-scam-gwalior-bhopal/articleshow/134909231.cms",
+   "t": 1791871388000,
+   "time": "11:33",
+   "score": 7,
    "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "bh-jaipur-motidungri-ganesh-mandir-vipra-foundation-parshuram-utsav-139338666.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "जयपुर में निकली देव आमंत्रण परिक्रमा: मोतीडूंगरी गणेश जी को परशुराम आगमन उत्सव का दिया न्योता; देशभर में 20 अक्टूबर तक चलेगी",
-   "url": "https://www.bhaskar.com/local/rajasthan/jaipur/news/jaipur-motidungri-ganesh-mandir-vipra-foundation-parshuram-utsav-139338666.html",
-   "t": 1791844161000,
-   "time": "03:59",
-   "score": 8,
-   "tags": [
-    "RAJ",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.17
-  },
-  {
-   "id": "bh-bhagalpur-jagdishpur-railway-track-accident-death-update-139338649.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "रेलवे ट्रैक के किनारे मिला युवक का शव: ट्रेन से 100 मीटर तक घसीटने की आशंका, पोस्टमार्टम रिपोर्ट में होगा खुलासा",
-   "url": "https://www.bhaskar.com/local/bihar/bhagalpur/jagdishpur/news/bhagalpur-jagdishpur-railway-track-accident-death-update-139338649.html",
-   "t": 1791843993000,
-   "time": "03:56",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.21
-  },
-  {
-   "id": "bh-gaighat-nagar-panchayat-ward-by-election-security-check-co-kalwari-139338640.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "सीओ कलवारी ने गायघाट उपचुनाव पोलिंग बूथ का निरीक्षण किया: सुरक्षा व्यवस्था परखी, वार्ड 7 में कल 870 मतदाता करेंगे मतदान",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/gayghat/news/gaighat-nagar-panchayat-ward-by-election-security-check-co-kalwari-139338640.html",
-   "t": 1791843952000,
-   "time": "03:55",
-   "score": 11,
-   "tags": [
-    "RAJ",
-    "HINDI",
-    "POL",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.06
-  },
-  {
-   "id": "bh-jaunpur-muftiganj-accident-bike-rider-truck-collision-death-139338639.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "ट्रक की चपेट में आने से बाइक सवार घायल: जौनपुर में सिलेंडर लेकर घर लौट रहे थे, पुलिस ने ट्रक जब्त किया",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/jaunpur/ahan/news/jaunpur-muftiganj-accident-bike-rider-truck-collision-death-139338639.html",
-   "t": 1791843944000,
-   "time": "03:55",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.07
-  },
-  {
-   "id": "bh-modinagar-hapur-road-bullet-bike-theft-cctv-footage-ghaziabad-139338636.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "मोदीनगर में लाइब्रेरी के बाहर से बुलेट बाइक चोरी: हापुड़ रोड पर खड़ी बाइक को दो चोर नीली स्कूटी पर आकर ले उड़े, CCTV में कैद",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/ghaziabad/bhojpur/news/modinagar-hapur-road-bullet-bike-theft-cctv-footage-ghaziabad-139338636.html",
-   "t": 1791843935000,
-   "time": "03:55",
-   "score": 9,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "POL",
-    "CRK"
-   ],
-   "status": "GAP",
-   "match": 0.07
-  },
-  {
-   "id": "bh-tajganj-agra-durga-pandal-market-checking-yatendra-nagar-mission-shakti-139338632.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "ताजगंज पुलिस ने मिशन शक्ति के तहत चलाया चेकिंग अभियान: एसीपी यतेंद्र नागर के नेतृत्व में दुर्गा पंडालों और बाजारों में की जांच",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/agra/harjupura-dalihai/news/tajganj-agra-durga-pandal-market-checking-yatendra-nagar-mission-shakti-139338632.html",
-   "t": 1791843890000,
-   "time": "03:54",
-   "score": 8,
-   "tags": [
-    "CG",
-    "HINDI",
+    "MP",
     "CRIME"
    ],
    "status": "GAP",
-   "match": 0.06
+   "match": 0.08
   },
   {
-   "id": "bh-sarvajan-sanatan-party-up-election-nageshwar-rao-hindu-vote-bank-139338621.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "यूपी की 403 सीटों पर चुनाव लड़ेगी सर्वजन सनातन पार्टी: लखनऊ में पूर्व CBI निदेशक बोले- हिंदू बंधक वोट बैंक नहीं, भाजपा का एकाधिकार नहीं",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/sarvajan-sanatan-party-up-election-nageshwar-rao-hindu-vote-bank-139338621.html",
-   "t": 1791843794000,
-   "time": "03:53",
-   "score": 9,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "POL",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.17
-  },
-  {
-   "id": "bh-bettiah-police-custody-death-dilshad-ansari-case-suspended-139338618.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "बेतिया में पुलिस हिरासत में मौत पर 6 पुलिसकर्मी सस्पेंड: थानाध्यक्ष भी निलंबित, पुलिस का दावा- चलती गाड़ी से कूदे थे दिलशाद, परिजन बोले- मारपीट हुई",
-   "url": "https://www.bhaskar.com/local/bihar/bettiah/news/bettiah-police-custody-death-dilshad-ansari-case-suspended-139338618.html",
-   "t": 1791843784000,
-   "time": "03:53",
+   "id": "au-auraiya-shuttering-worker-dies-under-suspicious-circumstances-body-found-hanging-from-a-tree-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "औरैया शटरिंग मिस्त्री की संदिग्धावस्था में मौत, पेड़ से लटका मिला शव, फॉरेंसिक ने जुटाए साक्ष्य, जांच शुरू",
+   "url": "https://www.amarujala.com/uttar-pradesh/kanpur/auraiya-shuttering-worker-dies-under-suspicious-circumstances-body-found-hanging-from-a-tree-2026-10-13",
+   "t": 1791871372000,
+   "time": "11:32",
    "score": 8,
    "tags": [
     "HINDI",
     "CRIME",
     "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.14
-  },
-  {
-   "id": "bh-agra-douki-police-security-patrol-durga-pandal-abhishek-agarwal-139338610.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "डौकी में डीसीपी पूर्वी ने परखी सुरक्षा व्यवस्था: दुर्गा पंडालों का लिया जायजा, यमुना के बढ़े जलस्तर पर भी दिए निर्देश",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/agra/shamsabad/news/agra-douki-police-security-patrol-durga-pandal-abhishek-agarwal-139338610.html",
-   "t": 1791843732000,
-   "time": "03:52",
-   "score": 8,
-   "tags": [
-    "CG",
-    "HINDI",
-    "CRIME"
    ],
    "status": "GAP",
    "match": 0.1
   },
   {
-   "id": "bh-sant-kabir-nagar-nakha-village-child-death-durga-puja-pandal-accident-139338566.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "दुर्गा पंडाल में करंट लगने से मासूम की मौत: संतकबीर नगर में बच्चे की गई जान, परिवार में मातम",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/pauli/news/sant-kabir-nagar-nakha-village-child-death-durga-puja-pandal-accident-139338566.html",
-   "t": 1791843413000,
-   "time": "03:46",
-   "score": 8,
+   "id": "au-meerut-woman-dies-after-childbirth-nhrc-seeks-report-from-dm-over-alleged-loud-dj-noise-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "मेरठ डीजे की तेज आवाज से बिगड़ी महिला की हालत, प्रसव के एक घंटे बाद मौत, मानवाधिकार आयोग पहुंचा मामला",
+   "url": "https://www.amarujala.com/uttar-pradesh/meerut/meerut-woman-dies-after-childbirth-nhrc-seeks-report-from-dm-over-alleged-loud-dj-noise-2026-10-13",
+   "t": 1791871337000,
+   "time": "11:32",
+   "score": 7,
    "tags": [
-    "CG",
     "HINDI",
-    "ACC"
+    "ACC",
+    "MONEY"
    ],
    "status": "GAP",
-   "match": 0.13
+   "match": 0.11
   },
   {
-   "id": "bh-rohtas-manogi-bigha-girl-drowns-canal-search-operation-139338564.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "नहर में डूबी बच्ची, 30 घंटे बाद भी शव लापता: रोहतास में नवरात्र के लिए जल लेने के दौरान हुआ हादसा, अंधेरा होने से सर्च ऑपरेशन रुका",
-   "url": "https://www.bhaskar.com/local/bihar/rohtas/akorhi-gola/news/rohtas-manogi-bigha-girl-drowns-canal-search-operation-139338564.html",
-   "t": 1791843407000,
-   "time": "03:46",
+   "id": "nbt-134909187.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "हिंद महासागर क्षेत्र की चिंता होगी दूर; एक फैसले से भारत मित्र देशों का बनेगा मददगार, पाकिस्तान के लिए खतरा",
+   "url": "https://navbharattimes.indiatimes.com/india/indian-navy-domination-of-the-indian-ocean-region-kalvari-class-submarines/articleshow/134909187.cms",
+   "t": 1791871335000,
+   "time": "11:32",
    "score": 8,
    "tags": [
+    "MP",
+    "WAR",
+    "MONEY"
+   ],
+   "status": "GAP",
+   "match": 0.09
+  },
+  {
+   "id": "at-bahubali-truck-308-wheels-arrived-in-basti-from-belgium-via-odisha-biopolymer-machine-balrampur-sugar-mill-lclam-strc-2669178-2026-10-13",
+   "src": "at",
+   "pub": "Aaj Tak",
+   "title": "पेड़ कटे, बिजली गुल और थम गया ट्रैफिक... 308 पहियों वाले ट्रक के लिए रास्ता किया जा रहा क्लियर! रेंगता हुआ बढ़ रहा आगे",
+   "url": "https://www.aajtak.in/uttar-pradesh/story/bahubali-truck-308-wheels-arrived-in-basti-from-belgium-via-odisha-biopolymer-machine-balrampur-sugar-mill-lclam-strc-2669178-2026-10-13",
+   "t": 1791871299000,
+   "time": "11:31",
+   "score": 7,
+   "tags": [
     "HINDI",
-    "CRIME",
-    "ACC"
+    "ACC",
+    "CRK"
    ],
    "status": "GAP",
    "match": 0.06
   },
   {
-   "id": "bh-hardoi-history-sheeter-death-police-verification-beniganj-news-139338560.html",
+   "id": "nbt-134909311.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "'कांग्रेस से जीतीं, फिर बीजेपी से बनीं जिला प्रमुख, जानिए कौन हैं रमा चोपड़ा जिन्हें टिकट मिलने से तेज हुई हलचल",
+   "url": "https://navbharattimes.indiatimes.com/state/rajasthan/jaipur/who-is-rama-chopra-jaipur-zilla-parishad-election-2026-bjp-candidate/articleshow/134909311.cms",
+   "t": 1791871122000,
+   "time": "11:28",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.13
+  },
+  {
+   "id": "bh-up-chinese-manjha-death-cases-gorakhpur-varanasi-incident-police-action-ban-punishment-139342016.html",
    "src": "bh",
    "pub": "Bhaskar",
-   "title": "हरदोई में सिपाही से 'बढ़िया-हैं' कहते ही हिस्ट्रीशीटर की मौत: 24 मुकदमों का आरोपी था, पिता और दोनों भाइयों पर भी दर्जनों केस दर्ज",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/hardoi/news/hardoi-history-sheeter-death-police-verification-beniganj-news-139338560.html",
-   "t": 1791843383000,
-   "time": "03:46",
+   "title": "सरकारी वादे के बावजूद चाइनीज मांझे पर कानून नहीं: पुलिस बेबस, मर्डर की धारा नहीं लगा सकती; फिर कैसे बचेगी जान",
+   "url": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/up-chinese-manjha-death-cases-gorakhpur-varanasi-incident-police-action-ban-punishment-139342016.html",
+   "t": 1791871007000,
+   "time": "11:26",
    "score": 8,
    "tags": [
     "HINDI",
@@ -636,290 +857,171 @@
     "ACC"
    ],
    "status": "GAP",
-   "match": 0.13
+   "match": 0.33,
+   "patrikaMatch": {
+    "title": "चाइनीज मांझा के खिलाफ अभियान, वाराणसी में छोटे दुकानदारों को उठा रही पुलिस, बड़े मगरमच्छ पकड़ से दूर",
+    "url": "https://www.patrika.com/varanasi-news/varanasi-police-action-chinese-manjha-seizure-arrests-20979824"
+   }
   },
   {
-   "id": "bh-jharokhar-bike-theft-case-nepali-youth-arrested-pithwa-sainik-road-139338527.html",
+   "id": "bh-madhya-pradesh-politics-cm-bjp-mp-gaffe-video-controversy-baat-khari-hai-139342003.html",
    "src": "bh",
    "pub": "Bhaskar",
-   "title": "झरोखर में चोरी की बाइक के साथ नेपाली युवक गिरफ्तार: पिठवा सैनिक रोड पर HHD मशीन से जांच में पकड़ाया",
-   "url": "https://www.bhaskar.com/local/bihar/motihari/ghorasahan/news/jharokhar-bike-theft-case-nepali-youth-arrested-pithwa-sainik-road-139338527.html",
-   "t": 1791843124000,
-   "time": "03:42",
-   "score": 10,
+   "title": "सांसद ने कैमरा बंद कराया, विधायक ने अफसर को धमकाया: ओसामा और ओबामा में कन्फ्यूज हो गए सीएम; केवट के रोल में दिखे भाजपा सांसद",
+   "url": "https://www.bhaskar.com/local/mp/news/madhya-pradesh-politics-cm-bjp-mp-gaffe-video-controversy-baat-khari-hai-139342003.html",
+   "t": 1791870663000,
+   "time": "11:21",
+   "score": 6,
    "tags": [
-    "RAJ",
+    "MP",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.11
+  },
+  {
+   "id": "nbt-134909422.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "शिवराज सिंह चौहान Vs  मोहन यादव? सीएम ने आते ही बदले थे उनके कई फैसले, मामा ने भी तीन मौकों पर खड़ी की 'मुसीबत'",
+   "url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/bhopal/shivraj-singh-chouhan-vs-mohan-yadav-cm-reversed-several-decisions-immediately-while-mama-created-trouble-on-three-occasions/articleshow/134909422.cms",
+   "t": 1791870628000,
+   "time": "11:20",
+   "score": 6,
+   "tags": [
+    "MP",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.23
+  },
+  {
+   "id": "bh-uttar-pradesh-meerut-neela-drum-murder-case-muskan-sahil-saurabh-rajput-justice-murder-mother-renu-video-139342000.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "'मुस्कान को फांसी नहीं हुई तो सुप्रीम कोर्ट जाएंगे': सौरभ की मां ने पूजा-पाठ शुरू की; नीले ड्रम हत्याकांड में कल फैसला",
+   "url": "https://www.bhaskar.com/local/uttar-pradesh/meerut/news/uttar-pradesh-meerut-neela-drum-murder-case-muskan-sahil-saurabh-rajput-justice-murder-mother-renu-video-139342000.html",
+   "t": 1791870604000,
+   "time": "11:20",
+   "score": 7,
+   "tags": [
     "HINDI",
-    "CRIME"
+    "CRIME",
+    "POL"
    ],
    "status": "GAP",
    "match": 0.2
   },
   {
-   "id": "bh-saray-ansarivan-ward-8-garbage-problem-sanitation-crisis-update-139338507.html",
+   "id": "bh-bjp-rld-western-up-strategy-modi-jayant-chaudhary-noorpur-hapur-rally-jat-gurjar-vote-share-139341996.html",
    "src": "bh",
    "pub": "Bhaskar",
-   "title": "सराय अंसारीवान में सफाईकर्मी नहीं आते, कूड़ा भी नहीं उठता: मोहल्ले में गंदगी से लोग परेशान, बीमारियों का खतरा बढ़ा",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/aligarh/sarai-lavariya-mohalla-ansariyan/news/saray-ansarivan-ward-8-garbage-problem-sanitation-crisis-update-139338507.html",
-   "t": 1791843000000,
-   "time": "03:40",
-   "score": 8,
+   "title": "चौ.चरण सिंह के गांव से चुनाव की शुरुआत करेंगे मोदी: किसानों का मुद्दा उठाएंगे; क्या वेस्ट यूपी की 126 सीटों पर माहौल बनेगा",
+   "url": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/bjp-rld-western-up-strategy-modi-jayant-chaudhary-noorpur-hapur-rally-jat-gurjar-vote-share-139341996.html",
+   "t": 1791870568000,
+   "time": "11:19",
+   "score": 6,
+   "tags": [
+    "HINDI",
+    "POL",
+    "CRK"
+   ],
+   "status": "GAP",
+   "match": 0.15
+  },
+  {
+   "id": "au-uproar-in-narmadapuram-following-a-police-raid-on-a-gambling-den-outrage-flares-over-nasir-death-as-family-members-lay-siege-to-the-kotwali-police-station-narmadapuram-news-c-1-1-noi1512-",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "नर्मदापुरम हार्ट अटैक से मौत या पुलिस प्रताड़ना नर्मदापुरम में दबिश के दौरान भाग रहे युवक की मौत, मचा बवाल",
+   "url": "https://www.amarujala.com/video/madhya-pradesh/narmadapuram/uproar-in-narmadapuram-following-a-police-raid-on-a-gambling-den-outrage-flares-over-nasir-death-as-family-members-lay-siege-to-the-kotwali-police-station-narmadapuram-news-c-1-1-noi1512-4827859-2026-10-13",
+   "t": 1791870284000,
+   "time": "11:14",
+   "score": 10,
    "tags": [
     "MP",
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.1
+  },
+  {
+   "id": "au-video-meerut-acharya-saurabh-sagar-maharaj-arrives-at-veer-nagar-jain-temple-devotees-perform-aarti-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "मेरठ वीर नगर जैन मंदिर में आचार्य सौरभ सागर महामुनिराज का मंगल प्रवास, महिलाओं ने की सामूहिक आरती",
+   "url": "https://www.amarujala.com/video/uttar-pradesh/meerut/video-meerut-acharya-saurabh-sagar-maharaj-arrives-at-veer-nagar-jain-temple-devotees-perform-aarti-2026-10-13",
+   "t": 1791869478000,
+   "time": "11:01",
+   "score": 6,
+   "tags": [
+    "MP",
+    "HINDI"
+   ],
+   "status": "GAP",
+   "match": 0.11
+  },
+  {
+   "id": "au-madhya-pradesh-28-cheetahs-die-in-kuno-7-this-year-aasha-s-8-month-old-cub-also-dies-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "मध्यप्रदेश कूनो में अब तक 28 चीतों की मौत, इस साल 7 ने गंवाई जान; आशा के 8 माह के शावक की भी गई जान",
+   "url": "https://www.amarujala.com/madhya-pradesh/bhopal/madhya-pradesh-28-cheetahs-die-in-kuno-7-this-year-aasha-s-8-month-old-cub-also-dies-2026-10-13",
+   "t": 1791869141000,
+   "time": "10:55",
+   "score": 7,
+   "tags": [
+    "MP",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.15
+  },
+  {
+   "id": "bh-shivraj-singh-chauhan-mohan-yadav-sehore-controversy-madhya-pradesh-139339369.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "क्या 'मोहन-मामा' के बीच सब ठीक है?: कांग्रेस ने क्यों लगाया खींचतान का आरोप; शिवराज पहले लाड़ली बहना पर बोले, शाम को अफसरों पर बरसे",
+   "url": "https://www.bhaskar.com/local/mp/news/shivraj-singh-chauhan-mohan-yadav-sehore-controversy-madhya-pradesh-139339369.html",
+   "t": 1791868500000,
+   "time": "10:45",
+   "score": 6,
+   "tags": [
+    "MP",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.23
+  },
+  {
+   "id": "nbt-134908252.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "रूस की जूली को बिहार के राहुल से गजब का प्यार, आ गई इंडिया और झोपड़ी में भी रहने को तैयार",
+   "url": "https://navbharattimes.indiatimes.com/state/bihar/bhagalpur/russian-girl-juli-came-bhagalpur-with-family-to-marry-lover-rahul-yadav/articleshow/134908252.cms",
+   "t": 1791868266000,
+   "time": "10:41",
+   "score": 6,
+   "tags": [
     "HINDI",
+    "POL",
     "WAR"
    ],
    "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "bh-agra-shahganj-theft-zahid-ahmed-scooter-bag-cctv-footage-139338506.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "दुकान खोलते कारोबारी का रुपयों से भरा बैग चोरी: आगरा के जाहिद अहमद की स्कूटी से डेढ़ लाख रुपये, मोबाइल और कागजात गायब",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/agra/kaveri-kunj-shalimar/news/agra-shahganj-theft-zahid-ahmed-scooter-bag-cctv-footage-139338506.html",
-   "t": 1791842995000,
-   "time": "03:39",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.09
-  },
-  {
-   "id": "bh-jansath-police-flag-march-festival-security-rishika-singh-139338496.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "जानसठ पुलिस आगामी त्योहारों को लेकर अलर्ट: कस्बे में किया पैदल फ्लैग मार्च, लोगों को दिलाया सुरक्षा का भरोसा",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/muzaffarnagar/kawaal/news/jansath-police-flag-march-festival-security-rishika-singh-139338496.html",
-   "t": 1791842919000,
-   "time": "03:38",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "bh-shahjahanpur-wild-animal-roasting-video-katra-police-investigation-139338492.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "कटरा में जंगली जानवर को आग पर भूनने का वीडियो: शाहजहांपुर में वन विभाग बोला- मौके पर कुछ नहीं मिला, पुलिस युवक को थाने ले गई",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/shahjahanpur/news/shahjahanpur-wild-animal-roasting-video-katra-police-investigation-139338492.html",
-   "t": 1791842885000,
-   "time": "03:38",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
    "match": 0.1
   },
   {
-   "id": "bh-ghaziabad-masuri-nahal-village-train-accident-death-sunil-news-139338472.html",
+   "id": "bh-patna-high-court-rape-attempt-definition-verdict-bihar-legal-news-139341892.html",
    "src": "bh",
    "pub": "Bhaskar",
-   "title": "ट्रेन की चपेट में आने से अधेड़ की मौत: गाजियाबाद में मसूरी थाना क्षेत्र के नाहल गांव में हुआ हादसा, पुलिस ने शव कब्जे में लिया",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/ghaziabad/nahal/news/ghaziabad-masuri-nahal-village-train-accident-death-sunil-news-139338472.html",
-   "t": 1791842702000,
-   "time": "03:35",
-   "score": 8,
+   "title": "'जबरन घर में घुसना, महिला पर लेटना अटेम्प्ट-टू-रेप नहीं': पटना हाईकोर्ट ने कहा-पेनिट्रेशन की दिशा में हरकत जरूरी, क्या है रेप के प्रयास की परिभाषा",
+   "url": "https://www.bhaskar.com/local/bihar/news/patna-high-court-rape-attempt-definition-verdict-bihar-legal-news-139341892.html",
+   "t": 1791867971000,
+   "time": "10:36",
+   "score": 7,
    "tags": [
     "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "bh-lucknow-student-suicide-rahimabad-jauriya-village-death-case-139338470.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "लखनऊ में 10वीं की छात्रा ने सुसाइड किया: मां सब्जी लेने गई थी, छोटा भाई बाहर खेल रहा था; फंदे पर लटका मिला शव",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/lucknow-student-suicide-rahimabad-jauriya-village-death-case-139338470.html",
-   "t": 1791842697000,
-   "time": "03:34",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.17
-  },
-  {
-   "id": "bh-kaserua-kala-cyclist-accident-hit-and-run-police-investigation-139338464.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "कसेरूवा कला में वाहन ने साइकिल सवार को मारी टक्कर: साइकिल सवार घायल, अस्पताल में भर्ती; ड्राइवर मौके से फरार, पुलिस जांच में जुटी",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/prayagraj/sahson/news/kaserua-kala-cyclist-accident-hit-and-run-police-investigation-139338464.html",
-   "t": 1791842636000,
-   "time": "03:33",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "bh-danapur-durga-puja-security-police-alert-sp-ajit-kumar-139338460.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "दुर्गा पूजा में दानापुर पुलिस अलर्ट: सुरक्षा के लिए चौक-चौराहों पर निगरानी, बाइकर्स पर रहेगी विशेष नजर",
-   "url": "https://www.bhaskar.com/local/bihar/patna/danapur/news/danapur-durga-puja-security-police-alert-sp-ajit-kumar-139338460.html",
-   "t": 1791842611000,
-   "time": "03:33",
-   "score": 8,
-   "tags": [
-    "CG",
-    "HINDI",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.1
-  },
-  {
-   "id": "bh-kota-nayapura-police-arrest-thieves-cctv-footage-theft-recovery-139338453.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "100 CCTV फुटेज खंगालकर चोरों तक पहुंची पुलिस: सूने मकानों को बनाते थे निशाना, चोरी की बाइक-सामान समेत दो आरोपी गिरफ्तार",
-   "url": "https://www.bhaskar.com/local/rajasthan/kota/news/kota-nayapura-police-arrest-thieves-cctv-footage-theft-recovery-139338453.html",
-   "t": 1791842525000,
-   "time": "03:32",
-   "score": 8,
-   "tags": [
-    "RAJ",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "bh-chandauli-alinagar-road-accident-ramlochan-yadav-death-car-crash-139338441.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "चरवाहक रामलोचन यादव की सड़क हादसे में मौत: चौपाल सागर के पास तेज रफ्तार कार ने बाइक सवार को भी मारी थी टक्कर",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/chandauli/niyamatabad/news/chandauli-alinagar-road-accident-ramlochan-yadav-death-car-crash-139338441.html",
-   "t": 1791842394000,
-   "time": "03:29",
-   "score": 9,
-   "tags": [
-    "MP",
-    "HINDI",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "bh-alapur-sharadiya-navratri-celebration-maa-durga-bhajan-sandhya-update-139338438.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "शारदीय नवरात्रि का आगाज: आलापुर में भक्तिमय हुआ पूरा इलाका, पंडालों में गूंजे देवी गीत और भजन",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/ambedkarnagar/samdeeh/news/alapur-sharadiya-navratri-celebration-maa-durga-bhajan-sandhya-update-139338438.html",
-   "t": 1791842370000,
-   "time": "03:29",
-   "score": 8,
-   "tags": [
-    "CG",
-    "HINDI",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.18
-  },
-  {
-   "id": "bh-jodhpur-fake-dove-shampoo-raid-basni-police-seize-pouch-139338428.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "डव कंपनी के नाम से बनाए डुप्लीकेट शैंपू जब्त: पुलिस ने डेढ़ लाख पाउच किए बरामद; माल भेजने वाले की तलाश",
-   "url": "https://www.bhaskar.com/local/rajasthan/jodhpur/news/jodhpur-fake-dove-shampoo-raid-basni-police-seize-pouch-139338428.html",
-   "t": 1791842295000,
-   "time": "03:28",
-   "score": 8,
-   "tags": [
-    "RAJ",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "bh-madhubani-ssb-arrest-liquor-smuggler-india-nepal-border-139338425.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "भारत-नेपाल सीमा पर नेपाली शराब के साथ तस्कर गिरफ्तार: एक साथी फरार, 81 लीटर देसी, 18 बोतल अंग्रेजी शराब जब्त",
-   "url": "https://www.bhaskar.com/local/bihar/madhubani/ladania/news/madhubani-ssb-arrest-liquor-smuggler-india-nepal-border-139338425.html",
-   "t": 1791842247000,
-   "time": "03:27",
-   "score": 10,
-   "tags": [
-    "RAJ",
-    "HINDI",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "bh-lakhimpur-kheri-retired-si-death-cctv-footage-police-investigation-139338417.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "रिटायर्ड SI की मौत ब्रेन-हेमरेज से, बेटा हिरासत से छूटा: लखीमपुर में सीसीटीवी में धक्का देने का आरोप था, मानसिक रोगी बेटे को भाई को सौंपा",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/lakhimpur-kheri/gola-gokaran-nath/news/lakhimpur-kheri-retired-si-death-cctv-footage-police-investigation-139338417.html",
-   "t": 1791842198000,
-   "time": "03:26",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "bh-maharajganj-road-accident-child-death-puranderpur-news-139338399.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "दुर्गापंडाल के पास खेल रहे मासूम-को वाहन ने मारी-टक्कर, मौत: जिला अस्पताल में डॉक्टरों ने मृत घोषित किया; पुलिस ने शव पोस्टमार्टम के लिए भेजा",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/ekma/news/maharajganj-road-accident-child-death-puranderpur-news-139338399.html",
-   "t": 1791842064000,
-   "time": "03:24",
-   "score": 11,
-   "tags": [
-    "CG",
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "bh-chhattisgarh-liquor-scam-ed-congress-raipur-raji-bhavan-seized-assets-139338357.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "छत्तीसगढ़ शराब घोटाला,कांग्रेस भवन पहुंचाए गए 860-880 करोड़ रुपए: ED का दावा-कांग्रेस नेता रामगोपाल अग्रवाल की मॉनिटरिंग में पहुंचा कैश, 9.06 करोड़ की संपत्ति अटैच",
-   "url": "https://www.bhaskar.com/local/chhattisgarh/raipur/news/chhattisgarh-liquor-scam-ed-congress-raipur-raji-bhavan-seized-assets-139338357.html",
-   "t": 1791841742000,
-   "time": "03:19",
-   "score": 8,
-   "tags": [
-    "CG",
     "CRIME",
     "POL"
    ],
@@ -927,47 +1029,34 @@
    "match": 0.16
   },
   {
-   "id": "bh-kishunpur-dhata-navratri-durga-puja-security-police-visit-update-139338345.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "किशुनपुर चौकी क्षेत्र में नवरात्रि पर सुरक्षा के कड़े इंतजाम: 25 जगहों पर मां दुर्गा की उपासना, प्रशासन ने लिया जायजा",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/fatehpur/prasidhapur/news/kishunpur-dhata-navratri-durga-puja-security-police-visit-update-139338345.html",
-   "t": 1791841628000,
-   "time": "03:17",
-   "score": 8,
+   "id": "au-video-50-lakh-robbery-at-the-home-of-bjp-leader-and-former-block-pramukh-ramesh-yadav-in-kanpur-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "कानपुर में भाजपा नेता व पूर्व ब्लॉक प्रमुख रमेश यादव के घर 50 लाख की लूट",
+   "url": "https://www.amarujala.com/video/uttar-pradesh/kanpur/video-50-lakh-robbery-at-the-home-of-bjp-leader-and-former-block-pramukh-ramesh-yadav-in-kanpur-2026-10-13",
+   "t": 1791867956000,
+   "time": "10:35",
+   "score": 7,
    "tags": [
-    "CG",
     "HINDI",
-    "CRIME"
+    "CRIME",
+    "POL"
    ],
    "status": "GAP",
-   "match": 0.12
+   "match": 0.37,
+   "patrikaMatch": {
+    "title": "यूपी भाजपा प्रदेश मंत्री के हाथ-पैर बांधकर 50 लाख की लूट, नकाबपोश बदमाश नकदी और जेवर ले गए",
+    "url": "https://www.patrika.com/kanpur-news/kanpur-bjp-leader-farmhouse-gunpoint-robbery-20980117"
+   }
   },
   {
-   "id": "bh-aamas-gaya-durga-puja-pandal-security-peace-committee-meeting-2026-139338284.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "आमस में दुर्गा पूजा को लेकर शांति समिति की बैठक: 19 जगहों पर होगी मां दुर्गा की मूर्ति स्थापना, पुलिस ने निर्देशों के पालन करने की अपील की",
-   "url": "https://www.bhaskar.com/local/bihar/gaya/amas/news/aamas-gaya-durga-puja-pandal-security-peace-committee-meeting-2026-139338284.html",
-   "t": 1791841173000,
-   "time": "03:09",
-   "score": 8,
-   "tags": [
-    "CG",
-    "HINDI",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "bh-jahanganj-accident-shripal-injured-bike-hit-run-police-investigation-139338280.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "जहानगंज में बाइक की टक्कर से बुजुर्ग घायल: पूजा करने जा रहे श्रीपाल को लगी चोट, बाइक सवार फरार; पुलिस जांच में जुटी",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/farrukhabad/khudaganj/news/jahanganj-accident-shripal-injured-bike-hit-run-police-investigation-139338280.html",
-   "t": 1791841138000,
-   "time": "03:08",
+   "id": "nbt-134908558.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "माफी भी मांगी, फिर भी लाठी-बोतलों से पीटा...बीयर गिरने पर दिल्ली के सराय रोहिल्ला के क्लब में खूनी खेल, 29 साल के युवक की मौत",
+   "url": "https://navbharattimes.indiatimes.com/metro/delhi/crime/delhi-sarai-rohilla-nightclub-29-year-youth-beaten-to-death-by-bouncers-following-a-beer-spill-dispute/articleshow/134908558.cms",
+   "t": 1791867914000,
+   "time": "10:35",
    "score": 8,
    "tags": [
     "HINDI",
@@ -975,326 +1064,233 @@
     "ACC"
    ],
    "status": "GAP",
-   "match": 0.11
+   "match": 0.12
   },
   {
-   "id": "bh-sultanpur-sp-vineet-jaiswal-chanda-market-durga-pandal-visit-139338271.html",
+   "id": "bh-khabar-hatke-daroga-bribe-cow-buffalo-dog-telangana-atm-robbery-nighty-russia-bear-attack-prayagraj-bribe-viral-news-139338424.html",
    "src": "bh",
    "pub": "Bhaskar",
-   "title": "एसपी ने चांदा बाजार में दुर्गा पंडालों का निरीक्षण: पुलिस बल के साथ श्रद्धालुओं से बात की, सुरक्षा के लिए दिए जरूरी निर्देश",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/sultanpur/pratappurkamaicha/news/sultanpur-sp-vineet-jaiswal-chanda-market-durga-pandal-visit-139338271.html",
-   "t": 1791841055000,
-   "time": "03:07",
+   "title": "खबर हटके- दरोगा ने रिश्वत में मांगा गाय-भैंस और कुत्ता: नाइटी पहनकर ATM लूटने पहुंचा; भालू ने पकड़ा, मोबाइल फटा तो भागा",
+   "url": "https://www.bhaskar.com/national/news/khabar-hatke-daroga-bribe-cow-buffalo-dog-telangana-atm-robbery-nighty-russia-bear-attack-prayagraj-bribe-viral-news-139338424.html",
+   "t": 1791867900000,
+   "time": "10:35",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.08
+  },
+  {
+   "id": "at-karnataka-high-court-strikes-down-sc-st-reservation-law-exceeding-fifty-percent-limit-ntc-acwi-dskc-2669130-2026-10-13",
+   "src": "at",
+   "pub": "Aaj Tak",
+   "title": "कर्नाटक में 56% आरक्षण खारिज, हाईकोर्ट ने क्या कहा? सरकार ने किस तर्क पर बढ़ाया था कोटा",
+   "url": "https://www.aajtak.in/india/news/story/karnataka-high-court-strikes-down-sc-st-reservation-law-exceeding-fifty-percent-limit-ntc-acwi-dskc-2669130-2026-10-13",
+   "t": 1791867774000,
+   "time": "10:32",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.14
+  },
+  {
+   "id": "au-elephant-dies-after-being-electrocuted-in-a-field-panic-ensues-in-the-forest-department-shahdol-news-c-1-1-noi1220-4827866-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "शहडोल खेत में करंट की चपेट में आने से हाथी की दर्दनाक मौत, बोरवेल के पास हुआ हादसा, सुरक्षा पर उठे सवाल",
+   "url": "https://www.amarujala.com/madhya-pradesh/shahdol/elephant-dies-after-being-electrocuted-in-a-field-panic-ensues-in-the-forest-department-shahdol-news-c-1-1-noi1220-4827866-2026-10-13",
+   "t": 1791867650000,
+   "time": "10:30",
+   "score": 7,
+   "tags": [
+    "MP",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.14
+  },
+  {
+   "id": "bh-haryana-former-bjp-mla-atar-singh-bhadana-murder-rajasthan-controversy-139338808.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "वो विवाद, जिसमें हरियाणा के पूर्व विधायक का मर्डर हुआ: खनन साइट के रास्ते पर झगड़ा, 2 महीने पहले हाईकोर्ट ने पक्ष में दिया था फैसला",
+   "url": "https://www.bhaskar.com/local/haryana/faridabad/news/haryana-former-bjp-mla-atar-singh-bhadana-murder-rajasthan-controversy-139338808.html",
+   "t": 1791867600000,
+   "time": "10:30",
+   "score": 12,
+   "tags": [
+    "RAJ",
+    "HINDI",
+    "CRIME",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.13
+  },
+  {
+   "id": "au-video-bjp-national-secretary-jagdish-ishwar-patel-holds-meeting-with-regional-and-district-committees-in-kanpur-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "कानपुर में भाजपा राष्ट्रीय सचिव जगदीश ईश्वर पटेल ने ली क्षेत्रीय व जिला कमेटियों की बैठक",
+   "url": "https://www.amarujala.com/video/uttar-pradesh/kanpur/video-bjp-national-secretary-jagdish-ishwar-patel-holds-meeting-with-regional-and-district-committees-in-kanpur-2026-10-13",
+   "t": 1791867557000,
+   "time": "10:29",
+   "score": 6,
+   "tags": [
+    "HINDI",
+    "POL",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.16
+  },
+  {
+   "id": "nbt-134908529.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "शिवराज सिंह चौहान के बाद आदिवासियों के बीच बेटे कार्तिकेय सिंह चौहान पहुंचे, कहा- इनके वोटों कारण एमपी में बीजेपी की सरकार बनी",
+   "url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/sehore/shivraj-singh-chouhan-son-kartikeya-singh-chouhan-reached-out-to-kosmi-tribal-family-stating-that-bjp-government-formed-in-mp-to-their-votes/articleshow/134908529.cms",
+   "t": 1791867482000,
+   "time": "10:28",
+   "score": 6,
+   "tags": [
+    "MP",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "au-video-youth-beaten-to-death-with-stick-over-trivial-matter-in-sitapur-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "सीतापुर में मामूली बात पर डंडे से पीटकर युवक की हत्या, पिता ने ग्राम प्रधान पर लगाया आरोप",
+   "url": "https://www.amarujala.com/video/uttar-pradesh/sitapur/video-youth-beaten-to-death-with-stick-over-trivial-matter-in-sitapur-2026-10-13",
+   "t": 1791867019000,
+   "time": "10:20",
    "score": 8,
    "tags": [
-    "CG",
     "HINDI",
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.1
+  },
+  {
+   "id": "abp-no-arrest-in-atar-singh-bhadana-murder-case-even-after-36-hours-family-demands-cbi-inquiry-ann-3201329",
+   "src": "abp",
+   "pub": "ABP Live",
+   "title": "no arrest in atar singh bhadana murder case even after 36 hours family demands cbi inquiry ann",
+   "url": "https://www.abplive.com/states/rajasthan/no-arrest-in-atar-singh-bhadana-murder-case-even-after-36-hours-family-demands-cbi-inquiry-ann-3201329",
+   "t": 1791866996000,
+   "time": "10:19",
+   "score": 8,
+   "tags": [
+    "RAJ",
+    "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.15
+  },
+  {
+   "id": "au-agra-police-hunt-for-illegal-drug-warehouses-in-residential-areas-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "यूपी आगरा में नकली दवाओं के नए ठिकानों की तलाश, घनी आबादी में अवैध गोदाम! सीसीटीवी में दिखे संदिग्ध",
+   "url": "https://www.amarujala.com/uttar-pradesh/agra/agra-police-hunt-for-illegal-drug-warehouses-in-residential-areas-2026-10-13",
+   "t": 1791866894000,
+   "time": "10:18",
+   "score": 10,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "ACC",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.06
+  },
+  {
+   "id": "au-fraud-impersonating-customer-care-agents-scammers-are-emptying-accounts-under-the-pretext-of-processing-refunds-bhopal-news-c-1-1-noi1404-4827855-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "भोपाल ऑनलाइन रिफंड के नाम पर साइबर ठगों का नया पैंतरा, फर्जी कस्टमर केयर नंबर से खाली कर रहे खाते",
+   "url": "https://www.amarujala.com/madhya-pradesh/bhopal/fraud-impersonating-customer-care-agents-scammers-are-emptying-accounts-under-the-pretext-of-processing-refunds-bhopal-news-c-1-1-noi1404-4827855-2026-10-13",
+   "t": 1791866820000,
+   "time": "10:17",
+   "score": 7,
+   "tags": [
+    "MP",
     "CRIME"
    ],
    "status": "GAP",
    "match": 0.14
   },
   {
-   "id": "au-haryana-team-steadied-by-yashvardhans-unbeaten-69-jhajjar-news-c-195-1-jjr1003-141164-2026-10-13",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "यशवर्धन के नाबाद 69 रन से संभली हरियाणा की टीम",
-   "url": "https://www.amarujala.com/city-and-states/haryana-team-steadied-by-yashvardhans-unbeaten-69-jhajjar-news-c-195-1-jjr1003-141164-2026-10-13",
-   "t": 1791840793000,
-   "time": "03:03",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.17
-  },
-  {
-   "id": "bh-sambhal-moradabad-road-accident-cyclist-death-israil-mullaji-139338197.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "कार की टक्कर से साइकिल सवार बुजुर्ग की मौत: संभल-मुरादाबाद मार्ग पर डीगरपुर निवासी की जान गई, पुलिस ने कार-चालक को पकड़ा",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/moradabad/masebirasoolpur/news/sambhal-moradabad-road-accident-cyclist-death-israil-mullaji-139338197.html",
-   "t": 1791840586000,
-   "time": "02:59",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "bh-hattha-durga-puja-dj-ban-police-action-2026-139338186.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "दुर्गा पूजा में डीजे बजाने पर प्रतिबंध, 7 मशीनें जब्त: हत्था थाना क्षेत्र में 12 जगहों पर होती है पूजा",
-   "url": "https://www.bhaskar.com/local/bihar/muzaffarpur/bandra/news/hattha-durga-puja-dj-ban-police-action-2026-139338186.html",
-   "t": 1791840522000,
-   "time": "02:58",
-   "score": 8,
-   "tags": [
-    "CG",
-    "HINDI",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "bh-jaynagar-border-ssb-arrest-drug-smuggler-brown-sugar-seized-139338175.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "जयनगर सीमा पर ब्राउन शुगर के साथ युवक गिरफ्तार: एसएसबी ने की कार्रवाई, मोटर साइकिल भी जब्त; आगे की जांच जारी",
-   "url": "https://www.bhaskar.com/local/bihar/madhubani/jainagar/news/jaynagar-border-ssb-arrest-drug-smuggler-brown-sugar-seized-139338175.html",
-   "t": 1791840457000,
-   "time": "02:57",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.07
-  },
-  {
-   "id": "bh-varanasi-saptasagar-gali-resetting-work-mla-neelkanth-tiwari-update-139338164.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "वाराणसी के सप्तसागर मोहल्ले में गली रीसेटिंग का काम शुरू: विधायक डॉ. नीलकंठ तिवारी के निर्देश पर हुआ काम, लोगों को मिलेगी राहत",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/varanasi/gola-deenanath-saptasagar/news/varanasi-saptasagar-gali-resetting-work-mla-neelkanth-tiwari-update-139338164.html",
-   "t": 1791840371000,
-   "time": "02:56",
-   "score": 10,
-   "tags": [
-    "MP",
-    "HINDI",
-    "POL",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "bh-nawada-police-raid-laund-village-liquor-seizure-arrest-139338149.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "लौंद गांव में 36 लीटर शराब के साथ युवक गिरफ्तार: नवादा पुलिस ने की छापेमारी, आगे की कार्रवाई जारी",
-   "url": "https://www.bhaskar.com/local/bihar/nawada/sirdala/news/nawada-police-raid-laund-village-liquor-seizure-arrest-139338149.html",
-   "t": 1791840290000,
-   "time": "02:54",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.15
-  },
-  {
-   "id": "au-accused-of-sexually-exploiting-a-teenage-girl-arrested-from-rajasthan-lucknow-news-c-13-1-lko1028-1964253-2026-10-13",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Lucknow News किशोरी से यौन शोषण का आरोपी राजस्थान से गिरफ्तार",
-   "url": "https://www.amarujala.com/lucknow/accused-of-sexually-exploiting-a-teenage-girl-arrested-from-rajasthan-lucknow-news-c-13-1-lko1028-1964253-2026-10-13",
-   "t": 1791840166000,
-   "time": "02:52",
-   "score": 10,
+   "id": "zee-3306584",
+   "src": "zee",
+   "pub": "Zee News Hindi",
+   "title": "NSUI  की मेंबर, राजस्थान से ताल्लुक... कौन हैं जन्नत बिश्नोई, जो सुप्रीम कोर्ट मार्च में राहुल गांधी के साथ नजर आईं",
+   "url": "https://zeenews.india.com/hindi/india/meet-jannat-bishnoi-young-face-beside-rahul-gandhi-at-supreme-court-march/3306584",
+   "t": 1791866623000,
+   "time": "10:13",
+   "score": 7,
    "tags": [
     "RAJ",
-    "HINDI",
-    "CRIME"
+    "POL"
    ],
    "status": "GAP",
-   "match": 0.13
+   "match": 0.23
   },
   {
-   "id": "bh-fatehpur-sikri-farmer-looted-bike-borne-miscreants-cash-theft-139338126.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "बाजरा बेचकर लौट रहे किसान से 34,160 रुपए लूटे: दो बाइक सवारों ने झांसे में लेकर फतेहपुर सीकरी में वारदात की",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/agra/undera/news/fatehpur-sikri-farmer-looted-bike-borne-miscreants-cash-theft-139338126.html",
-   "t": 1791840152000,
-   "time": "02:52",
-   "score": 10,
-   "tags": [
-    "RAJ",
-    "HINDI",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "bh-lawad-masuri-road-accident-mother-newborn-son-death-truck-collision-139338122.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "मेरठ में सिलेंडर लदे ट्रक ने मां-बेटे को रौंदा, मौत: ग्रामीणों ने 1 घंटे रोड जाम रखा, 8 दिन के नवजात की दवा लेकर लौट रहा था परिवार",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/meerut/modipuram/news/lawad-masuri-road-accident-mother-newborn-son-death-truck-collision-139338122.html",
-   "t": 1791840113000,
-   "time": "02:51",
-   "score": 9,
-   "tags": [
-    "HINDI",
-    "ACC",
-    "POL",
-    "CRK"
-   ],
-   "status": "GAP",
-   "match": 0.16
-  },
-  {
-   "id": "bh-tikaitnagar-road-accident-bike-rider-death-police-investigation-139338102.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "अज्ञात वाहन की टक्कर से बाइक सवार की मौत: टिकैतनगर पुलिस ने शव पोस्टमार्टम के लिए भेजा, तलाश जारी",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/barabanki/puredalai/news/tikaitnagar-road-accident-bike-rider-death-police-investigation-139338102.html",
-   "t": 1791839979000,
-   "time": "02:49",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "bh-varanasi-cantt-mla-saurabh-srivastava-jansunwai-ishwar-vatika-139338094.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "वाराणसी के विधायक सौरभ श्रीवास्तव ने जनसुनवाई की: ईश्वर वाटिका में सुनी जनता की समस्याएं, समस्याओं को किया समाधान",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/varanasi/sarainandan-sarai-nandan-kala/news/varanasi-cantt-mla-saurabh-srivastava-jansunwai-ishwar-vatika-139338094.html",
-   "t": 1791839903000,
-   "time": "02:48",
-   "score": 10,
-   "tags": [
-    "MP",
-    "HINDI",
-    "POL",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.22
-  },
-  {
-   "id": "au-murder-fir-filed-in-bike-mechanics-death-two-named-jpnagar-news-c-284-1-smbd1016-175340-2026-10-13",
+   "id": "au-agra-cm-grid-road-faces-safety-lapses-penalty-recommended-for-contractor-2026-10-13",
    "src": "au",
    "pub": "Amar Ujala",
-   "title": "Amroha News बाइक मिस्त्री की मौत में हत्या की प्राथमिकी, दो नामजद",
-   "url": "https://www.amarujala.com/uttar-pradesh/amroha/murder-fir-filed-in-bike-mechanics-death-two-named-jpnagar-news-c-284-1-smbd1016-175340-2026-10-13",
-   "t": 1791839859000,
-   "time": "02:47",
-   "score": 8,
+   "title": "आगरा सीएम ग्रिड की सड़क बनी मुसीबत, धूल-गड्ढे और बाहर निकली सरिया; ठेकेदार पर गिरेगी गाज",
+   "url": "https://www.amarujala.com/uttar-pradesh/agra/agra-cm-grid-road-faces-safety-lapses-penalty-recommended-for-contractor-2026-10-13",
+   "t": 1791866273000,
+   "time": "10:07",
+   "score": 7,
    "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.18
-  },
-  {
-   "id": "bh-raebareli-rasulpur-dharawan-youth-death-electrocution-accident-139338089.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "रायबरेली में करंट लगने से युवक की मौत: बिजली के तार ठीक करते समय हादसा, पुलिस ने शव पोस्टमार्टम के लिए भेजा",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/raibareli/jalalpurdhai/news/raebareli-rasulpur-dharawan-youth-death-electrocution-accident-139338089.html",
-   "t": 1791839855000,
-   "time": "02:47",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "bh-varanasi-naya-panadariba-durga-pandal-pole-accident-toto-collision-139338082.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "वाराणसी में दुर्गा पंडाल का सजावटी पोल गिरा, एक घायल: नया पानदारीबा इलाके में टोटो की टक्कर से हुआ हादसा",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/varanasi/chetganj/news/varanasi-naya-panadariba-durga-pandal-pole-accident-toto-collision-139338082.html",
-   "t": 1791839808000,
-   "time": "02:46",
-   "score": 8,
-   "tags": [
-    "CG",
-    "HINDI",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.07
-  },
-  {
-   "id": "au-husband-arrested-for-burning-his-wife-to-death-sonipat-news-c-197-1-snp1003-162287-2026-10-13",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Sonipat News पत्नी को जलाकर मारने के मामले में आरोपी पति गिरफ्तार",
-   "url": "https://www.amarujala.com/haryana/sonipat/husband-arrested-for-burning-his-wife-to-death-sonipat-news-c-197-1-snp1003-162287-2026-10-13",
-   "t": 1791839782000,
-   "time": "02:46",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.22
-  },
-  {
-   "id": "bh-firozabad-police-arrest-sachin-kumar-illegal-firearm-arms-act-139338067.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "तमंचे और कारतूस के साथ युवक गिरफ्तार: खैरगढ़ पुलिस ने आरोपी पर आर्म्स एक्ट में केस दर्ज किया, पहले भी कई मामले हैं",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/firozabad/shikohabad/news/firozabad-police-arrest-sachin-kumar-illegal-firearm-arms-act-139338067.html",
-   "t": 1791839706000,
-   "time": "02:45",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.22
-  },
-  {
-   "id": "bh-pisawan-bazar-street-light-pole-collapse-nagarpalika-negligence-139338049.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "पिसावां बाजार में स्ट्रीट लाइट का खंभा गिरा, राहगीर बाल-बाल: नगर पंचायत की लापरवाही से लोगों में डर, जांच कर खंभे बदलने की मांग",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/aligarh/pisawa/news/pisawan-bazar-street-light-pole-collapse-nagarpalika-negligence-139338049.html",
-   "t": 1791839624000,
-   "time": "02:43",
-   "score": 12,
-   "tags": [
-    "RAJ",
     "HINDI",
     "ACC",
     "POL"
    ],
    "status": "GAP",
+   "match": 0.08
+  },
+  {
+   "id": "nbt-134908090.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "Gold Silver Price: नवरात्रि के बीच चांदी में ₹5000 की गिरावट, सोना भी हुआ सस्ता, आपके शहर में क्या रह गया भाव?",
+   "url": "https://navbharattimes.indiatimes.com/business/commodity/gold-silver-price-today-know-the-latest-rate-in-your-city-on-13-october-2026/articleshow/134908090.cms",
+   "t": 1791866139000,
+   "time": "10:05",
+   "score": 6,
+   "tags": [
+    "POL",
+    "CRK",
+    "MONEY"
+   ],
+   "status": "GAP",
    "match": 0.11
   },
   {
-   "id": "bh-hapur-woman-complaint-sp-office-bank-fraud-upi-pilkhuwa-139338047.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "पति की मौत के बाद खाते से एक-लाख रुपये निकाले: न्याय की गुहार लेकर एसपी कार्यालय पहुंची महिला",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/hapud/news/hapur-woman-complaint-sp-office-bank-fraud-upi-pilkhuwa-139338047.html",
-   "t": 1791839609000,
-   "time": "02:43",
+   "id": "au-youth-beaten-to-death-with-stick-over-trivial-matter-in-sitapur-father-accuses-gram-pradhan-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "सीतापुर मामूली बात पर डंडे से पीटकर युवक की हत्या, पिता ने ग्राम प्रधान पर लगाया आरोप; पुलिस जांच में जुटी",
+   "url": "https://www.amarujala.com/uttar-pradesh/sitapur/youth-beaten-to-death-with-stick-over-trivial-matter-in-sitapur-father-accuses-gram-pradhan-2026-10-13",
+   "t": 1791866056000,
+   "time": "10:04",
    "score": 8,
    "tags": [
     "HINDI",
@@ -1305,72 +1301,55 @@
    "match": 0.12
   },
   {
-   "id": "at-delhi-nightclub-driver-death-bouncers-assault-over-spilled-beer-ntc-ksrj-dskc-2668924-2026-10-13",
-   "src": "at",
-   "pub": "Aaj Tak",
-   "title": "दिल्ली: नाइटक्लब में महिला पर बियर गिरी तो कर दिया मर्डर, बाउंसरों ने शख्स को पीट-पीटकर मार डाला",
-   "url": "https://www.aajtak.in/crime/news/story/delhi-nightclub-driver-death-bouncers-assault-over-spilled-beer-ntc-ksrj-dskc-2668924-2026-10-13",
-   "t": 1791839539000,
-   "time": "02:42",
+   "id": "nbt-134907858.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "'मोदी के लिए ज्ञानेश को बचाना मुश्किल होगा', राहुल गांधी और CJP प्रोटेस्ट पर पाकिस्तानी एक्सपर्ट के जहरीले बोल",
+   "url": "https://navbharattimes.indiatimes.com/world/pakistan/modi-would-not-save-india-election-commissioner-pakistani-expert-on-india-cjp-protest-rahul-gandhi/articleshow/134907858.cms",
+   "t": 1791865785000,
+   "time": "09:59",
    "score": 8,
    "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
+    "POL",
+    "WAR",
+    "CRK",
+    "MONEY"
    ],
    "status": "GAP",
-   "match": 0.11
+   "match": 0.17
   },
   {
-   "id": "bh-kanpur-dehat-farmer-death-accident-unknown-bike-case-update-139338013.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "अज्ञात बाइक की टक्कर से किसान की मौत: कानपुर देहात में पुलिस ने अज्ञात चालक पर केस दर्ज किया",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/kanpur-dehat/rajpur/news/kanpur-dehat-farmer-death-accident-unknown-bike-case-update-139338013.html",
-   "t": 1791839409000,
-   "time": "02:40",
-   "score": 8,
+   "id": "au-brown-sugar-worth-rs2-lakh-seized-khargone-news-c-1-1-noi1457-4827851-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "खरगोन अवैध मादक पदार्थों पर पुलिस का शिकंजा, 2 लाख की ब्राउन शुगर और बाइक के साथ दो आरोपी दबोचे",
+   "url": "https://www.amarujala.com/madhya-pradesh/khargone/brown-sugar-worth-rs2-lakh-seized-khargone-news-c-1-1-noi1457-4827851-2026-10-13",
+   "t": 1791865199000,
+   "time": "09:49",
+   "score": 7,
    "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
+    "MP",
+    "CRIME"
    ],
    "status": "GAP",
-   "match": 0.15
+   "match": 0.1
   },
   {
-   "id": "bh-phulpur-mla-deepak-patel-school-inspection-sahson-pali-visit-139337794.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "फूलपुर विधायक ने प्राथमिक विद्यालय पाली का औचक निरीक्षण: शिक्षण व्यवस्था, साफ-सफाई और मिड-डे मील की गुणवत्ता परखी",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/prayagraj/sahson/news/phulpur-mla-deepak-patel-school-inspection-sahson-pali-visit-139337794.html",
-   "t": 1791838188000,
-   "time": "02:19",
-   "score": 9,
+   "id": "au-cm-yogi-to-address-voter-conference-in-agra-on-october-16-2026-10-13",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "एमएलसी चुनाव 16 को आगरा आएंगे सीएम योगी, 15 हजार मतदाताओं को जुटाने का लक्ष्य; चुनावी तैयारियां तेज",
+   "url": "https://www.amarujala.com/uttar-pradesh/agra/cm-yogi-to-address-voter-conference-in-agra-on-october-16-2026-10-13",
+   "t": 1791864772000,
+   "time": "09:42",
+   "score": 7,
    "tags": [
-    "RAJ",
     "HINDI",
+    "ACC",
     "POL"
    ],
    "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "bh-bemetara-durg-road-accident-ninwa-satyanarayan-verma-death-139337752.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "तेज रफ्तार स्कॉर्पियो की टक्कर से एक मौत: बेमेतरा-दुर्ग मार्ग पर हादसा, बाइक और बच्चों की साइकिलें भी टूटीं, पुलिस ने शुरू की जांच",
-   "url": "https://www.bhaskar.com/local/chhattisgarh/bemetara/news/bemetara-durg-road-accident-ninwa-satyanarayan-verma-death-139337752.html",
-   "t": 1791838002000,
-   "time": "02:16",
-   "score": 9,
-   "tags": [
-    "CG",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.13
+   "match": 0.11
   }
  ]
 }
