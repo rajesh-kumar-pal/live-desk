@@ -1,18 +1,18 @@
 {
- "lastRunAt": 1792145317202,
+ "lastRunAt": 1792162866590,
  "method": "GitHub Actions",
  "windowHours": 3.0,
  "kept": 80,
- "gaps": 75,
+ "gaps": 78,
  "sources": {
   "pat": {
    "name": "Patrika",
    "ok": true,
-   "count": 634,
+   "count": 616,
    "sitemaps": [
     "https://www.patrika.com/google-news-sitemap-v1.xml"
    ],
-   "newest": 1792144055000
+   "newest": 1792160929000
   },
   "au": {
    "name": "Amar Ujala",
@@ -21,45 +21,45 @@
    "sitemaps": [
     "https://www.amarujala.com/sitemap-news-v1.xml"
    ],
-   "newest": 1792145250000
+   "newest": 1792162838000
   },
   "at": {
    "name": "Aaj Tak",
    "ok": true,
-   "count": 1032,
+   "count": 1135,
    "sitemaps": [
     "https://www.aajtak.in/rssfeeds/news-sitemap.xml"
    ],
-   "newest": 1792145206000
+   "newest": 1792162806000
   },
   "zee": {
    "name": "Zee News Hindi",
    "ok": true,
-   "count": 1681,
+   "count": 1679,
    "sitemaps": [
     "https://zeenews.india.com/hindi/sitemaps/news-sitemap.xml",
     "https://zeenews.india.com/hindi/india/rajasthan/news-sitemap.xml"
    ],
-   "newest": 1792141082000
+   "newest": 1792157891000
   },
   "bh": {
    "name": "Bhaskar",
    "ok": true,
-   "count": 1394,
+   "count": 1397,
    "sitemaps": [
     "https://www.bhaskar.com/sitemaps-v1--sitemap-google-news-index.xml"
    ],
-   "newest": 1792165099000
+   "newest": 1792182629000
   },
   "abp": {
    "name": "ABP Live",
    "ok": true,
-   "count": 697,
+   "count": 815,
    "sitemaps": [
     "https://www.abplive.com/news-sitemap.xml",
     "https://www.abplive.com/google-news-sitemap.xml"
    ],
-   "newest": 1792144971000
+   "newest": 1792162706000
   },
   "ndtv": {
    "name": "NDTV Hindi",
@@ -69,11 +69,11 @@
   "nbt": {
    "name": "Navbharat Times",
    "ok": true,
-   "count": 992,
+   "count": 988,
    "sitemaps": [
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-48hours.xml"
    ],
-   "newest": 1792145100000
+   "newest": 1792162626000
   }
  }
 }
