@@ -1,65 +1,65 @@
 {
- "lastRunAt": 1792162866590,
+ "lastRunAt": 1792177358043,
  "method": "GitHub Actions",
  "windowHours": 3.0,
  "kept": 80,
- "gaps": 78,
+ "gaps": 80,
  "sources": {
   "pat": {
    "name": "Patrika",
    "ok": true,
-   "count": 616,
+   "count": 623,
    "sitemaps": [
     "https://www.patrika.com/google-news-sitemap-v1.xml"
    ],
-   "newest": 1792160929000
+   "newest": 1792175460000
   },
   "au": {
    "name": "Amar Ujala",
    "ok": true,
-   "count": 700,
+   "count": 699,
    "sitemaps": [
     "https://www.amarujala.com/sitemap-news-v1.xml"
    ],
-   "newest": 1792162838000
+   "newest": 1792177223000
   },
   "at": {
    "name": "Aaj Tak",
    "ok": true,
-   "count": 1135,
+   "count": 777,
    "sitemaps": [
     "https://www.aajtak.in/rssfeeds/news-sitemap.xml"
    ],
-   "newest": 1792162806000
+   "newest": 1792177206000
   },
   "zee": {
    "name": "Zee News Hindi",
    "ok": true,
-   "count": 1679,
+   "count": 1683,
    "sitemaps": [
     "https://zeenews.india.com/hindi/sitemaps/news-sitemap.xml",
     "https://zeenews.india.com/hindi/india/rajasthan/news-sitemap.xml"
    ],
-   "newest": 1792157891000
+   "newest": 1792172769000
   },
   "bh": {
    "name": "Bhaskar",
    "ok": true,
-   "count": 1397,
+   "count": 1400,
    "sitemaps": [
     "https://www.bhaskar.com/sitemaps-v1--sitemap-google-news-index.xml"
    ],
-   "newest": 1792182629000
+   "newest": 1792197000000
   },
   "abp": {
    "name": "ABP Live",
    "ok": true,
-   "count": 815,
+   "count": 858,
    "sitemaps": [
     "https://www.abplive.com/news-sitemap.xml",
     "https://www.abplive.com/google-news-sitemap.xml"
    ],
-   "newest": 1792162706000
+   "newest": 1792174392000
   },
   "ndtv": {
    "name": "NDTV Hindi",
@@ -69,11 +69,11 @@
   "nbt": {
    "name": "Navbharat Times",
    "ok": true,
-   "count": 988,
+   "count": 982,
    "sitemaps": [
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-48hours.xml"
    ],
-   "newest": 1792162626000
+   "newest": 1792176788000
   }
  }
 }
