@@ -1,117 +1,593 @@
 {
- "generatedAt": 1792683661701,
+ "generatedAt": 1792697573947,
  "items": [
   {
-   "id": "au-masked-goons-roam-maratha-para-armed-with-weapons-outraged-community-surrounds-kotwali-police-station-dhamtari-news-c-1-1-noi1490-4861337-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "धमतरी मराठा पारा में हथियारों के साथ घूमे नकाबपोश गुंडे, आक्रोशित समाज ने घेरा कोतवाली थाना",
-   "url": "https://www.amarujala.com/video/chhattisgarh/dhamtari/masked-goons-roam-maratha-para-armed-with-weapons-outraged-community-surrounds-kotwali-police-station-dhamtari-news-c-1-1-noi1490-4861337-2026-10-22",
-   "t": 1792683307000,
-   "time": "21:05",
-   "score": 6,
+   "id": "bh-jaipur-jda-gopalpura-underpass-civil-lines-sports-arena-project-139456172.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "47.87 करोड़ से बनेगा गोपालपुरा अंडरपास बनेगा: जयपुर के सिविल लाइंस ROB के नीचे बनेगा स्पोर्ट्स एरिना, जेडीए की PWC बैठक में हुआ फैसला",
+   "url": "https://www.bhaskar.com/local/rajasthan/jaipur/news/jaipur-jda-gopalpura-underpass-civil-lines-sports-arena-project-139456172.html",
+   "t": 1792698137000,
+   "time": "01:12",
+   "score": 5,
    "tags": [
-    "CG",
-    "CRIME"
+    "RAJ"
    ],
    "status": "GAP",
-   "match": 0.25
+   "match": 0.2
   },
   {
-   "id": "nbt-135121778.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "शिवा शर्मा हत्याकांड: 6 घंटे पूछताछ में श्रद्धा दुबे की चुप्पी, दो मोबाइल फोन सील, बहन-ड्राइवर समेत तीनों भेजे गए जेल",
-   "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/lucknow/shiva-sharma-murder-case-shraddha-dubey-judicial-custody/articleshow/135121778.cms",
-   "t": 1792683278000,
-   "time": "21:04",
+   "id": "bh-rajasthan-neet-ug-stray-vacancy-round-medical-admission-update-139456025.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "177 नंबर लाने वाले स्टूडेंट को मिली MBBS की सीट: नीट-यूजी स्टेट कोटा; स्ट्रे-वैकेंसी राउंड में 11.93 लाख रैंक वाले को प्राइवेट कॉलेज में मिली जनरल सीट",
+   "url": "https://www.bhaskar.com/local/rajasthan/kota/news/rajasthan-neet-ug-stray-vacancy-round-medical-admission-update-139456025.html",
+   "t": 1792697485000,
+   "time": "01:01",
+   "score": 5,
+   "tags": [
+    "RAJ"
+   ],
+   "status": "GAP",
+   "match": 0.11
+  },
+  {
+   "id": "au-meerut-news-today-live-latest-and-breaking-crime-shiksha-politics-meerut-samachar-in-hindi-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Meerut News Today Live मेरठ और आसपास की ताजा और अहम खबरें, पढ़ें 23 अक्टूबर को आपके शहर में क्या हुआ",
+   "url": "https://www.amarujala.com/live/uttar-pradesh/meerut/meerut-news-today-live-latest-and-breaking-crime-shiksha-politics-meerut-samachar-in-hindi-2026-10-23",
+   "t": 1792697443000,
+   "time": "01:00",
    "score": 5,
    "tags": [
     "HINDI",
     "CRIME"
    ],
    "status": "GAP",
-   "match": 0.41,
+   "match": 0.12
+  },
+  {
+   "id": "bh-nazia-ilahi-khan-sanatan-dharma-conversion-statement-up-news-139456015.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "इस्लाम छोड़ने का ऐलान करने वाली एक्टिविस्ट को धमकी मिली: पाकिस्तानी आतंकी बोला- तुम्हारा सिर कलम कर फुटबॉल खेलूंगा",
+   "url": "https://www.bhaskar.com/local/uttar-pradesh/ghaziabad/news/nazia-ilahi-khan-sanatan-dharma-conversion-statement-up-news-139456015.html",
+   "t": 1792697415000,
+   "time": "01:00",
+   "score": 6,
+   "tags": [
+    "HINDI",
+    "WAR",
+    "MONEY"
+   ],
+   "status": "GAP",
+   "match": 0.33,
    "patrikaMatch": {
-    "title": "शिवा शर्मा हत्याकांड: श्रद्धा दुबे, बहन रश्मि और ड्राइवर दानिश को लेकर लखनऊ पहुंची पुलिस, नागपुर कोर्ट से मिली थी ट्रांजिट रिमांड",
-    "url": "https://www.patrika.com/lucknow-news/shiva-sharma-murder-case-shraddha-rashmi-danish-lucknow-police-transit-remand-21000508"
+    "title": "‘सर कलम कर सिर से फुटबॉल खेलेंगे’: गाजियाबाद में सामाजिक कार्यकर्ता नाजिया इलाही खान को मिली सिर तन से जुदा की धमकी",
+    "url": "https://www.patrika.com/ghaziabad-news/activist-nazia-elahi-khan-receives-death-threat-whatsapp-21002074"
    }
   },
   {
-   "id": "au-ghazipur-teenager-injured-in-collision-between-two-motorcycles-dies-2026-10-22",
+   "id": "au-teenager-died-from-hanging-post-mortem-confirms-kushinagar-news-c-205-1-deo1003-170745-2026-10-23",
    "src": "au",
    "pub": "Amar Ujala",
-   "title": "गाजीपुर दो बाइकों की टक्कर में घायल किशोर की मौत, इलाज के दौरान तोड़ा दम",
-   "url": "https://www.amarujala.com/uttar-pradesh/ghazipur/ghazipur-teenager-injured-in-collision-between-two-motorcycles-dies-2026-10-22",
-   "t": 1792683203000,
-   "time": "21:03",
+   "title": "Kushinagar News फंदा लगाने से हुई थी किशोरी की मौत, पोस्टमार्टम में तस्दीक",
+   "url": "https://www.amarujala.com/uttar-pradesh/kushinagar/teenager-died-from-hanging-post-mortem-confirms-kushinagar-news-c-205-1-deo1003-170745-2026-10-23",
+   "t": 1792697304000,
+   "time": "00:58",
    "score": 5,
    "tags": [
     "HINDI",
     "ACC"
    ],
    "status": "GAP",
-   "match": 0.18
+   "match": 0.14
   },
   {
-   "id": "au-couples-sleeping-in-shop-shot-dead-wife-press-2-free-after-husband-is-shot-bhagalpur-news-c-1-1-noi1518-4860167-2026-10-22",
+   "id": "au-city-eventscamps-various-activities-under-an-nss-camp-will-begin-at-900-am-at-raghunathpura-school-bilaspur-news-c-92-1-bls1001-170482-2026-10-23",
    "src": "au",
    "pub": "Amar Ujala",
-   "title": "बिहार में खूनी वारदात किराना दुकानदार और पत्नी की गोली मारकर हत्या, गांव में डर का माहौल",
-   "url": "https://www.amarujala.com/bihar/bhagalpur/couples-sleeping-in-shop-shot-dead-wife-press-2-free-after-husband-is-shot-bhagalpur-news-c-1-1-noi1518-4860167-2026-10-22",
-   "t": 1792683184000,
-   "time": "21:03",
+   "title": "Bilaspur News सिटी के कार्यक्रम",
+   "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/city-eventscamps-various-activities-under-an-nss-camp-will-begin-at-900-am-at-raghunathpura-school-bilaspur-news-c-92-1-bls1001-170482-2026-10-23",
+   "t": 1792697280000,
+   "time": "00:58",
+   "score": 6,
+   "tags": [
+    "CG",
+    "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.09
+  },
+  {
+   "id": "au-ba-student-bitten-by-a-snake-in-a-hay-shed-dies-ghazipur-news-c-313-1-svns1007-162577-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Ghazipur News भूसा घर में गई बीए की छात्रा को सर्प ने डसा, मौत",
+   "url": "https://www.amarujala.com/uttar-pradesh/ghazipur/ba-student-bitten-by-a-snake-in-a-hay-shed-dies-ghazipur-news-c-313-1-svns1007-162577-2026-10-23",
+   "t": 1792697230000,
+   "time": "00:57",
+   "score": 5,
+   "tags": [
+    "HINDI",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.14
+  },
+  {
+   "id": "au-teenage-girl-accuses-policeman-of-sexual-exploitation-ghazipur-news-c-313-1-svns1020-162620-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Ghazipur News किशोरी ने सिपाही पर लगाया यौन शोषण का आरोप",
+   "url": "https://www.amarujala.com/uttar-pradesh/ghazipur/teenage-girl-accuses-policeman-of-sexual-exploitation-ghazipur-news-c-313-1-svns1020-162620-2026-10-23",
+   "t": 1792697182000,
+   "time": "00:56",
    "score": 5,
    "tags": [
     "HINDI",
     "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.21
+  },
+  {
+   "id": "au-luhnu-ground-to-become-a-cricket-park-90-percent-of-the-area-will-be-covered-in-greenery-bilaspur-news-c-92-1-ssml1001-170415-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Bilaspur News लुहणू मैदान बनेगा क्रिकेट पार्क, 90 फीसदी हिस्सा में रहेगी हरियाली",
+   "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/luhnu-ground-to-become-a-cricket-park-90-percent-of-the-area-will-be-covered-in-greenery-bilaspur-news-c-92-1-ssml1001-170415-2026-10-23",
+   "t": 1792697173000,
+   "time": "00:56",
+   "score": 5,
+   "tags": [
+    "CG",
+    "CRK"
+   ],
+   "status": "GAP",
+   "match": 0.15
+  },
+  {
+   "id": "au-paid-tribute-to-the-martyred-police-personnel-yamuna-nagar-news-c-246-1-ymn1007-165049-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Yamuna Nagar News बलिदानी पुलिसकर्मियों को दी श्रद्धांजलि",
+   "url": "https://www.amarujala.com/haryana/yamuna-nagar/paid-tribute-to-the-martyred-police-personnel-yamuna-nagar-news-c-246-1-ymn1007-165049-2026-10-23",
+   "t": 1792697098000,
+   "time": "00:54",
+   "score": 5,
+   "tags": [
+    "HINDI",
+    "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.09
+  },
+  {
+   "id": "au-post-mortem-confirms-death-by-hanging-last-rites-performed-kushinagar-news-c-205-1-ksh1019-170725-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Kushinagar News पोस्टमार्टम में हैंगिंग से मौत की पुष्टि, हुआ अंतिम संस्कार",
+   "url": "https://www.amarujala.com/uttar-pradesh/kushinagar/post-mortem-confirms-death-by-hanging-last-rites-performed-kushinagar-news-c-205-1-ksh1019-170725-2026-10-23",
+   "t": 1792697046000,
+   "time": "00:54",
+   "score": 5,
+   "tags": [
+    "HINDI",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "au-life-imprisonment-for-raping-an-eight-year-old-girl-farrukhabad-news-c-222-1-frk1001-150545-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Farrukhabad News आठ साल की बालिका से दुष्कर्म में उम्रकैद",
+   "url": "https://www.amarujala.com/uttar-pradesh/farrukhabad/life-imprisonment-for-raping-an-eight-year-old-girl-farrukhabad-news-c-222-1-frk1001-150545-2026-10-23",
+   "t": 1792697039000,
+   "time": "00:53",
+   "score": 5,
+   "tags": [
+    "HINDI",
+    "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.31,
+   "patrikaMatch": {
+    "title": "jaisalmer: सत्रह साल के बरकत की मौत से बदली घर की तस्वीर, भाई पर बढ़ा बोझ",
+    "url": "https://www.patrika.com/jaisalmer-news/the-death-of-seventeen-year-old-barkat-changed-the-familys-life-21002229"
+   }
+  },
+  {
+   "id": "au-uproar-after-woman-dies-8-days-following-a-caesarean-delivery-at-an-unregistered-hospital-sonbhadra-news-c-194-1-son1033-155173-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Sonebhadra News बिना पंजीकरण चल रहे अस्पताल में सिजेरियन प्रसव, 8 दिन बाद महिला की मौत पर हंगामा",
+   "url": "https://www.amarujala.com/uttar-pradesh/sonebhadra/uproar-after-woman-dies-8-days-following-a-caesarean-delivery-at-an-unregistered-hospital-sonbhadra-news-c-194-1-son1033-155173-2026-10-23",
+   "t": 1792697007000,
+   "time": "00:53",
+   "score": 5,
+   "tags": [
+    "HINDI",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.3,
+   "patrikaMatch": {
+    "title": "Ahmedabad : सिविल अस्पताल में 400 पथरियों से भरा महिला का पित्ताशय निकाला",
+    "url": "https://www.patrika.com/ahmedabad-news/civil-hospital-ahmedabad-21002270"
+   }
+  },
+  {
+   "id": "au-woman-dies-at-private-hospital-negligence-alleged-kaushambi-news-c-261-1-kmb1014-150524-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Kaushambi News निजी अस्पताल में महिला की मौत, लापरवाही का आरोप",
+   "url": "https://www.amarujala.com/uttar-pradesh/kaushambi/woman-dies-at-private-hospital-negligence-alleged-kaushambi-news-c-261-1-kmb1014-150524-2026-10-23",
+   "t": 1792696991000,
+   "time": "00:53",
+   "score": 5,
+   "tags": [
+    "HINDI",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.3,
+   "patrikaMatch": {
+    "title": "Ahmedabad : सिविल अस्पताल में 400 पथरियों से भरा महिला का पित्ताशय निकाला",
+    "url": "https://www.patrika.com/ahmedabad-news/civil-hospital-ahmedabad-21002270"
+   }
+  },
+  {
+   "id": "au-veterinarian-killed-after-bike-is-struck-by-a-van-amethi-news-c-96-1-ame1002-178708-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Amethi News वैन की चपेट में आई बाइक, पशु चिकित्सक की मौत",
+   "url": "https://www.amarujala.com/uttar-pradesh/amethi/veterinarian-killed-after-bike-is-struck-by-a-van-amethi-news-c-96-1-ame1002-178708-2026-10-23",
+   "t": 1792696896000,
+   "time": "00:51",
+   "score": 5,
+   "tags": [
+    "HINDI",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.23
+  },
+  {
+   "id": "au-ransingha-of-gunja-himachal-at-ujjain-film-festival-bilaspur-news-c-92-1-bls1001-170428-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Bilaspur News उज्जैन फिल्म फेस्टिवल में भी गूंजा हिमाचल का रणसिंघा",
+   "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/ransingha-of-gunja-himachal-at-ujjain-film-festival-bilaspur-news-c-92-1-bls1001-170428-2026-10-23",
+   "t": 1792696852000,
+   "time": "00:50",
+   "score": 8,
+   "tags": [
+    "MP",
+    "CG",
+    "ENT"
+   ],
+   "status": "GAP",
+   "match": 0.18
+  },
+  {
+   "id": "au-water-sports-will-be-available-at-gobindsagar-lake-while-a-glass-bridge-and-cable-car-will-be-provided-at-mandi-bharari-bilaspur-news-c-92-1-ssml1001-170462-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Bilaspur News गोबिंदसागर झील में वाटर स्पोर्ट्स, मंडी-भराड़ी में ग्लास ब्रिज और केबल कार मिलेगी सुविधा",
+   "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/water-sports-will-be-available-at-gobindsagar-lake-while-a-glass-bridge-and-cable-car-will-be-provided-at-mandi-bharari-bilaspur-news-c-92-1-ssml1001-170462-2026-10-23",
+   "t": 1792696794000,
+   "time": "00:49",
+   "score": 7,
+   "tags": [
+    "MP",
+    "CG"
+   ],
+   "status": "GAP",
+   "match": 0.11
+  },
+  {
+   "id": "au-set-himself-on-fire-after-pouring-diesel-on-himself-following-a-dispute-with-his-wife-farrukhabad-news-c-22-1-sknp1018-112232-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Farrukhabad News पत्नी से विवाद पर डीजल डाल खुद को लगाई आग",
+   "url": "https://www.amarujala.com/uttar-pradesh/farrukhabad/set-himself-on-fire-after-pouring-diesel-on-himself-following-a-dispute-with-his-wife-farrukhabad-news-c-22-1-sknp1018-112232-2026-10-23",
+   "t": 1792696759000,
+   "time": "00:49",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "ACC",
+    "MONEY"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "au-woman-dies-in-lank-husband-accused-of-murdering-her-by-administering-poison-shamli-news-c-26-1-smrt1048-176620-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Shamli News लांक में महिला की मौत, पति पर जहर खिलाकर हत्या का आरोप",
+   "url": "https://www.amarujala.com/uttar-pradesh/shamli/woman-dies-in-lank-husband-accused-of-murdering-her-by-administering-poison-shamli-news-c-26-1-smrt1048-176620-2026-10-23",
+   "t": 1792696655000,
+   "time": "00:47",
+   "score": 8,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.21
+  },
+  {
+   "id": "au-police-keeping-an-eye-on-suspicious-individuals-loitering-outside-schools-bilaspur-news-c-92-1-ssml1001-170449-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Bilaspur News स्कूलों के बाहर घूमने वाले संदिग्धों पर पुलिस की नजर",
+   "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/police-keeping-an-eye-on-suspicious-individuals-loitering-outside-schools-bilaspur-news-c-92-1-ssml1001-170449-2026-10-23",
+   "t": 1792696480000,
+   "time": "00:44",
+   "score": 6,
+   "tags": [
+    "CG",
+    "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "au-inform-students-about-career-options-and-advise-them-to-set-goals-and-move-forward-bilaspur-news-c-92-1-bls1001-170455-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Bilaspur News विद्यार्थियों को बताए कॅरिअर के विकल्प, लक्ष्य तय कर आगे बढ़ने की सलाह",
+   "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/inform-students-about-career-options-and-advise-them-to-set-goals-and-move-forward-bilaspur-news-c-92-1-bls1001-170455-2026-10-23",
+   "t": 1792696406000,
+   "time": "00:43",
+   "score": 8,
+   "tags": [
+    "CG",
+    "ACC",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.07
+  },
+  {
+   "id": "bh-gwalior-municipal-corporation-jobs-sheetla-mata-temple-accident-victims-139455857.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "ग्वालियर हादसे में 16 मौतें, परिजन को मिलेगी नौकरी: नगर निगम आउटसोर्सिंग पर रखेगा; ट्रक ने शीतला मंदिर के पास 57 श्रद्धालुओं को कुचला था",
+   "url": "https://www.bhaskar.com/local/mp/gwalior/news/gwalior-municipal-corporation-jobs-sheetla-mata-temple-accident-victims-139455857.html",
+   "t": 1792696062000,
+   "time": "00:37",
+   "score": 7,
+   "tags": [
+    "MP",
+    "ACC"
+   ],
+   "status": "COVERED",
+   "match": 0.5,
+   "patrikaMatch": {
+    "title": "ग्वालियर निगम परिषद में गूंजा शीतला माता मंदिर हादसे का मुद्दा, पुलिस प्रशासन पर लगे गंभीर आरोप",
+    "url": "https://www.patrika.com/gwalior-news/sheetla-mata-temple-accident-echoed-in-gwalior-municipal-council-21001542"
+   }
+  },
+  {
+   "id": "au-labourer-beaten-to-death-body-found-lying-in-the-street-gurgaon-news-c-24-1-gur1002-105130-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Gurugram News श्रमिक की पीट-पीटकर हत्या, गली में पड़ा मिला शव",
+   "url": "https://www.amarujala.com/delhi-ncr/gurgaon/labourer-beaten-to-death-body-found-lying-in-the-street-gurgaon-news-c-24-1-gur1002-105130-2026-10-23",
+   "t": 1792695863000,
+   "time": "00:34",
+   "score": 6,
+   "tags": [
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "au-four-arrested-with-election-campaign-material-and-rs-241-lakh-azamgarh-news-c-258-1-svns1001-159310-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Azamgarh News चुनाव प्रचार सामग्री और 2.41 लाख रुपये के साथ चार गिरफ्तार",
+   "url": "https://www.amarujala.com/uttar-pradesh/azamgarh/four-arrested-with-election-campaign-material-and-rs-241-lakh-azamgarh-news-c-258-1-svns1001-159310-2026-10-23",
+   "t": 1792695629000,
+   "time": "00:30",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.13
+  },
+  {
+   "id": "au-uproar-over-vote-manipulation-congress-and-sp-allege-that-officials-acted-at-the-behest-of-a-minister-demand-a-cbi-probe-pilibhit-news-c-121-1-pbt1009-171705-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Pilibhit News वोटों में हेराफेरी पर संग्राम, कांग्रेस-सपा बोली- मंत्री के इशारे पर अफसरों ने उठाया कदम, सीबीआई जांच की मांग",
+   "url": "https://www.amarujala.com/uttar-pradesh/pilibhit/uproar-over-vote-manipulation-congress-and-sp-allege-that-officials-acted-at-the-behest-of-a-minister-demand-a-cbi-probe-pilibhit-news-c-121-1-pbt1009-171705-2026-10-23",
+   "t": 1792695620000,
+   "time": "00:30",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.16
+  },
+  {
+   "id": "bh-rajasthan-top-news-headlines-naresh-meena-panchayat-election-jaipur-gold-factory-fire-139455786.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "राजस्थान दिनभर, 10 बड़ी खबरें: रिटायर्ड कर्नल ने खुद को गोली मारी; नरेश मीणा पेड़ पर चढ़े,नारेबाजी की; महिला से शादी की जिद,टावर पर चढ़ा युवक",
+   "url": "https://www.bhaskar.com/local/rajasthan/news/rajasthan-top-news-headlines-naresh-meena-panchayat-election-jaipur-gold-factory-fire-139455786.html",
+   "t": 1792695509000,
+   "time": "00:28",
+   "score": 13,
+   "tags": [
+    "RAJ",
+    "CRIME",
+    "ACC",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.2
+  },
+  {
+   "id": "bh-bjp-loktantra-bachao-campaign-gen-z-influencers-congress-narrative-139455775.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "बीजेपी का लोकतंत्र बचाओ, भीड़तंत्र हटाओ अभियान: कांग्रेस के नरेटिव को तोड़ने के लिए जेन-जी और सोशल मीडिया इंफ्लुएंसर्स के बीच जाएगी पार्टी",
+   "url": "https://www.bhaskar.com/local/rajasthan/jaipur/news/bjp-loktantra-bachao-campaign-gen-z-influencers-congress-narrative-139455775.html",
+   "t": 1792695434000,
+   "time": "00:27",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.17
+  },
+  {
+   "id": "au-businessman-called-to-the-police-station-dies-balrampur-news-c-99-1-slko1029-156736-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Balrampur News थाने बुलाए गए कारोबारी की मौत",
+   "url": "https://www.amarujala.com/uttar-pradesh/balrampur/businessman-called-to-the-police-station-dies-balrampur-news-c-99-1-slko1029-156736-2026-10-23",
+   "t": 1792695283000,
+   "time": "00:24",
+   "score": 8,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.18
+  },
+  {
+   "id": "au-council-member-attacked-for-testifying-in-court-struck-multiple-times-on-the-head-with-a-rod-kushinagar-news-c-205-1-deo1003-170748-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Kushinagar News अदालत में गवाही देने पर सभासद पर हमला, सिर पर रॉड से किए कई वार",
+   "url": "https://www.amarujala.com/uttar-pradesh/kushinagar/council-member-attacked-for-testifying-in-court-struck-multiple-times-on-the-head-with-a-rod-kushinagar-news-c-205-1-deo1003-170748-2026-10-23",
+   "t": 1792695232000,
+   "time": "00:23",
+   "score": 6,
+   "tags": [
+    "HINDI",
+    "WAR",
+    "CRK"
+   ],
+   "status": "GAP",
+   "match": 0.1
+  },
+  {
+   "id": "au-85-year-old-disabled-woman-also-an-accused-in-case-involving-attack-on-police-sonbhadra-news-c-194-1-son1033-155137-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Sonebhadra News पुलिस पर हमले के मामले में 85 वर्षीय दिव्यांग महिला भी आरोपी",
+   "url": "https://www.amarujala.com/uttar-pradesh/sonebhadra/85-year-old-disabled-woman-also-an-accused-in-case-involving-attack-on-police-sonbhadra-news-c-194-1-son1033-155137-2026-10-23",
+   "t": 1792695085000,
+   "time": "00:21",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "WAR"
    ],
    "status": "GAP",
    "match": 0.25
   },
   {
-   "id": "bh-shimla-secretariat-ugc-law-protest-lathicharge-water-cannon-clash-139453503.html",
+   "id": "bh-dewas-head-constable-feroz-khan-land-scam-lokayukta-investigation-139455712.html",
    "src": "bh",
    "pub": "Bhaskar",
-   "title": "शिमला में UGC पर बवाल, प्रदर्शनकारियों-पुलिस में झड़प: वाटर कैनन के बाद हल्का बल प्रयोग; सचिवालय के मेन गेट तक पहुंचे; पुलिस पर क्रेट-डंडे फेंके",
-   "url": "https://www.bhaskar.com/local/himachal/shimla/news/shimla-secretariat-ugc-law-protest-lathicharge-water-cannon-clash-139453503.html",
-   "t": 1792683096000,
-   "time": "21:01",
-   "score": 5,
+   "title": "हेड कॉन्स्टेबल की पत्नी-बेटी ने नीलामी में लगाई थी बोली: ₹92 लाख में 2 प्लॉट खरीदे, ₹9 करोड़ के जमीन सौदे में भी गवाह बना फिरोज",
+   "url": "https://www.bhaskar.com/local/mp/indore/news/dewas-head-constable-feroz-khan-land-scam-lokayukta-investigation-139455712.html",
+   "t": 1792694979000,
+   "time": "00:19",
+   "score": 7,
    "tags": [
-    "CRIME",
-    "POL"
-   ],
-   "status": "GAP",
-   "match": 0.12
-  },
-  {
-   "id": "au-meerut-news-today-live-latest-and-breaking-crime-shiksha-politics-meerut-samachar-in-hindi-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Meerut News Today Live मेरठ और आसपास की ताजा और अहम खबरें, पढ़ें 22 अक्टूबर को आपके शहर में क्या हुआ",
-   "url": "https://www.amarujala.com/live/uttar-pradesh/meerut/meerut-news-today-live-latest-and-breaking-crime-shiksha-politics-meerut-samachar-in-hindi-2026-10-22",
-   "t": 1792683028000,
-   "time": "21:00",
-   "score": 5,
-   "tags": [
-    "HINDI",
+    "MP",
     "CRIME"
    ],
    "status": "GAP",
    "match": 0.12
   },
   {
-   "id": "au-case-filed-against-three-accused-who-stole-a-cow-and-claimed-during-a-panchayat-meeting-that-they-had-slaughtered-and-eaten-it-ratlam-news-c-1-1-noi1428-4862073-2026-10-22",
+   "id": "nbt-135125427.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "राजस्थान पंचायत चुनाव 2026: 104 समितियों का पहला चरण पूरा, जानें किस जिले में पड़े सबसे ज्यादा और कम वोट",
+   "url": "https://navbharattimes.indiatimes.com/state/rajasthan/jaipur/rajasthan-panchayat-election-2026-phase-1-voting-percentage-district-wise-104-panchayat-samitis/articleshow/135125427.cms",
+   "t": 1792694841000,
+   "time": "00:17",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.15
+  },
+  {
+   "id": "au-power-supply-system-falters-due-to-electricity-workers-strike-150-villages-and-60-colonies-face-a-blackout-rewari-news-c-198-1-rew1001-247588-2026-10-23",
    "src": "au",
    "pub": "Amar Ujala",
-   "title": "रतलाम गाय चोरी कर काटकर खाने का आरोप, पंचायत में तीन लोगों ने कबूली वारदात; केस दर्ज",
-   "url": "https://www.amarujala.com/madhya-pradesh/ratlam/case-filed-against-three-accused-who-stole-a-cow-and-claimed-during-a-panchayat-meeting-that-they-had-slaughtered-and-eaten-it-ratlam-news-c-1-1-noi1428-4862073-2026-10-22",
-   "t": 1792683016000,
-   "time": "21:00",
-   "score": 9,
+   "title": "Rewari News बिजली कर्मचारियों की हड़ताल से हांफी व्यवस्था, 150 गांवों और 60 कॉलोनियों में ब्लैकआउट",
+   "url": "https://www.amarujala.com/haryana/rewari/power-supply-system-falters-due-to-electricity-workers-strike-150-villages-and-60-colonies-face-a-blackout-rewari-news-c-198-1-rew1001-247588-2026-10-23",
+   "t": 1792694722000,
+   "time": "00:15",
+   "score": 8,
    "tags": [
     "MP",
+    "HINDI",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.13
+  },
+  {
+   "id": "au-online-applications-invited-for-207-vacant-posts-at-ration-depots-rewari-news-c-198-1-rew1001-247573-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Rewari News राशन डिपो के 207 रिक्त पदों के लिए ऑनलाइन आवेदन आमंत्रित",
+   "url": "https://www.amarujala.com/haryana/rewari/online-applications-invited-for-207-vacant-posts-at-ration-depots-rewari-news-c-198-1-rew1001-247573-2026-10-23",
+   "t": 1792694497000,
+   "time": "00:11",
+   "score": 8,
+   "tags": [
+    "MP",
+    "HINDI",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.15
+  },
+  {
+   "id": "bh-pilibhit-voter-list-irregularity-sdm-case-cbi-demand-139455615.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "पीलीभीत के 2 SDM पर FIR, कंप्यूटर ऑपरेटर बर्खास्त: चुनाव आयोग का एक्शन, कांग्रेस का दावा- 13150 मुस्लिम वोटरों के नाम बदले",
+   "url": "https://www.bhaskar.com/local/uttar-pradesh/pilibhit/news/pilibhit-voter-list-irregularity-sdm-case-cbi-demand-139455615.html",
+   "t": 1792694349000,
+   "time": "00:09",
+   "score": 7,
+   "tags": [
+    "HINDI",
     "CRIME",
     "POL"
    ],
@@ -119,187 +595,137 @@
    "match": 0.15
   },
   {
-   "id": "au-bike-borne-miscreants-robbed-a-jeweler-of-bag-filled-with-ornaments-and-cash-in-etah-2026-10-22",
+   "id": "au-celebrations-took-place-as-soon-as-shri-ram-arrived-in-ayodhya-and-his-coronation-was-held-rewari-news-c-198-1-sroh1010-247566-2026-10-23",
    "src": "au",
    "pub": "Amar Ujala",
-   "title": "एटा में सराफा से लूट आभूषणों से भरा बैग और नकदी ले गए बदमाश, दुकान बंदकर लाैट रहे चाचा-भतीजे से की वारदात",
-   "url": "https://www.amarujala.com/uttar-pradesh/etah/bike-borne-miscreants-robbed-a-jeweler-of-bag-filled-with-ornaments-and-cash-in-etah-2026-10-22",
-   "t": 1792682966000,
-   "time": "20:59",
-   "score": 5,
-   "tags": [
-    "HINDI",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.1
-  },
-  {
-   "id": "au-accused-arrested-for-burglary-at-an-agricultural-center-in-pandariya-he-had-stolen-rs-410-lakh-and-purchased-silver-ornaments-with-only-rs-149-lakh-remaining-he-was-caught-through-cctv-fo",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "कबीरधाम कृषि केंद्र से 4.10 लाख की चोरी, आरोपी गिरफ्तार; चांदी के लच्छे और नगदी समेत 3 लाख की संपत्ति जब्त",
-   "url": "https://www.amarujala.com/chhattisgarh/kabirdham/accused-arrested-for-burglary-at-an-agricultural-center-in-pandariya-he-had-stolen-rs-410-lakh-and-purchased-silver-ornaments-with-only-rs-149-lakh-remaining-he-was-caught-through-cctv-footage-and-technical-evidence-kabirdham-news-c-1-1-noi1482-4860790-2026-10-22",
-   "t": 1792682939000,
-   "time": "20:58",
+   "title": "Rewari News श्रीराम के अयोध्या आते ही मनाई खुशियां, राज्याभिषेक हुआ",
+   "url": "https://www.amarujala.com/haryana/rewari/celebrations-took-place-as-soon-as-shri-ram-arrived-in-ayodhya-and-his-coronation-was-held-rewari-news-c-198-1-sroh1010-247566-2026-10-23",
+   "t": 1792694348000,
+   "time": "00:09",
    "score": 8,
    "tags": [
-    "CG",
+    "MP",
+    "HINDI",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.05
+  },
+  {
+   "id": "au-12-miscreants-arrested-for-attack-during-idol-immersion-fatehpur-news-c-217-1-sknp1022-164973-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Fatehpur News मूर्ति विसर्जन के दौरान हमले में 12 उपद्रवी गिरफ्तार",
+   "url": "https://www.amarujala.com/uttar-pradesh/fatehpur/12-miscreants-arrested-for-attack-during-idol-immersion-fatehpur-news-c-217-1-sknp1022-164973-2026-10-23",
+   "t": 1792694264000,
+   "time": "00:07",
+   "score": 7,
+   "tags": [
+    "HINDI",
     "CRIME",
-    "MONEY"
+    "WAR"
    ],
    "status": "GAP",
    "match": 0.14
   },
   {
-   "id": "bh-prayagraj-school-van-accident-student-crushed-cctv-footage-139453454.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "प्रयागराज में 8 साल की छात्रा को वैन ने रौंदा: बैग उतारते समय स्कूल वैन के नीचे आई; ड्राइवर कुचलता चला गया",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/prayagraj/news/prayagraj-school-van-accident-student-crushed-cctv-footage-139453454.html",
-   "t": 1792682855000,
-   "time": "20:57",
-   "score": 5,
-   "tags": [
-    "HINDI",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "au-video-fire-breaks-out-in-a-pile-of-trash-in-mandhana-suffocating-smoke-spreads-through-the-locality-2026-10-22",
+   "id": "au-two-more-accused-arrested-in-case-of-a-life-threatening-attack-rewari-news-c-198-1-sroh1010-247570-2026-10-23",
    "src": "au",
    "pub": "Amar Ujala",
-   "title": "कानपुर मंधना में कूड़े के ढेर में लगी आग, दमघोंटू धुंआ बस्ती में फैला",
-   "url": "https://www.amarujala.com/video/uttar-pradesh/kanpur/video-fire-breaks-out-in-a-pile-of-trash-in-mandhana-suffocating-smoke-spreads-through-the-locality-2026-10-22",
-   "t": 1792682758000,
-   "time": "20:55",
-   "score": 5,
+   "title": "Rewari News जानलेवा हमले के मामले में दो और आरोपी गिरफ्तार",
+   "url": "https://www.amarujala.com/haryana/rewari/two-more-accused-arrested-in-case-of-a-life-threatening-attack-rewari-news-c-198-1-sroh1010-247570-2026-10-23",
+   "t": 1792694176000,
+   "time": "00:06",
+   "score": 11,
+   "tags": [
+    "MP",
+    "HINDI",
+    "CRIME",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.33,
+   "patrikaMatch": {
+    "title": "PNB बैंक में 17.29 करोड़ रुपये के नकली नोट का मामला, हरियाणा और हिमाचल प्रदेश से दो आरोपी गिरफ्तार",
+    "url": "https://www.patrika.com/national-news/nia-fake-currency-case-saharanpur-pnb-bank-arrests-two-main-accused-21001940"
+   }
+  },
+  {
+   "id": "au-a-womens-shelter-will-be-built-in-sector-16-rewari-news-c-198-1-sroh1010-247567-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Rewari News जमीन चिह्नित, सेक्टर 16 में बनेगा महिला आश्रम",
+   "url": "https://www.amarujala.com/haryana/rewari/a-womens-shelter-will-be-built-in-sector-16-rewari-news-c-198-1-sroh1010-247567-2026-10-23",
+   "t": 1792693954000,
+   "time": "00:02",
+   "score": 8,
+   "tags": [
+    "MP",
+    "HINDI",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.1
+  },
+  {
+   "id": "au-fire-breaks-out-at-petrol-pump-due-to-battery-explosion-goods-and-cash-worth-23-lakh-destroyed-bhiwani-news-c-21-1-hsr1034-978746-2026-10-23",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Bhiwani News पेट्रोल पंप पर बैटरी में ब्लास्ट से लगी आग, 23 लाख का सामान और नकदी जली",
+   "url": "https://www.amarujala.com/haryana/bhiwani/fire-breaks-out-at-petrol-pump-due-to-battery-explosion-goods-and-cash-worth-23-lakh-destroyed-bhiwani-news-c-21-1-hsr1034-978746-2026-10-23",
+   "t": 1792693802000,
+   "time": "00:00",
+   "score": 7,
    "tags": [
     "HINDI",
+    "ACC",
+    "MONEY"
+   ],
+   "status": "GAP",
+   "match": 0.13
+  },
+  {
+   "id": "au-video-people-are-still-not-learning-even-after-300-accidents-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Video 300 हादसों के बाद भी नहीं चेत रहे लोग, पुलिस अधिकारियों ने की ये अपील",
+   "url": "https://www.amarujala.com/video/uttar-pradesh/etah/video-people-are-still-not-learning-even-after-300-accidents-2026-10-22",
+   "t": 1792693790000,
+   "time": "23:59",
+   "score": 8,
+   "tags": [
+    "HINDI",
+    "CRIME",
     "ACC"
    ],
    "status": "GAP",
    "match": 0.13
   },
   {
-   "id": "au-video-air-show-wins-the-hearts-of-kashi-residents-praise-for-pm-modi-initiative-and-air-force-valor-2026-10-22",
+   "id": "au-five-trains-will-be-affected-due-to-bridge-construction-on-the-delhi-rewari-rail-section-rewari-news-c-198-1-rew1001-247597-2026-10-22",
    "src": "au",
    "pub": "Amar Ujala",
-   "title": "एयर शो ने जीता काशीवासियों का दिल पीएम मोदी की पहल और वायुसेना के शौर्य की तारीफ",
-   "url": "https://www.amarujala.com/video-shots/uttar-pradesh/varanasi/video-air-show-wins-the-hearts-of-kashi-residents-praise-for-pm-modi-initiative-and-air-force-valor-2026-10-22",
-   "t": 1792682677000,
-   "time": "20:54",
-   "score": 6,
-   "tags": [
-    "HINDI",
-    "POL",
-    "CRK"
-   ],
-   "status": "GAP",
-   "match": 0.32,
-   "patrikaMatch": {
-    "title": "काशी में ‘ऑपरेशन सिंदूर’ का नजारा, तीन दिवसीय एयर शो की शुरुआत, महिला पायलट्स भी दिखा रहीं वायुसेना का शौर्य",
-    "url": "https://www.patrika.com/varanasi-news/varanasi-air-show-indian-air-force-operation-sindoor-rafale-pm-narendra-modi-21000265"
-   }
-  },
-  {
-   "id": "au-jalore-3-dead-including-mother-and-two-children-in-collision-between-a-bus-and-tempo-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "जालोर रोडवेज बस और टेम्पो की भीषण भिड़ंत, तीन की मौत; 10 साल का बच्चा गंभीर",
-   "url": "https://www.amarujala.com/rajasthan/jalore-3-dead-including-mother-and-two-children-in-collision-between-a-bus-and-tempo-2026-10-22",
-   "t": 1792682563000,
-   "time": "20:52",
+   "title": "Rewari News दिल्ली-रेवाड़ी रेलखंड पर ब्रिज निर्माण के चलते पांच ट्रेनें होंगी प्रभावित",
+   "url": "https://www.amarujala.com/haryana/rewari/five-trains-will-be-affected-due-to-bridge-construction-on-the-delhi-rewari-rail-section-rewari-news-c-198-1-rew1001-247597-2026-10-22",
+   "t": 1792693777000,
+   "time": "23:59",
    "score": 8,
    "tags": [
-    "RAJ",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.39,
-   "patrikaMatch": {
-    "title": "Jalore Accident: रोडवेज बस-टेम्पो की टक्कर में एक ही परिवार के 3 लोगों की मौत, मासूम की हालत नाजुक",
-    "url": "https://www.patrika.com/jalore-news/jalore-roadways-bus-tempo-accident-three-dead-same-family-21001489"
-   }
-  },
-  {
-   "id": "au-delhi-police-registers-fir-over-racial-remarks-against-a-youth-from-tripura-accused-social-media-influencer-arrested-delhi-ncr-news-c-340-1-del1011-160316-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Delhi NCR News त्रिपुरा के युवक पर नस्ली टिप्पणी में दिल्ली पुलिस ने प्राथमिकी दर्ज की, आरोपी सोशल मीडिया इन्फ्लुएंसर गिरफ्तारी",
-   "url": "https://www.amarujala.com/delhi-ncr/delhi-police-registers-fir-over-racial-remarks-against-a-youth-from-tripura-accused-social-media-influencer-arrested-delhi-ncr-news-c-340-1-del1011-160316-2026-10-22",
-   "t": 1792682377000,
-   "time": "20:49",
-   "score": 5,
-   "tags": [
+    "MP",
     "HINDI",
-    "CRIME"
+    "WAR"
    ],
    "status": "GAP",
-   "match": 0.4,
-   "patrikaMatch": {
-    "title": "Aamir Shaukeen Arrested: त्रिपुरा के युवक से बदसलूकी के मामले में यूट्यूबर आमिर शौकीन गिरफ्तार, दिल्ली पुलिस ने दर्ज किया केस",
-    "url": "https://www.patrika.com/national-news/aamir-shaukeen-arrest-tripura-youth-harassment-case-21002087"
-   }
+   "match": 0.1
   },
   {
-   "id": "zee-1792682040834",
-   "src": "zee",
-   "pub": "Zee News Hindi",
-   "title": "प्रतापगढ़ कृषि मंडी में सोयाबीन-मक्का की बंपर आवक, सड़क पर 1 KM तक लगी वाहनों की कतारें",
-   "url": "https://zeenews.india.com/hindi/india/rajasthan/pratapgargh/pratapgarh-agricultural-market-heavy-crowds-instructions-to-clear-goods-immediately-after-auction/1792682040834",
-   "t": 1792682377000,
-   "time": "20:49",
-   "score": 5,
-   "tags": [
-    "RAJ"
-   ],
-   "status": "GAP",
-   "match": 0.09
-  },
-  {
-   "id": "au-video-spectacular-kick-off-to-haryana-kesari-akhada-dangal-2026-in-palwal-2026-10-22",
+   "id": "au-woman-beaten-to-death-with-a-stick-blood-soaked-body-found-kannauj-news-c-214-1-knj1008-158162-2026-10-22",
    "src": "au",
    "pub": "Amar Ujala",
-   "title": "पलवल हरियाणा केसरी अखाड़ा दंगल-2026 का रंगारंग आगाज, 23 जिलों के 792 पहलवान दिखाएंगे दमखम",
-   "url": "https://www.amarujala.com/video/haryana/palwal/video-spectacular-kick-off-to-haryana-kesari-akhada-dangal-2026-in-palwal-2026-10-22",
-   "t": 1792682277000,
-   "time": "20:47",
-   "score": 5,
-   "tags": [
-    "HINDI",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.06
-  },
-  {
-   "id": "nbt-135121746.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "Doosra: पूर्व क्रिकेटर सौरव गांगुली की अर्जी हाई कोर्ट ने ठुकराई, कहा- फिल्म रिलीज होगी, सुनवाई कल भी जारी रहेगी",
-   "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/delhi-high-court-denies-former-indian-cricket-captain-sourav-ganguly-plea-to-stay-the-release-of-the-film-doosra/articleshow/135121746.cms",
-   "t": 1792682226000,
-   "time": "20:47",
-   "score": 5,
-   "tags": [
-    "POL",
-    "CRK",
-    "ENT"
-   ],
-   "status": "GAP",
-   "match": 0.19
-  },
-  {
-   "id": "au-wife-alleges-murder-in-case-of-tubewell-operators-death-panipat-news-c-244-1-pnp1001-166454-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Panipat News ट्यूबवेल ऑपरेटर की मौत के मामले में पत्नी ने लगाया हत्या का आरोप",
-   "url": "https://www.amarujala.com/haryana/panipat/wife-alleges-murder-in-case-of-tubewell-operators-death-panipat-news-c-244-1-pnp1001-166454-2026-10-22",
-   "t": 1792682224000,
-   "time": "20:47",
+   "title": "Kannauj News लाठी से पीटकर महिला की हत्या, मिला खून से लथपथ शव",
+   "url": "https://www.amarujala.com/uttar-pradesh/kannauj/woman-beaten-to-death-with-a-stick-blood-soaked-body-found-kannauj-news-c-214-1-knj1008-158162-2026-10-22",
+   "t": 1792693761000,
+   "time": "23:59",
    "score": 8,
    "tags": [
     "HINDI",
@@ -310,797 +736,579 @@
    "match": 0.24
   },
   {
-   "id": "au-two-miscreants-who-opened-fire-at-a-tiles-businessmans-factory-arrested-from-andhra-pradesh-delhi-ncr-news-c-340-1-del1011-160320-2026-10-22",
+   "id": "au-police-should-conduct-an-impartial-investigation-into-the-attack-on-sfi-leaders-shimla-news-c-19-sml1002-808123-2026-10-22",
    "src": "au",
    "pub": "Amar Ujala",
-   "title": "Delhi NCR News टाइल्स कारोबारी की फैक्टरी और कार पर फायरिंग करने वाले दो बदमाश आंध्र प्रदेश से गिरफ्तार",
-   "url": "https://www.amarujala.com/delhi-ncr/two-miscreants-who-opened-fire-at-a-tiles-businessmans-factory-arrested-from-andhra-pradesh-delhi-ncr-news-c-340-1-del1011-160320-2026-10-22",
-   "t": 1792682060000,
-   "time": "20:44",
-   "score": 6,
+   "title": "Shimla News एसएफआई नेताओं पर हमले की निष्पक्ष जांच करे पुलिस",
+   "url": "https://www.amarujala.com/shimla/police-should-conduct-an-impartial-investigation-into-the-attack-on-sfi-leaders-shimla-news-c-19-sml1002-808123-2026-10-22",
+   "t": 1792693743000,
+   "time": "23:59",
+   "score": 7,
    "tags": [
     "CRIME",
-    "ACC"
+    "POL",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "au-we-will-boycott-judicial-proceedings-if-no-arrests-are-made-bahraich-news-c-98-1-slko1007-159022-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Bahraich News गिरफ्तारी नहीं तो न्यायिक कार्य का करेंगे बहिष्कार",
+   "url": "https://www.amarujala.com/uttar-pradesh/bahraich/we-will-boycott-judicial-proceedings-if-no-arrests-are-made-bahraich-news-c-98-1-slko1007-159022-2026-10-22",
+   "t": 1792693534000,
+   "time": "23:55",
+   "score": 6,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "ENT"
    ],
    "status": "GAP",
    "match": 0.14
   },
   {
-   "id": "nbt-135121657.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "टमाटर कारोबारी को समोसा लेना पड़ा भारी! वर्दी में आए जबरन कार में बिठाया और लूट लिए कैश, औरंगाबाद में फिल्मी कांड",
-   "url": "https://navbharattimes.indiatimes.com/state/bihar/aurangabad/bihar-aurangabad-rs-1-lakh-looted-from-tomato-trader-by-fake-police-4-arrested/articleshow/135121657.cms",
-   "t": 1792682051000,
-   "time": "20:44",
-   "score": 6,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ENT"
-   ],
-   "status": "GAP",
-   "match": 0.07
-  },
-  {
-   "id": "nbt-135121404.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "जयपुर में सोने की ज्वेलरी बनाने वाली फैक्ट्री में आग, दम घुटने से UP और MP के दो युवकों की मौत, पढ़ें ताजा अपडेट",
-   "url": "https://navbharattimes.indiatimes.com/state/rajasthan/jaipur/jaipur-sitapura-gold-jewellery-factory-fire-two-dead-four-injured-know-updates/articleshow/135121404.cms",
-   "t": 1792682039000,
-   "time": "20:43",
-   "score": 8,
-   "tags": [
-    "RAJ",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.25
-  },
-  {
-   "id": "au-awareness-seminar-held-at-a-factory-in-sector-29-voices-raised-against-child-labor-and-crimes-panipat-news-c-244-1-pnp1001-166435-2026-10-22",
+   "id": "au-rahul-and-kirtis-team-wins-ad-mania-competition-rewari-news-c-198-1-rew1001-247582-2026-10-22",
    "src": "au",
    "pub": "Amar Ujala",
-   "title": "Panipat News सेक्टर-29 की फैक्टरी में जागरूकता सेमिनार, बाल श्रम व अपराधों के खिलाफ उठाई आवाज",
-   "url": "https://www.amarujala.com/haryana/panipat/awareness-seminar-held-at-a-factory-in-sector-29-voices-raised-against-child-labor-and-crimes-panipat-news-c-244-1-pnp1001-166435-2026-10-22",
-   "t": 1792681942000,
-   "time": "20:42",
-   "score": 9,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "WAR",
-    "MONEY"
-   ],
-   "status": "GAP",
-   "match": 0.07
-  },
-  {
-   "id": "au-atm-and-withdrew-150-lakh-in-uttarakhand-and-meerut-meerut-news-c-72-1-mct1011-161479-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Meerut News एटीएम चोरी कर उत्तराखंड व मेरठ में निकाले 1.50 लाख रुपये",
-   "url": "https://www.amarujala.com/uttar-pradesh/meerut/atm-and-withdrew-150-lakh-in-uttarakhand-and-meerut-meerut-news-c-72-1-mct1011-161479-2026-10-22",
-   "t": 1792681462000,
-   "time": "20:34",
-   "score": 5,
-   "tags": [
-    "HINDI",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.15
-  },
-  {
-   "id": "abp-sourav-ganguly-gets-a-setback-from-the-high-court-had-appealed-for-a-ban-doosra-film-3205484",
-   "src": "abp",
-   "pub": "ABP Live",
-   "title": "sourav ganguly gets a setback from the high court had appealed for a ban doosra film",
-   "url": "https://www.abplive.com/sports/cricket/sourav-ganguly-gets-a-setback-from-the-high-court-had-appealed-for-a-ban-doosra-film-3205484",
-   "t": 1792681431000,
-   "time": "20:33",
-   "score": 5,
-   "tags": [
-    "POL",
-    "CRK",
-    "ENT"
-   ],
-   "status": "GAP",
-   "match": 0.18
-  },
-  {
-   "id": "au-sp-leaders-outraged-over-display-of-controversial-poster-of-sp-national-president-akhilesh-yadav-in-agra-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "चुनाव से पहले सियासी घमासान अखिलेश यादव का विवादित पोस्टर लगाने पर भड़के सपा नेता, पुलिस कमिश्नर से शिकायत",
-   "url": "https://www.amarujala.com/uttar-pradesh/agra/sp-leaders-outraged-over-display-of-controversial-poster-of-sp-national-president-akhilesh-yadav-in-agra-2026-10-22",
-   "t": 1792681206000,
-   "time": "20:30",
-   "score": 7,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "POL"
-   ],
-   "status": "GAP",
-   "match": 0.29
-  },
-  {
-   "id": "au-delhi-high-court-declined-to-stay-the-release-of-film-doosra-challenged-by-sourav-ganguly-know-all-details-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "&#39;दूसरा&#39; फिल्म की रिलीज पर नहीं लगेगी रोक दिल्ली हाई कोर्ट से गांगुली को लगा झटका, याचिका पर जारी रहेगी सुनवाई",
-   "url": "https://www.amarujala.com/cricket/cricket-news/delhi-high-court-declined-to-stay-the-release-of-film-doosra-challenged-by-sourav-ganguly-know-all-details-2026-10-22",
-   "t": 1792681192000,
-   "time": "20:29",
-   "score": 7,
-   "tags": [
-    "HINDI",
-    "POL",
-    "CRK",
-    "ENT"
-   ],
-   "status": "GAP",
-   "match": 0.33,
-   "patrikaMatch": {
-    "title": "नेहा बोरा केस में दिल्ली हाई कोर्ट में सुनवाई पूरी, कल शाम आ सकता है फैसला",
-    "url": "https://www.patrika.com/national-news/neha-bora-case-delhi-high-court-verdict-peace-bond-notice-21001854"
-   }
-  },
-  {
-   "id": "au-fdgsfd-grnoida-news-c-1-noi1095-4861571-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Noida News सेक्टर-47 में गांजे के साथ तस्कर गिरफ्तार",
-   "url": "https://www.amarujala.com/delhi-ncr/noida/fdgsfd-grnoida-news-c-1-noi1095-4861571-2026-10-22",
-   "t": 1792681177000,
-   "time": "20:29",
-   "score": 5,
-   "tags": [
-    "CRIME",
-    "MONEY"
-   ],
-   "status": "GAP",
-   "match": 0.12
-  },
-  {
-   "id": "au-telangana-cm-revanth-reddy-s-appeal-upcoming-election-is-crucial-for-the-nation-stand-with-rahul-gandhi-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "तेलंगाना सीएम रेवंत रेड्डी की अपील- आगामी चुनाव देश के लिए अहम, राहुल गांधी के साथ खड़े हों",
-   "url": "https://www.amarujala.com/india-news/telangana-cm-revanth-reddy-s-appeal-upcoming-election-is-crucial-for-the-nation-stand-with-rahul-gandhi-2026-10-22",
-   "t": 1792681090000,
-   "time": "20:28",
-   "score": 5,
-   "tags": [
-    "ACC",
-    "POL"
-   ],
-   "status": "GAP",
-   "match": 0.25
-  },
-  {
-   "id": "at-hubballi-woman-killed-kite-manja-neck-accident-pvzs-rpti-2677545-2026-10-22",
-   "src": "at",
-   "pub": "Aaj Tak",
-   "title": "हुबली में पतंग के मांझे से कटी गर्दन, स्कूटी सवार महिला की मौके पर मौत",
-   "url": "https://www.aajtak.in/crime/news/story/hubballi-woman-killed-kite-manja-neck-accident-pvzs-rpti-2677545-2026-10-22",
-   "t": 1792680945000,
-   "time": "20:25",
-   "score": 6,
-   "tags": [
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.19
-  },
-  {
-   "id": "au-video-kanpur-cctv-footage-of-cylinder-blast-at-dussehra-fair-emerges-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "कानपुर दशहरा मेले में सिलिंडर ब्लास्ट का सीसी फुटेज सामने आया",
-   "url": "https://www.amarujala.com/video/uttar-pradesh/kanpur/video-kanpur-cctv-footage-of-cylinder-blast-at-dussehra-fair-emerges-2026-10-22",
-   "t": 1792680848000,
-   "time": "20:24",
-   "score": 5,
-   "tags": [
-    "HINDI",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.17
-  },
-  {
-   "id": "au-bihar-police-ips-transfer-bps-transfer-news-dsp-sdpo-transfer-today-bihar-news-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "बिहार पुलिस IPS सहित 57 पुलिस पदाधिकारियों का तबादला; कहां-कहां नए SP-DSP तैनात किए गए",
-   "url": "https://www.amarujala.com/bihar/patna/bihar-police-ips-transfer-bps-transfer-news-dsp-sdpo-transfer-today-bihar-news-2026-10-22",
-   "t": 1792680817000,
-   "time": "20:23",
-   "score": 5,
-   "tags": [
-    "HINDI",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.18
-  },
-  {
-   "id": "au-bhilwara-panchayat-election-duty-negligence-notice-four-teachers-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "पंचायत चुनाव ड्यूटी में लापरवाही पर भीलवाड़ा में कार्रवाई, तीन प्रधानाचार्य और एक व्याख्याता को नोटिस",
-   "url": "https://www.amarujala.com/rajasthan/bhilwara-panchayat-election-duty-negligence-notice-four-teachers-2026-10-22",
-   "t": 1792680768000,
-   "time": "20:22",
-   "score": 9,
-   "tags": [
-    "RAJ",
-    "POL",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.27
-  },
-  {
-   "id": "zee-1792680126940",
-   "src": "zee",
-   "pub": "Zee News Hindi",
-   "title": "राजस्थान के 35 मेडिकल कॉलेजों में बनेंगे मॉड्यूलर OT, पुराने ऑपरेशन थिएटर भी होंगे अपग्रेड",
-   "url": "https://zeenews.india.com/hindi/india/rajasthan/jaipur/rajasthan-35-medical-colleges-operation-theatres-be-built-modular/1792680126940",
-   "t": 1792680558000,
-   "time": "20:19",
-   "score": 5,
-   "tags": [
-    "RAJ"
-   ],
-   "status": "GAP",
-   "match": 0.1
-  },
-  {
-   "id": "au-collision-between-moped-and-car-driver-dies-shahdol-news-c-1-1-noi1220-4860396-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "शहडोल अमलाई में मोपेड-कार की टक्कर, बाइक चालक की मौत; सब एरिया मैनेजर का चार पहिया वाहन भी किया जब्त",
-   "url": "https://www.amarujala.com/madhya-pradesh/shahdol/collision-between-moped-and-car-driver-dies-shahdol-news-c-1-1-noi1220-4860396-2026-10-22",
-   "t": 1792680398000,
-   "time": "20:16",
-   "score": 7,
-   "tags": [
-    "MP",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.17
-  },
-  {
-   "id": "au-rajasthan-sambhar-lake-flamingos-migratory-birds-winter-season-low-rainfall-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "जयपुर सांभर झील में प्रवासी पक्षी फ्लेमिंगो का आगमन शुरू, कम बारिश से चिंता",
-   "url": "https://www.amarujala.com/rajasthan/rajasthan-sambhar-lake-flamingos-migratory-birds-winter-season-low-rainfall-2026-10-22",
-   "t": 1792679598000,
-   "time": "20:03",
-   "score": 8,
-   "tags": [
-    "RAJ",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.1
-  },
-  {
-   "id": "au-mppsc-law-officer-recruitment-2026-apply-for-4-posts-eligibility-salary-and-last-date-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "एमपीपीएससी मध्य प्रदेश जेल विभाग में लॉ ऑफिसर की भर्ती, पांच नवंबर तक करें आवेदन, 1.77 लाख तक वेतन",
-   "url": "https://www.amarujala.com/jobs/government-jobs/mppsc-law-officer-recruitment-2026-apply-for-4-posts-eligibility-salary-and-last-date-2026-10-22",
-   "t": 1792679415000,
-   "time": "20:00",
-   "score": 6,
-   "tags": [
-    "MP",
-    "MONEY"
-   ],
-   "status": "GAP",
-   "match": 0.18
-  },
-  {
-   "id": "nbt-135121220.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "पीएम मोदी के पास अचानक आया इजरायली पीएम नेतन्याहू का फोन, इन 4 मु्द्दों पर हुई लंबी चर्चा",
-   "url": "https://navbharattimes.indiatimes.com/india/pm-modi-received-a-phone-call-from-israeli-prime-minister-benjamin-netanyahu/articleshow/135121220.cms",
-   "t": 1792679326000,
-   "time": "19:58",
-   "score": 6,
-   "tags": [
-    "POL",
-    "WAR",
-    "CRK"
-   ],
-   "status": "GAP",
-   "match": 0.45,
-   "patrikaMatch": {
-    "title": "इजराइली पीएम नेतन्याहू ने अचानक किया पीएम मोदी को फोन, पश्चिम एशिया में तनाव को लेकर हुई अहम बात",
-    "url": "https://www.patrika.com/world-news/benjamin-netanyahu-calls-pm-modi-middle-east-crisis-21002145"
-   }
-  },
-  {
-   "id": "au-body-of-a-young-woman-found-on-an-under-construction-flyover-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "निर्माणाधीन फ्लाईओवर पर मिला युवती का शव संदिग्ध परिस्थितियों में मौत, गले पर मिले तेजधार हथियार के निशान",
-   "url": "https://www.amarujala.com/punjab/chandigarh-punjab/body-of-a-young-woman-found-on-an-under-construction-flyover-2026-10-22",
-   "t": 1792679177000,
-   "time": "19:56",
-   "score": 6,
-   "tags": [
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.21
-  },
-  {
-   "id": "abp-man-arrest-for-uploading-ai-bomb-blast-video-of-bengaluru-vidhana-soudha-ann-3205471",
-   "src": "abp",
-   "pub": "ABP Live",
-   "title": "man arrest for uploading ai bomb blast video of bengaluru vidhana soudha ann",
-   "url": "https://www.abplive.com/news/india/man-arrest-for-uploading-ai-bomb-blast-video-of-bengaluru-vidhana-soudha-ann-3205471",
-   "t": 1792678902000,
-   "time": "19:51",
-   "score": 6,
-   "tags": [
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.1
-  },
-  {
-   "id": "au-husbands-brutality-when-his-wife-asked-for-money-for-their-dhar-news-c-1-1-noi1504-4860435-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "पति की क्रूरता बेटे के इलाज के लिए पैसे मांगे तो पत्नी को दीवार पर पटका, लातें मारकर हत्या; फिर रची कहानी",
-   "url": "https://www.amarujala.com/madhya-pradesh/dhar/husbands-brutality-when-his-wife-asked-for-money-for-their-dhar-news-c-1-1-noi1504-4860435-2026-10-22",
-   "t": 1792678879000,
-   "time": "19:51",
-   "score": 7,
-   "tags": [
-    "MP",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.29
-  },
-  {
-   "id": "au-woman-attempts-self-immolation-at-acp-office-in-agra-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "एसीपी कार्यालय पर महिला ने किया आत्मदाह का प्रयास पुलिस के कार्रवाई न करने से थी आहत, डीजल अपने ऊपर उड़ेला",
-   "url": "https://www.amarujala.com/uttar-pradesh/agra/woman-attempts-self-immolation-at-acp-office-in-agra-2026-10-22",
-   "t": 1792678658000,
-   "time": "19:47",
-   "score": 7,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "MONEY"
-   ],
-   "status": "GAP",
-   "match": 0.12
-  },
-  {
-   "id": "at-hyderabad-warangal-highway-car-accident-electric-pole-crash-pvzs-rpti-2677514-2026-10-22",
-   "src": "at",
-   "pub": "Aaj Tak",
-   "title": "हैदराबाद-वारंगल हाईवे पर पहले आगे चल रही कार को मारी टक्कर, फिर बिजली के खंभे से टकराई SUV, वीडियो वायरल",
-   "url": "https://www.aajtak.in/crime/news/story/hyderabad-warangal-highway-car-accident-electric-pole-crash-pvzs-rpti-2677514-2026-10-22",
-   "t": 1792678509000,
-   "time": "19:45",
-   "score": 8,
-   "tags": [
-    "CRIME",
-    "ACC",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.22
-  },
-  {
-   "id": "au-body-of-doman-lodhi-recovered-from-dhasan-river-after-36-hours-of-sdrf-search-operations-sagar-news-c-1-1-noi1338-4860563-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "सागर धसान नदी में प्रतिमा विसर्जन के दौरान डूबे डोमन लोधी का शव 36 घंटे बाद बरामद, एसडीआरएफ की कड़ी मशक्कत",
-   "url": "https://www.amarujala.com/madhya-pradesh/sagar/body-of-doman-lodhi-recovered-from-dhasan-river-after-36-hours-of-sdrf-search-operations-sagar-news-c-1-1-noi1338-4860563-2026-10-22",
-   "t": 1792678282000,
-   "time": "19:41",
+   "title": "Rewari News एड-मेनिया प्रतियोगिता में राहुल और कीर्ति की टीम प्रथम",
+   "url": "https://www.amarujala.com/haryana/rewari/rahul-and-kirtis-team-wins-ad-mania-competition-rewari-news-c-198-1-rew1001-247582-2026-10-22",
+   "t": 1792693504000,
+   "time": "23:55",
    "score": 10,
    "tags": [
     "MP",
-    "CRIME",
-    "ACC"
+    "HINDI",
+    "POL",
+    "WAR"
    ],
    "status": "GAP",
    "match": 0.14
   },
   {
-   "id": "au-cm-vishnudev-sai-will-give-rs-5-lakh-each-to-the-families-of-the-deceased-and-rs-50-000-to-the-injured-2026-10-22",
+   "id": "au-nau-durga-cricket-series-big-goals-secure-victory-krishna-verma-named-player-of-the-match-kasganj-news-c-175-1-sagr1032-155998-2026-10-22",
    "src": "au",
    "pub": "Amar Ujala",
-   "title": "मनेंद्रगढ़ बस हादसा मृतकों के परिजनों को 5-5 लाख, घायलों को 50 हजार की सहायता देंगे सीएम विष्णुदेव साय",
-   "url": "https://www.amarujala.com/chhattisgarh/cm-vishnudev-sai-will-give-rs-5-lakh-each-to-the-families-of-the-deceased-and-rs-50-000-to-the-injured-2026-10-22",
-   "t": 1792677710000,
-   "time": "19:31",
-   "score": 8,
-   "tags": [
-    "CG",
-    "ACC",
-    "POL"
-   ],
-   "status": "GAP",
-   "match": 0.12
-  },
-  {
-   "id": "au-a-man-carrying-a-50000-rupee-reward-absconding-for-four-years-has-been-arrested-in-west-bengal-rishikesh-news-c-38-1-sdrn1029-147976-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rishikesh News चार साल से फरार 50 हजार का इनामी पश्चिम बंगाल से गिरफ्तार",
-   "url": "https://www.amarujala.com/uttarakhand/rishikesh/a-man-carrying-a-50000-rupee-reward-absconding-for-four-years-has-been-arrested-in-west-bengal-rishikesh-news-c-38-1-sdrn1029-147976-2026-10-22",
-   "t": 1792677646000,
-   "time": "19:30",
-   "score": 9,
-   "tags": [
-    "MP",
-    "CRIME",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.26
-  },
-  {
-   "id": "au-video-accused-of-attacking-young-man-with-knife-arrested-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "VIDEO युवक पर चाकू से हमला करने का आरोपी गिरफ्तार",
-   "url": "https://www.amarujala.com/video/uttar-pradesh/agra/video-accused-of-attacking-young-man-with-knife-arrested-2026-10-22",
-   "t": 1792677457000,
-   "time": "19:27",
+   "title": "नौ दुर्गा क्रिकेट सीरीज बिग गोल्स ने दर्ज की जीत, कृष्णा वर्मा बने प्लेयर ऑफ द मैच",
+   "url": "https://www.amarujala.com/uttar-pradesh/kasganj/nau-durga-cricket-series-big-goals-secure-victory-krishna-verma-named-player-of-the-match-kasganj-news-c-175-1-sagr1032-155998-2026-10-22",
+   "t": 1792693477000,
+   "time": "23:54",
    "score": 7,
    "tags": [
-    "HINDI",
-    "CRIME",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.23
-  },
-  {
-   "id": "au-delivery-boy-distressed-after-being-beaten-consumes-poison-and-dies-father-and-son-arrested-delhi-ncr-news-c-503-1-del1005-2308-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Delhi NCR News पिटाई से अहत डिलीवरी बॉय ने खाया जहर, मौत, पिता-पुत्र गिरफ्तार",
-   "url": "https://www.amarujala.com/delhi-ncr/delivery-boy-distressed-after-being-beaten-consumes-poison-and-dies-father-and-son-arrested-delhi-ncr-news-c-503-1-del1005-2308-2026-10-22",
-   "t": 1792677364000,
-   "time": "19:26",
-   "score": 6,
-   "tags": [
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "at-israel-netanyahu-invites-pm-modi-light-torch-with-captain-smith-machhar-ntc-drmt-dskc-2677489-2026-10-22",
-   "src": "at",
-   "pub": "Aaj Tak",
-   "title": "'कैप्टन स्मित मछार के साथ स्वतंत्रता दिवस पर मशाल जलाएं...' पीएम मोदी को नेतन्याहू का न्योता",
-   "url": "https://www.aajtak.in/india/story/israel-netanyahu-invites-pm-modi-light-torch-with-captain-smith-machhar-ntc-drmt-dskc-2677489-2026-10-22",
-   "t": 1792677241000,
-   "time": "19:24",
-   "score": 6,
-   "tags": [
-    "POL",
-    "WAR",
-    "CRK"
-   ],
-   "status": "GAP",
-   "match": 0.26
-  },
-  {
-   "id": "nbt-135120727.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "'जो इलाके आंतक के अंधेरे में डूबे थे अब वहां विकास की रोशनी', राष्ट्रपति ने युवाओं से किया संवाद, बताए चार संकल्प",
-   "url": "https://navbharattimes.indiatimes.com/state/chhattisgarh/raipur/president-droupadi-murmu-chhattisgarh-visit-interacts-with-youth-outlines-four-resolutions/articleshow/135120727.cms",
-   "t": 1792677123000,
-   "time": "19:22",
-   "score": 6,
-   "tags": [
     "CG",
-    "ACC"
+    "HINDI",
+    "CRK"
    ],
    "status": "GAP",
    "match": 0.08
   },
   {
-   "id": "nbt-135120659.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "पुलिस ड्राइवर फिरोज खान की संपत्ति पर बड़ा खुलासा, 92 लाख के दो प्लॉट खरीदे, 9 करोड़ की जमीन का सौदा भी जांच के घेरे में",
-   "url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/indore/feroz-khan-property-lokayukta-investigation/articleshow/135120659.cms",
-   "t": 1792676958000,
-   "time": "19:19",
-   "score": 7,
+   "id": "au-cjm-inspected-the-aastha-kunj-childrens-home-and-checked-the-quality-of-the-food-rewari-news-c-198-1-rew1001-247585-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Rewari News सीजेएम ने आस्था कुंज बाल गृह का किया निरीक्षण, भोजन की गुणवत्ता जांची",
+   "url": "https://www.amarujala.com/haryana/rewari/cjm-inspected-the-aastha-kunj-childrens-home-and-checked-the-quality-of-the-food-rewari-news-c-198-1-rew1001-247585-2026-10-22",
+   "t": 1792693433000,
+   "time": "23:53",
+   "score": 8,
    "tags": [
     "MP",
-    "CRIME"
+    "HINDI",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.06
+  },
+  {
+   "id": "au-young-man-sitting-at-a-grocery-store-shot-by-attackers-on-a-motorcycle-referred-to-another-hospital-kasganj-news-c-175-1-agr1054-156025-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Kasganj News किराना की दुकान पर बैठे युवक को बाइक सवार हमलावारों ने मारी गोली, रेफर",
+   "url": "https://www.amarujala.com/uttar-pradesh/kasganj/young-man-sitting-at-a-grocery-store-shot-by-attackers-on-a-motorcycle-referred-to-another-hospital-kasganj-news-c-175-1-agr1054-156025-2026-10-22",
+   "t": 1792693370000,
+   "time": "23:52",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.11
+  },
+  {
+   "id": "au-shiv-kumar-has-become-the-district-coordinator-of-bajrang-dal-rewari-news-c-198-1-rew1001-247589-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Rewari News बजरंग दल के जिला संयोजक बने शिव कुमार",
+   "url": "https://www.amarujala.com/haryana/rewari/shiv-kumar-has-become-the-district-coordinator-of-bajrang-dal-rewari-news-c-198-1-rew1001-247589-2026-10-22",
+   "t": 1792693326000,
+   "time": "23:52",
+   "score": 8,
+   "tags": [
+    "MP",
+    "HINDI",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "au-sita-swayamvar-staged-at-a-government-school-children-showcase-their-talent-rewari-news-c-198-1-rew1001-247580-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Rewari News राजकीय स्कूल में सीता स्वयंवर का मंचन, बच्चों ने दिखाई प्रतिभा",
+   "url": "https://www.amarujala.com/haryana/rewari/sita-swayamvar-staged-at-a-government-school-children-showcase-their-talent-rewari-news-c-198-1-rew1001-247580-2026-10-22",
+   "t": 1792693241000,
+   "time": "23:50",
+   "score": 8,
+   "tags": [
+    "MP",
+    "HINDI",
+    "WAR"
    ],
    "status": "GAP",
    "match": 0.21
   },
   {
-   "id": "nbt-135120251.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "कौन हैं बीजेपी नेता राजेंद्र राठौड़ की बहू कनिका सिंह? जानें ससुर के रसूख को आगे बढ़ाने आई इस नए चेहरे के बारे में",
-   "url": "https://navbharattimes.indiatimes.com/state/rajasthan/churu/who-is-kanika-singh-daughter-in-law-of-bjp-leader-rajendra-rathore-read-her-profile/articleshow/135120251.cms",
-   "t": 1792676531000,
-   "time": "19:12",
-   "score": 10,
-   "tags": [
-    "RAJ",
-    "ACC",
-    "POL"
-   ],
-   "status": "GAP",
-   "match": 0.15
-  },
-  {
-   "id": "au-smuggling-of-intoxicating-cough-syrup-busted-in-beohari-contraband-worth-rs1035-lakh-seized-car-confiscated-and-two-arrested-shahdol-news-c-1-1-noi1220-4860478-2026-10-22",
+   "id": "au-schools-in-the-seeha-block-inspected-toppers-felicitated-rewari-news-c-198-1-sroh1010-247572-2026-10-22",
    "src": "au",
    "pub": "Amar Ujala",
-   "title": "शहडोल ब्यौहारी में नशीली कफ सिरप तस्करी का भंडाफोड़, 10.35 लाख का माल जब्त; कार जब्त कर दो को किया गिरफ्तार",
-   "url": "https://www.amarujala.com/madhya-pradesh/shahdol/smuggling-of-intoxicating-cough-syrup-busted-in-beohari-contraband-worth-rs1035-lakh-seized-car-confiscated-and-two-arrested-shahdol-news-c-1-1-noi1220-4860478-2026-10-22",
-   "t": 1792676388000,
-   "time": "19:09",
-   "score": 7,
+   "title": "Rewari News सीहा खंड के स्कूलों का किया निरीक्षण, टॉपर्स सम्मानित",
+   "url": "https://www.amarujala.com/haryana/rewari/schools-in-the-seeha-block-inspected-toppers-felicitated-rewari-news-c-198-1-sroh1010-247572-2026-10-22",
+   "t": 1792693166000,
+   "time": "23:49",
+   "score": 8,
    "tags": [
     "MP",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.12
-  },
-  {
-   "id": "au-diljit-dosanjh-delhi-concert-denied-permission-over-security-concerns-saurabh-bharadwaj-questions-move-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "दिलजीत दोसांझ दिल्ली में होने वाले कॉन्सर्ट पर लगी रोक, AAP नेता ने उठाए सवाल; पुलिस ने बताई ये वजह",
-   "url": "https://www.amarujala.com/entertainment/bollywood/diljit-dosanjh-delhi-concert-denied-permission-over-security-concerns-saurabh-bharadwaj-questions-move-2026-10-22",
-   "t": 1792676360000,
-   "time": "19:09",
-   "score": 6,
-   "tags": [
     "HINDI",
-    "CRIME",
-    "ENT"
-   ],
-   "status": "GAP",
-   "match": 0.48,
-   "patrikaMatch": {
-    "title": "दिलजीत दोसांझ के फैंस को लगा बड़ा झटका! 30 अक्टूबर के कॉन्सर्ट की परमिशन रद्द, दिल्ली के JLN स्टेडियम में था शो",
-    "url": "https://www.patrika.com/bollywood-news/diljit-dosanjh-delhi-concert-police-denies-permission-october-30-concert-cites-security-concerns-21001192"
-   }
-  },
-  {
-   "id": "nbt-135116775.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "MPPSC Vacancy 2026: एमपी में लॉ ऑफिसर की भर्ती, ₹1.77 लाख तक महीने का वेतन, जेल विभाग में जॉइनिंग",
-   "url": "https://navbharattimes.indiatimes.com/education/jobs-junction/mppsc-law-officer-recruitment-2026-for-jail-department-eligibility-criteria-age-limit-salary-apply-online-last-date/articleshow/135116775.cms",
-   "t": 1792676100000,
-   "time": "19:05",
-   "score": 6,
-   "tags": [
-    "MP",
-    "MONEY"
-   ],
-   "status": "GAP",
-   "match": 0.09
-  },
-  {
-   "id": "abp-benjamin-netanyahu-call-pm-modi-israel-captain-smit-machchhar-3205443",
-   "src": "abp",
-   "pub": "ABP Live",
-   "title": "benjamin netanyahu call pm modi israel captain smit machchhar",
-   "url": "https://www.abplive.com/news/world/benjamin-netanyahu-call-pm-modi-israel-captain-smit-machchhar-3205443",
-   "t": 1792676071000,
-   "time": "19:04",
-   "score": 6,
-   "tags": [
-    "POL",
-    "WAR",
-    "CRK"
-   ],
-   "status": "GAP",
-   "match": 0.38,
-   "patrikaMatch": {
-    "title": "इजराइली पीएम नेतन्याहू ने अचानक किया पीएम मोदी को फोन, पश्चिम एशिया में तनाव को लेकर हुई अहम बात",
-    "url": "https://www.patrika.com/world-news/benjamin-netanyahu-calls-pm-modi-middle-east-crisis-21002145"
-   }
-  },
-  {
-   "id": "nbt-135120321.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "दशहरा मेला देखकर घर लौट रहे थे 3 भाई, रास्ते में दर्दनाक हादसे ने छीन ली जिंदगी, सड़क पर बिखर गए शव",
-   "url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/katni/dussehra-mela-barhi-road-accident-three-youths-dead/articleshow/135120321.cms",
-   "t": 1792675933000,
-   "time": "19:02",
-   "score": 10,
-   "tags": [
-    "MP",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.23
-  },
-  {
-   "id": "au-satna-tractor-trolley-comes-in-contact-with-live-electric-wires-during-durga-idol-immersion-more-than-six-people-injured-two-in-critical-condition-referred-to-district-hospital-satna-news",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "सतना में बड़ा हादसा दुर्गा विसर्जन से लौट रहे आठ बच्चे 11 केवी लाइन की चपेट में आए, दो की हालत गंभीर",
-   "url": "https://www.amarujala.com/video/madhya-pradesh/satna/satna-tractor-trolley-comes-in-contact-with-live-electric-wires-during-durga-idol-immersion-more-than-six-people-injured-two-in-critical-condition-referred-to-district-hospital-satna-news-c-1-1-noi1567-4860898-2026-10-22",
-   "t": 1792675914000,
-   "time": "19:01",
-   "score": 10,
-   "tags": [
-    "MP",
-    "CG",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.18
-  },
-  {
-   "id": "nbt-135120368.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "2027 में कांग्रेस जीती तो फ्री बिजली, 10 Lakh  हेल्थ कवर, महिला राशि छीन लेगी, पंजाब के मंत्री अमन अरोड़ा का बड़ा बयान",
-   "url": "https://navbharattimes.indiatimes.com/state/punjab-and-haryana/chandigarh/punjab-aap-president-aman-arora-said-if-congress-wins-in-2027-all-welfare-schemes-will-be-stopped-slams-amrinder-raja-warring-remark/articleshow/135120368.cms",
-   "t": 1792675895000,
-   "time": "19:01",
-   "score": 6,
-   "tags": [
-    "HINDI",
-    "POL",
     "WAR"
    ],
    "status": "GAP",
-   "match": 0.12
+   "match": 0.14
   },
   {
-   "id": "nbt-135120163.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "नेतन्याहू ने पीएम मोदी को किया फोन, कैप्टन स्मित मच्छार के साथ इजरायल के स्वतंत्रता दिवस पर किया आमंत्रित",
-   "url": "https://navbharattimes.indiatimes.com/world/middle-east/benjamin-netanyahu-invites-pm-modi-and-flydubai-pilot-smit-machchhar-on-israel-independence-day/articleshow/135120163.cms",
-   "t": 1792675652000,
-   "time": "18:57",
-   "score": 6,
-   "tags": [
-    "POL",
-    "WAR",
-    "CRK"
-   ],
-   "status": "GAP",
-   "match": 0.36,
-   "patrikaMatch": {
-    "title": "इजराइली पीएम नेतन्याहू ने अचानक किया पीएम मोदी को फोन, पश्चिम एशिया में तनाव को लेकर हुई अहम बात",
-    "url": "https://www.patrika.com/world-news/benjamin-netanyahu-calls-pm-modi-middle-east-crisis-21002145"
-   }
-  },
-  {
-   "id": "at-germany-fire-kerala-victims-bodies-arrive-india-friday-lcl-smsr-2677457-2026-10-22",
-   "src": "at",
-   "pub": "Aaj Tak",
-   "title": "जर्मनी अग्निकांड ने छीनी थी जिंदगी, अब वापस लाए जाएंगे तीनों भारतीयों के शव",
-   "url": "https://www.aajtak.in/india/news/story/germany-fire-kerala-victims-bodies-arrive-india-friday-lcl-smsr-2677457-2026-10-22",
-   "t": 1792675245000,
-   "time": "18:50",
+   "id": "au-inter-college-sports-competitions-to-begin-at-igu-from-the-27th-rewari-news-c-198-1-rew1001-247604-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Rewari News आईजीयू में 27 से शुरू होंगी अंतर-कॉलेज खेल प्रतियोगिताएं",
+   "url": "https://www.amarujala.com/haryana/rewari/inter-college-sports-competitions-to-begin-at-igu-from-the-27th-rewari-news-c-198-1-rew1001-247604-2026-10-22",
+   "t": 1792693106000,
+   "time": "23:48",
    "score": 8,
    "tags": [
-    "CRIME",
-    "ACC",
-    "CRK"
+    "MP",
+    "HINDI",
+    "WAR"
    ],
    "status": "GAP",
    "match": 0.07
   },
   {
-   "id": "au-chhattisgarh-road-accident-passenger-bus-hits-a-tree-six-people-dead-15-injured-amar-ujala-2026-10-22",
+   "id": "au-grap-1-restrictions-in-force-construction-activities-and-pollution-causing-actions-prohibited-rewari-news-c-198-1-rew1001-247605-2026-10-22",
    "src": "au",
    "pub": "Amar Ujala",
-   "title": "छत्तीसगढ़ सड़क हादसा पेड़ से टकराई यात्री बस, छह लोगों की मौत और 15 घायल | Amar Ujala",
-   "url": "https://www.amarujala.com/video-shots/india-news/chhattisgarh-road-accident-passenger-bus-hits-a-tree-six-people-dead-15-injured-amar-ujala-2026-10-22",
-   "t": 1792675186000,
-   "time": "18:49",
-   "score": 6,
+   "title": "Rewari News ग्रैप वन की पाबंदियां लागू, निर्माण कार्यों और प्रदूषण फैलाने पर प्रतिबंध",
+   "url": "https://www.amarujala.com/haryana/rewari/grap-1-restrictions-in-force-construction-activities-and-pollution-causing-actions-prohibited-rewari-news-c-198-1-rew1001-247605-2026-10-22",
+   "t": 1792693030000,
+   "time": "23:47",
+   "score": 8,
    "tags": [
-    "CG",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.44,
-   "patrikaMatch": {
-    "title": "मनेंद्रगढ़ बस हादसा में बड़ा अपडेट! तेज रफ्तार बस पलटने से 6 लोगों की मौत, 15 यात्री गंभीर रूप से घायल",
-    "url": "https://www.patrika.com/ambikapur-news/manendragarh-bus-accident-news-cg-21001705"
-   }
-  },
-  {
-   "id": "au-video-illegal-firecracker-business-being-run-inside-arogya-charitable-hospital-police-conduct-a-raid-in-ghaziabad-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "गाजियाबाद में आरोग्य चैरिटेबल अस्पताल के अंदर चल रहा था अवैध पटाखों का कारोबार",
-   "url": "https://www.amarujala.com/video/delhi-ncr/ghaziabad/video-illegal-firecracker-business-being-run-inside-arogya-charitable-hospital-police-conduct-a-raid-in-ghaziabad-2026-10-22",
-   "t": 1792675182000,
-   "time": "18:49",
-   "score": 6,
-   "tags": [
-    "CRIME",
-    "ACC"
+    "MP",
+    "HINDI",
+    "WAR"
    ],
    "status": "GAP",
    "match": 0.12
   },
   {
-   "id": "at-assam-dsp-khargeswar-rabha-found-dead-bongaigaon-hotel-lcl-smsr-2677470-2026-10-22",
-   "src": "at",
-   "pub": "Aaj Tak",
-   "title": "असम CM के विजिलेंस सेल के DSP की होटल में मौत, 4 दिन बाद संदिग्ध हालत में मिला शव",
-   "url": "https://www.aajtak.in/india/news/story/assam-dsp-khargeswar-rabha-found-dead-bongaigaon-hotel-lcl-smsr-2677470-2026-10-22",
-   "t": 1792675158000,
-   "time": "18:49",
+   "id": "au-third-accused-in-the-robbery-and-vandalism-at-liquor-shops-arrested-rewari-news-c-198-1-rew1001-247579-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Rewari News शराब ठेकों पर लूटपाट और तोड़फोड़ का तीसरा आरोपी गिरफ्तार",
+   "url": "https://www.amarujala.com/haryana/rewari/third-accused-in-the-robbery-and-vandalism-at-liquor-shops-arrested-rewari-news-c-198-1-rew1001-247579-2026-10-22",
+   "t": 1792692944000,
+   "time": "23:45",
+   "score": 11,
+   "tags": [
+    "MP",
+    "HINDI",
+    "CRIME",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.19
+  },
+  {
+   "id": "au-directives-issued-to-officials-to-take-action-on-complaints-regarding-drinking-water-illegal-encroachment-and-schools-rewari-news-c-198-1-rew1001-247574-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Rewari News पेयजल से लेकर अवैध कब्जे और स्कूल की शिकायतों पर अधिकारियों को कार्रवाई के आदेश",
+   "url": "https://www.amarujala.com/haryana/rewari/directives-issued-to-officials-to-take-action-on-complaints-regarding-drinking-water-illegal-encroachment-and-schools-rewari-news-c-198-1-rew1001-247574-2026-10-22",
+   "t": 1792692919000,
+   "time": "23:45",
    "score": 8,
    "tags": [
-    "CRIME",
-    "ACC",
+    "MP",
+    "HINDI",
     "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.21
+  },
+  {
+   "id": "au-a-confluence-of-cultures-will-be-on-display-at-the-surajkund-diwali-mela-rewari-news-c-198-1-rew1001-247575-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Rewari News सूरजकुंड दीपावली मेले में दिखेगा संस्कृति का संगम",
+   "url": "https://www.amarujala.com/haryana/rewari/a-confluence-of-cultures-will-be-on-display-at-the-surajkund-diwali-mela-rewari-news-c-198-1-rew1001-247575-2026-10-22",
+   "t": 1792692852000,
+   "time": "23:44",
+   "score": 8,
+   "tags": [
+    "MP",
+    "HINDI",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.09
+  },
+  {
+   "id": "au-police-guard-at-the-power-house-duties-assigned-to-lambardars-and-patwaris-narnol-news-c-196-1-nnl1005-146962-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Mahendragarh-Narnaul News पावर हाउस में पुलिस का पहरा, नंबरदार व पटवारियों की ड्यूटी",
+   "url": "https://www.amarujala.com/haryana/mahendragarh-narnaul/police-guard-at-the-power-house-duties-assigned-to-lambardars-and-patwaris-narnol-news-c-196-1-nnl1005-146962-2026-10-22",
+   "t": 1792692844000,
+   "time": "23:44",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "au-on-martyrs-honour-day-crpf-officers-honoured-veeraangana-mewa-devi-rewari-news-c-198-1-rew1001-247581-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Rewari News शहीद सम्मान दिवस पर सीआरपीएफ अधिकारियों ने वीरांगना मेवा देवी को किया सम्मानित",
+   "url": "https://www.amarujala.com/haryana/rewari/on-martyrs-honour-day-crpf-officers-honoured-veeraangana-mewa-devi-rewari-news-c-198-1-rew1001-247581-2026-10-22",
+   "t": 1792692754000,
+   "time": "23:42",
+   "score": 8,
+   "tags": [
+    "MP",
+    "HINDI",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.15
+  },
+  {
+   "id": "au-bjp-councillor-attacked-with-iron-rod-over-court-testimony-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "कुशीनगर अदालत में गवाही देने की रंजिश में भाजपा सभासद पर जानलेवा हमला, लोहे की रॉड से सिर पर किए कई वार",
+   "url": "https://www.amarujala.com/uttar-pradesh/kushinagar/bjp-councillor-attacked-with-iron-rod-over-court-testimony-2026-10-22",
+   "t": 1792692723000,
+   "time": "23:42",
+   "score": 6,
+   "tags": [
+    "HINDI",
+    "POL",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.1
+  },
+  {
+   "id": "au-rs-5727-lakh-will-be-spent-on-improving-the-sewer-and-drinking-water-systems-rewari-news-c-198-1-rew1001-247608-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Rewari News सीवर-पेयजल व्यवस्था सुधारने पर खर्च होंगे 57.27 लाख रुपये",
+   "url": "https://www.amarujala.com/haryana/rewari/rs-5727-lakh-will-be-spent-on-improving-the-sewer-and-drinking-water-systems-rewari-news-c-198-1-rew1001-247608-2026-10-22",
+   "t": 1792692680000,
+   "time": "23:41",
+   "score": 8,
+   "tags": [
+    "MP",
+    "HINDI",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "au-three-training-programs-begin-at-diet-hussainpur-rewari-news-c-198-1-rew1001-247607-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Rewari News डायट हुसैनपुर में तीन प्रशिक्षण कार्यक्रम शुरू",
+   "url": "https://www.amarujala.com/haryana/rewari/three-training-programs-begin-at-diet-hussainpur-rewari-news-c-198-1-rew1001-247607-2026-10-22",
+   "t": 1792692631000,
+   "time": "23:40",
+   "score": 8,
+   "tags": [
+    "MP",
+    "HINDI",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.07
+  },
+  {
+   "id": "nbt-135124890.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "रूस से ताबूत में घर लौट रहा सूरज, जिस बेटे को डॉक्टर बनते देखना था, उसी के पार्थिव शरीर का इंतजार कर रहे मां-बाप",
+   "url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/guna/russia-mbbs-student-suraj-saini-body-reaches-delhi/articleshow/135124890.cms",
+   "t": 1792692595000,
+   "time": "23:39",
+   "score": 9,
+   "tags": [
+    "MP",
+    "CRIME",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.18
+  },
+  {
+   "id": "au-accused-arrested-with-illicit-liquor-rewari-news-c-198-1-sroh1010-247563-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Rewari News अवैध शराब के साथ आरोपी गिरफ्तार",
+   "url": "https://www.amarujala.com/haryana/rewari/accused-arrested-with-illicit-liquor-rewari-news-c-198-1-sroh1010-247563-2026-10-22",
+   "t": 1792692574000,
+   "time": "23:39",
+   "score": 11,
+   "tags": [
+    "MP",
+    "HINDI",
+    "CRIME",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.3,
+   "patrikaMatch": {
+    "title": "PNB बैंक में 17.29 करोड़ रुपये के नकली नोट का मामला, हरियाणा और हिमाचल प्रदेश से दो आरोपी गिरफ्तार",
+    "url": "https://www.patrika.com/national-news/nia-fake-currency-case-saharanpur-pnb-bank-arrests-two-main-accused-21001940"
+   }
+  },
+  {
+   "id": "au-the-high-court-reprimanded-the-city-police-chief-for-building-a-wall-without-orders-pratapgarh-news-c-262-1-slp1001-180661-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Pratapgarh News बगैर आदेश के दीवार बनाने वाले नगर कोतवाल को हाईकोर्ट की फटकार",
+   "url": "https://www.amarujala.com/uttar-pradesh/pratapgarh/the-high-court-reprimanded-the-city-police-chief-for-building-a-wall-without-orders-pratapgarh-news-c-262-1-slp1001-180661-2026-10-22",
+   "t": 1792692559000,
+   "time": "23:39",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.1
+  },
+  {
+   "id": "au-ishika-stood-first-in-the-speech-competition-and-vaibhavi-stood-first-in-the-card-making-competition-rewari-news-c-198-1-rew1001-247590-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Rewari News भाषण में इशिका और कार्ड मेकिंग स्पर्धा में वैभवी प्रथम",
+   "url": "https://www.amarujala.com/haryana/rewari/ishika-stood-first-in-the-speech-competition-and-vaibhavi-stood-first-in-the-card-making-competition-rewari-news-c-198-1-rew1001-247590-2026-10-22",
+   "t": 1792692511000,
+   "time": "23:38",
+   "score": 8,
+   "tags": [
+    "MP",
+    "HINDI",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.06
+  },
+  {
+   "id": "au-accused-arrested-in-dharuhera-with-244-kg-of-ganja-cannabis-rewari-news-c-198-1-rew1001-247584-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "Rewari News धारूहेड़ा में 2.44 किलो गांजे के साथ आरोपी गिरफ्तार",
+   "url": "https://www.amarujala.com/haryana/rewari/accused-arrested-in-dharuhera-with-244-kg-of-ganja-cannabis-rewari-news-c-198-1-rew1001-247584-2026-10-22",
+   "t": 1792692404000,
+   "time": "23:36",
+   "score": 11,
+   "tags": [
+    "MP",
+    "HINDI",
+    "CRIME",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.25
+  },
+  {
+   "id": "au-fraud-being-perpetrated-through-the-lure-of-cheap-goods-avoid-making-advance-payments-advises-sp-rewari-news-c-198-1-sroh1010-247565-2026-10-22",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "सस्ते सामान का लालच देकर की जा रही ठगी, एडवांस पेमेंट से बचें एसपी",
+   "url": "https://www.amarujala.com/haryana/rewari/fraud-being-perpetrated-through-the-lure-of-cheap-goods-avoid-making-advance-payments-advises-sp-rewari-news-c-198-1-sroh1010-247565-2026-10-22",
+   "t": 1792692325000,
+   "time": "23:35",
+   "score": 11,
+   "tags": [
+    "MP",
+    "HINDI",
+    "CRIME",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.13
+  },
+  {
+   "id": "zee-1792691139584",
+   "src": "zee",
+   "pub": "Zee News Hindi",
+   "title": "जयपुर सिटी पैलेस में सजी सितारों की महफिल, कैलाश खेर-अमीश त्रिपाठी समेत 25 श्रेणियों में हस्तियां सम्मानित",
+   "url": "https://zeenews.india.com/hindi/india/rajasthan/jaipur/sawai-jaipur-awards-2026-city-palace-kailash-kher-amish-tripathi-honoured/1792691139584",
+   "t": 1792691414000,
+   "time": "23:20",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.09
+  },
+  {
+   "id": "nbt-135124375.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "'जो लोग पहले जंगलों में तबाही मचाते थे, वो अब कांग्रेस में', पीएम मोदी का हमला, राहुल गांधी की 'लॉन्चिंग' पर दागा सवाल",
+   "url": "https://navbharattimes.indiatimes.com/india/pm-modi-political-attack-on-lop-rahul-gandhi-and-congress/articleshow/135124375.cms",
+   "t": 1792691046000,
+   "time": "23:14",
+   "score": 6,
+   "tags": [
+    "POL",
+    "WAR",
+    "CRK"
+   ],
+   "status": "GAP",
+   "match": 0.21
+  },
+  {
+   "id": "bh-rajiv-gandhi-nagar-kota-arihant-anchal-society-youth-death-cctv-139454968.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "जोधपुर में 7वीं मंजिल से गिरा युवक,VIDEO: पत्नी के साथ फ्लैट में रहता था, हादसे के समय परिवार बाहर गया था",
+   "url": "https://www.bhaskar.com/local/rajasthan/jodhpur/news/rajiv-gandhi-nagar-kota-arihant-anchal-society-youth-death-cctv-139454968.html",
+   "t": 1792691009000,
+   "time": "23:13",
+   "score": 8,
+   "tags": [
+    "RAJ",
+    "ACC"
    ],
    "status": "GAP",
    "match": 0.17
   },
   {
-   "id": "au-indore-block-education-officer-and-an-assisting-staff-member-arrested-for-demanding-10-000-rupees-in-exchange-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "इंदौर बिल पास कराने के एवज में मांगे दस हजार, विकासखंड शिक्षा अधिकारी और मदद करने वाला कर्मचारी गिरफ्तार",
-   "url": "https://www.amarujala.com/madhya-pradesh/indore/indore-block-education-officer-and-an-assisting-staff-member-arrested-for-demanding-10-000-rupees-in-exchange-2026-10-22",
-   "t": 1792675145000,
-   "time": "18:49",
+   "id": "nbt-135124247.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "नानी नहीं हैं कानूनी अभिभावक, फिर भी मांग सकती हैं नातिन का भरण-पोषण! हाईकोर्ट ने फैमिली कोर्ट का आदेश पलटा",
+   "url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/jabalpur/grandmother-child-maintenance-high-court-order/articleshow/135124247.cms",
+   "t": 1792690830000,
+   "time": "23:10",
+   "score": 6,
+   "tags": [
+    "MP",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.13
+  },
+  {
+   "id": "nbt-135124124.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "मऊ में एक ही पोखरे में कुछ घंटों के भीतर दो मौतें: पहले मासूम की गई जान, शाम को मिला किशोरी का शव",
+   "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/mau/pond-two-deaths-child-girl-body-found/articleshow/135124124.cms",
+   "t": 1792690200000,
+   "time": "23:00",
+   "score": 8,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.09
+  },
+  {
+   "id": "nbt-135123817.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "सोनाक्षी सिन्हा और जहीर इकबाल की फिल्म 'तू है मेरी किरण' की रिलीज पर कोर्ट ने लगाई रोक, प्रड्यूसर को निर्देश",
+   "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/sonakshi-sinha-zaheer-iqbal-starrer-tu-hai-meri-kiran-bombay-high-court-halts-this-film-release/articleshow/135123817.cms",
+   "t": 1792689892000,
+   "time": "22:54",
+   "score": 7,
+   "tags": [
+    "POL",
+    "WAR",
+    "MONEY",
+    "ENT"
+   ],
+   "status": "GAP",
+   "match": 0.08
+  },
+  {
+   "id": "bh-rewa-nuclear-plant-protest-tribal-woman-death-jal-satyagraha-139454654.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "जल सत्याग्रह- आदिवासी महिला की तबीयत बिगड़ी, मौत: रीवा में न्यूक्लियर-प्लांट का विरोध कर रही थीं, पति बोले- क्या प्रशासन मेरी पत्नी लौटा सकता है?",
+   "url": "https://www.bhaskar.com/local/mp/rewa/news/rewa-nuclear-plant-protest-tribal-woman-death-jal-satyagraha-139454654.html",
+   "t": 1792689500000,
+   "time": "22:48",
    "score": 7,
    "tags": [
     "MP",
-    "CRIME"
+    "ACC"
    ],
    "status": "GAP",
-   "match": 0.26
+   "match": 0.2
   },
   {
-   "id": "au-fire-breaks-out-at-gold-jewellery-factory-in-jaipur-two-workers-killed-five-hospitalised-jaipur-news-c-1-1-noi1422-4860438-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "जयपुर सोने की ज्वेलरी बनाने वाली फैक्ट्री में भीषण आग, दो कर्मचारियों की मौत; पांच बेहोश",
-   "url": "https://www.amarujala.com/video/rajasthan/jaipur/fire-breaks-out-at-gold-jewellery-factory-in-jaipur-two-workers-killed-five-hospitalised-jaipur-news-c-1-1-noi1422-4860438-2026-10-22",
-   "t": 1792674898000,
-   "time": "18:44",
+   "id": "bh-punjab-ludhiana-mla-daljit-singh-grewal-bhola-privilege-committee-news-139454419.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "लुधियाना के AAP विधायक भोला को झटका: सरकार ने विधानसभा प्रिविलेज कमेटी से हटाया; गजट नोटिफिकेशन किया जारी",
+   "url": "https://www.bhaskar.com/local/punjab/ludhiana/news/punjab-ludhiana-mla-daljit-singh-grewal-bhola-privilege-committee-news-139454419.html",
+   "t": 1792688412000,
+   "time": "22:30",
+   "score": 6,
+   "tags": [
+    "MP",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.14
+  },
+  {
+   "id": "bh-jaipur-gold-chain-factory-fire-accident-workers-death-update-139454418.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "जयपुर- सोने की ज्वेलरी बनाने की फैक्ट्री में लगी आग: दम घुटने से दो कर्मचारियों की मौके पर ही मौत; 4 गंभीर हॉस्पिटल में भर्ती",
+   "url": "https://www.bhaskar.com/local/rajasthan/jaipur/news/jaipur-gold-chain-factory-fire-accident-workers-death-update-139454418.html",
+   "t": 1792688411000,
+   "time": "22:30",
    "score": 8,
    "tags": [
     "RAJ",
@@ -1114,260 +1322,56 @@
    }
   },
   {
-   "id": "au-latest-news-cm-bhajanlal-participated-in-ravana-dahan-cm-bhajanlal-in-ravan-dhan-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Latest News रावण दहन में शामिल हुए सीएम भजनलाल | CM Bhajanlal in Ravan Dhan",
-   "url": "https://www.amarujala.com/video-shots/india-news/latest-news-cm-bhajanlal-participated-in-ravana-dahan-cm-bhajanlal-in-ravan-dhan-2026-10-22",
-   "t": 1792674822000,
-   "time": "18:43",
-   "score": 7,
-   "tags": [
-    "RAJ",
-    "POL"
-   ],
-   "status": "GAP",
-   "match": 0.08
-  },
-  {
-   "id": "au-rajasthan-news-discovery-of-uncle-and-two-nephews-bodies-in-a-field-sparks-a-stir-what-is-the-truth-amar-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rajasthan News चाचा और दो भतीजों की खेत में लाश मिलने से मचा हड़कंप, क्या है सच Amar Ujala",
-   "url": "https://www.amarujala.com/video-shots/india-news/rajasthan-news-discovery-of-uncle-and-two-nephews-bodies-in-a-field-sparks-a-stir-what-is-the-truth-amar-2026-10-22",
-   "t": 1792674737000,
-   "time": "18:42",
-   "score": 7,
-   "tags": [
-    "RAJ",
-    "CRK"
-   ],
-   "status": "GAP",
-   "match": 0.1
-  },
-  {
-   "id": "nbt-135119726.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "'किरोड़ी मीणा के साथ तुम्हारा भी इलाज कर दूंगा', नरेश मीणा अधिकारियों पर बिफरे, दी खुली चेतावनी",
-   "url": "https://navbharattimes.indiatimes.com/state/rajasthan/baran/naresh-meena-warning-to-kirodi-lal-meena-and-officials-chhabra-dap-fertilizer-crisis-in-baran/articleshow/135119726.cms",
-   "t": 1792674702000,
-   "time": "18:41",
-   "score": 9,
-   "tags": [
-    "RAJ",
-    "WAR",
-    "CRK"
-   ],
-   "status": "GAP",
-   "match": 0.2
-  },
-  {
-   "id": "au-rajasthan-news-bjp-to-soon-launch-remove-mob-rule-save-democracy-campaign-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rajasthan News भाजपा जल्द शुरू करेगी भीड़तंत्र हटाओ, लोकतंत्र बचाओ अभियान",
-   "url": "https://www.amarujala.com/video/india-news/rajasthan-news-bjp-to-soon-launch-remove-mob-rule-save-democracy-campaign-2026-10-22",
-   "t": 1792674641000,
-   "time": "18:40",
-   "score": 7,
-   "tags": [
-    "RAJ",
-    "POL"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "au-bloodshed-during-visarjan-22-year-old-youth-stabbed-to-death-in-sitamarhi-muzaffarpur-news-c-1-1-noi1241-4860176-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "बिहार यहां दुर्गा पूजा विसर्जन के दौरान युवक की चाकू घोंपकर हत्या, आक्रोशित ग्रामीणों ने किया सड़क जाम",
-   "url": "https://www.amarujala.com/bihar/muzaffarpur/bloodshed-during-visarjan-22-year-old-youth-stabbed-to-death-in-sitamarhi-muzaffarpur-news-c-1-1-noi1241-4860176-2026-10-22",
-   "t": 1792674465000,
-   "time": "18:37",
-   "score": 11,
-   "tags": [
-    "CG",
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.16
-  },
-  {
-   "id": "au-benjamin-netanyahu-modi-telephonic-conversation-invite-pm-and-smit-machchhar-on-israel-independence-day-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "नेतन्याहू की पीएम मोदी से बात इस्राइली स्वतंत्रता दिवस पर मशाल जलाने का दिया न्योता, कैप्टन मच्छार होंगे साथ",
-   "url": "https://www.amarujala.com/world/benjamin-netanyahu-modi-telephonic-conversation-invite-pm-and-smit-machchhar-on-israel-independence-day-2026-10-22",
-   "t": 1792674027000,
-   "time": "18:30",
-   "score": 6,
-   "tags": [
-    "POL",
-    "WAR",
-    "CRK"
-   ],
-   "status": "GAP",
-   "match": 0.37,
-   "patrikaMatch": {
-    "title": "इजराइली पीएम नेतन्याहू ने अचानक किया पीएम मोदी को फोन, पश्चिम एशिया में तनाव को लेकर हुई अहम बात",
-    "url": "https://www.patrika.com/world-news/benjamin-netanyahu-calls-pm-modi-middle-east-crisis-21002145"
-   }
-  },
-  {
-   "id": "at-baghpat-buffalo-cart-race-viral-video-police-action-lclcn-strc-2677467-2026-10-22",
-   "src": "at",
-   "pub": "Aaj Tak",
-   "title": "बेजुबानों से कराई गई 'मौत की रेस', इंसानों की जान भी लगी दांव पर... बागपत में सड़क बनी रेसिंग ट्रैक",
-   "url": "https://www.aajtak.in/uttar-pradesh/story/baghpat-buffalo-cart-race-viral-video-police-action-lclcn-strc-2677467-2026-10-22",
-   "t": 1792673969000,
-   "time": "18:29",
+   "id": "bh-jaipur-retired-colonel-leela-singh-suicide-shyam-nagar-rail-nagar-139454385.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "जयपुर में रिटायर्ड कर्नल ने खुद को गोली मारी: कमरे में लहूलुहान हालत में पड़ा हुआ था शव, बीमारी से परेशान थे",
+   "url": "https://www.bhaskar.com/local/rajasthan/jaipur/news/jaipur-retired-colonel-leela-singh-suicide-shyam-nagar-rail-nagar-139454385.html",
+   "t": 1792688257000,
+   "time": "22:27",
    "score": 8,
    "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.16
-  },
-  {
-   "id": "au-shamli-married-woman-dies-in-lank-family-alleges-husband-poisoned-her-to-death-creates-an-uproar-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "शामली लांक में 21 साल की विवाहिता की मौत, पति पर जहर देकर हत्या करने का आरोप, परिजनों ने किया हंगामा",
-   "url": "https://www.amarujala.com/uttar-pradesh/shamli/shamli-married-woman-dies-in-lank-family-alleges-husband-poisoned-her-to-death-creates-an-uproar-2026-10-22",
-   "t": 1792673823000,
-   "time": "18:27",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.16
-  },
-  {
-   "id": "at-aligarh-audi-car-hits-biker-then-runs-over-man-police-investigation-lclar-strc-2677460-2026-10-22",
-   "src": "at",
-   "pub": "Aaj Tak",
-   "title": "पूर्व BJP जिलाध्यक्ष की ऑडी ने पहले टक्कर मारकर गिराया, फिर कुचल डाला, Video",
-   "url": "https://www.aajtak.in/uttar-pradesh/story/aligarh-audi-car-hits-biker-then-runs-over-man-police-investigation-lclar-strc-2677460-2026-10-22",
-   "t": 1792673611000,
-   "time": "18:23",
-   "score": 7,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "POL"
-   ],
-   "status": "GAP",
-   "match": 0.24
-  },
-  {
-   "id": "au-woman-died-under-suspicious-circumstances-family-members-accused-of-murder-police-denied-this-in-bulandshahr-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "बुलंदशहर संदिग्ध परिस्थितियों में महिला की मौत, परिजनों ने हत्या का लगाया आरोप, पुलिस ने इस बात से किया इनकार",
-   "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/woman-died-under-suspicious-circumstances-family-members-accused-of-murder-police-denied-this-in-bulandshahr-2026-10-22",
-   "t": 1792673574000,
-   "time": "18:22",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.2
-  },
-  {
-   "id": "au-jio-platforms-ipo-day-2-mega-30-213-crore-issue-sets-market-record-with-strong-qib-push-and-22-gmp-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Jio IPO Day 2 Live देश के सबसे बड़े पब्लिक ऑफर को दूसरे दिन कितना सब्सक्रिप्शन जानिए जीएमपी का हाल",
-   "url": "https://www.amarujala.com/business/business-diary/jio-platforms-ipo-day-2-mega-30-213-crore-issue-sets-market-record-with-strong-qib-push-and-22-gmp-2026-10-22",
-   "t": 1792673275000,
-   "time": "18:17",
-   "score": 6,
-   "tags": [
-    "MP",
-    "MONEY"
-   ],
-   "status": "GAP",
-   "match": 0.18
-  },
-  {
-   "id": "at-mahakal-tattoo-bullet-marks-and-slit-throat-two-dead-bodies-found-in-sacks-chandauli-lclam-dskc-2677402-2026-10-22",
-   "src": "at",
-   "pub": "Aaj Tak",
-   "title": "'महाकाल' का टैटू, गोली के निशान और रेता हुआ गला: चंदौली में बोरियों में 2 शव मिलने से हड़कंप",
-   "url": "https://www.aajtak.in/uttar-pradesh/story/mahakal-tattoo-bullet-marks-and-slit-throat-two-dead-bodies-found-in-sacks-chandauli-lclam-dskc-2677402-2026-10-22",
-   "t": 1792673162000,
-   "time": "18:16",
-   "score": 7,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "CRK"
-   ],
-   "status": "GAP",
-   "match": 0.1
-  },
-  {
-   "id": "au-prayagraj-student-on-a-motorcycle-killed-after-being-hit-by-a-car-cousin-injured-2026-10-22",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "प्रयागराज कार के चपेट में आने से बाइक सवार छात्र की मौत, चचेरा भाई घायल",
-   "url": "https://www.amarujala.com/uttar-pradesh/allahabad/crime/prayagraj-student-on-a-motorcycle-killed-after-being-hit-by-a-car-cousin-injured-2026-10-22",
-   "t": 1792673114000,
-   "time": "18:15",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
+    "RAJ",
+    "CRIME"
    ],
    "status": "GAP",
    "match": 0.17
   },
   {
-   "id": "bh-rewari-electricity-employees-strike-protest-private-license-update-139451868.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "रेवाड़ी के पावर हाउसों पर 600 पुलिसकर्मी तैनात: तीन दिन की हड़ताल, निजी कंपनी को लाइसेंस देने का विरोध, हेल्पलाइन नंबर जारी",
-   "url": "https://www.bhaskar.com/local/haryana/rewari/bawal/news/rewari-electricity-employees-strike-protest-private-license-update-139451868.html",
-   "t": 1792673056000,
-   "time": "18:14",
-   "score": 11,
+   "id": "at-jaipur-gold-jewellery-factory-fire-two-workers-dead-four-injured-lclcn-strc-2677582-2026-10-22",
+   "src": "at",
+   "pub": "Aaj Tak",
+   "title": "जयपुर की गोल्ड ज्वेलरी फैक्ट्री में लगी आग, दम घुटने से 2 कर्मचारियों की मौत, दीवार तोड़कर निकाले गए लोग",
+   "url": "https://www.aajtak.in/rajasthan/story/jaipur-gold-jewellery-factory-fire-two-workers-dead-four-injured-lclcn-strc-2677582-2026-10-22",
+   "t": 1792687068000,
+   "time": "22:07",
+   "score": 8,
    "tags": [
-    "MP",
-    "HINDI",
-    "CRIME",
-    "WAR"
+    "RAJ",
+    "ACC"
    ],
-   "status": "GAP",
-   "match": 0.18
+   "status": "COVERED",
+   "match": 0.73,
+   "patrikaMatch": {
+    "title": "Jaipur Fire: ज्वेलरी फैक्ट्री में लगी भीषण आग, 2 कर्मचारियों की मौत, 4 गंभीर घायल",
+    "url": "https://www.patrika.com/jaipur-news/jaipur-sitapura-jewellery-factory-fire-workers-dead-21001915"
+   }
   },
   {
-   "id": "zee-3306982",
-   "src": "zee",
-   "pub": "Zee News Hindi",
-   "title": "जबलपुर: दशहरा जुलूस में चाकूबाजी, 2 गुटों की झड़प में युवक जख्मी; बीच-बचाव करने पहुंचे SI भी घायल",
-   "url": "https://zeenews.india.com/hindi/india/madhya-pradesh-chhattisgarh/mp/clash-during-dussehra-procession-in-jabalpur-youth-stabbed-and-cop-also-injured/3306982",
-   "t": 1792672894000,
-   "time": "18:11",
+   "id": "bh-madhya-pradesh-pratima-bagri-urban-body-procurement-scam-probe-139454122.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "200 LED बल्ब ₹60 लाख में खरीदे, जांच कराएगी सरकार: 374 नगरीय निकायों ने ₹1,134 करोड़ का सामान खरीदा; मंत्री बागरी बोलीं- जिम्मेदारों पर कार्रवाई करेंगे",
+   "url": "https://www.bhaskar.com/local/mp/bhopal/news/madhya-pradesh-pratima-bagri-urban-body-procurement-scam-probe-139454122.html",
+   "t": 1792686971000,
+   "time": "22:06",
    "score": 7,
    "tags": [
     "MP",
-    "CG"
+    "CRIME"
    ],
    "status": "GAP",
-   "match": 0.08
+   "match": 0.12
   }
  ]
 }
