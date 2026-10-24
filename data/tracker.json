@@ -1,18 +1,18 @@
 {
- "lastRunAt": 1792835346744,
+ "lastRunAt": 1792850858867,
  "method": "GitHub Actions",
  "windowHours": 3.0,
  "kept": 80,
- "gaps": 76,
+ "gaps": 75,
  "sources": {
   "pat": {
    "name": "Patrika",
    "ok": true,
-   "count": 580,
+   "count": 574,
    "sitemaps": [
     "https://www.patrika.com/google-news-sitemap-v1.xml"
    ],
-   "newest": 1792834155000
+   "newest": 1792849887000
   },
   "au": {
    "name": "Amar Ujala",
@@ -21,26 +21,26 @@
    "sitemaps": [
     "https://www.amarujala.com/sitemap-news-v1.xml"
    ],
-   "newest": 1792835226000
+   "newest": 1792850726000
   },
   "at": {
    "name": "Aaj Tak",
    "ok": true,
-   "count": 973,
+   "count": 1038,
    "sitemaps": [
     "https://www.aajtak.in/rssfeeds/news-sitemap.xml"
    ],
-   "newest": 1792835163000
+   "newest": 1792850072000
   },
   "zee": {
    "name": "Zee News Hindi",
    "ok": true,
-   "count": 1662,
+   "count": 1661,
    "sitemaps": [
     "https://zeenews.india.com/hindi/sitemaps/news-sitemap.xml",
     "https://zeenews.india.com/hindi/india/rajasthan/news-sitemap.xml"
    ],
-   "newest": 1792833674000
+   "newest": 1792849281000
   },
   "bh": {
    "name": "Bhaskar",
@@ -49,17 +49,17 @@
    "sitemaps": [
     "https://www.bhaskar.com/sitemaps-v1--sitemap-google-news-index.xml"
    ],
-   "newest": 1792855141000
+   "newest": 1792870638000
   },
   "abp": {
    "name": "ABP Live",
    "ok": true,
-   "count": 637,
+   "count": 726,
    "sitemaps": [
     "https://www.abplive.com/news-sitemap.xml",
     "https://www.abplive.com/google-news-sitemap.xml"
    ],
-   "newest": 1792835345000
+   "newest": 1792850645000
   },
   "ndtv": {
    "name": "NDTV Hindi",
@@ -69,12 +69,12 @@
   "nbt": {
    "name": "Navbharat Times",
    "ok": true,
-   "count": 9563,
+   "count": 9661,
    "sitemaps": [
     "https://navbharattimes.indiatimes.com/news-sitemap.xml",
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-index.xml"
    ],
-   "newest": 1792835005000
+   "newest": 1792850735000
   }
  }
 }
