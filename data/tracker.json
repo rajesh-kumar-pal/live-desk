@@ -1,18 +1,18 @@
 {
- "lastRunAt": 1792938924863,
+ "lastRunAt": 1792950785055,
  "method": "GitHub Actions",
  "windowHours": 3.0,
  "kept": 80,
- "gaps": 76,
+ "gaps": 78,
  "sources": {
   "pat": {
    "name": "Patrika",
    "ok": true,
-   "count": 527,
+   "count": 526,
    "sitemaps": [
     "https://www.patrika.com/google-news-sitemap-v1.xml"
    ],
-   "newest": 1792937408000
+   "newest": 1792949250000
   },
   "au": {
    "name": "Amar Ujala",
@@ -21,26 +21,26 @@
    "sitemaps": [
     "https://www.amarujala.com/sitemap-news-v1.xml"
    ],
-   "newest": 1792938739000
+   "newest": 1792950722000
   },
   "at": {
    "name": "Aaj Tak",
    "ok": true,
-   "count": 956,
+   "count": 985,
    "sitemaps": [
     "https://www.aajtak.in/rssfeeds/news-sitemap.xml"
    ],
-   "newest": 1792938752000
+   "newest": 1792950427000
   },
   "zee": {
    "name": "Zee News Hindi",
    "ok": true,
-   "count": 1662,
+   "count": 1670,
    "sitemaps": [
     "https://zeenews.india.com/hindi/sitemaps/news-sitemap.xml",
     "https://zeenews.india.com/hindi/india/rajasthan/news-sitemap.xml"
    ],
-   "newest": 1792938682000
+   "newest": 1792949458000
   },
   "bh": {
    "name": "Bhaskar",
@@ -49,17 +49,17 @@
    "sitemaps": [
     "https://www.bhaskar.com/sitemaps-v1--sitemap-google-news-index.xml"
    ],
-   "newest": 1792958715000
+   "newest": 1792970217000
   },
   "abp": {
    "name": "ABP Live",
    "ok": true,
-   "count": 691,
+   "count": 739,
    "sitemaps": [
     "https://www.abplive.com/news-sitemap.xml",
     "https://www.abplive.com/google-news-sitemap.xml"
    ],
-   "newest": 1792938883000
+   "newest": 1792950100000
   },
   "ndtv": {
    "name": "NDTV Hindi",
@@ -69,12 +69,12 @@
   "nbt": {
    "name": "Navbharat Times",
    "ok": true,
-   "count": 10012,
+   "count": 10063,
    "sitemaps": [
     "https://navbharattimes.indiatimes.com/news-sitemap.xml",
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-index.xml"
    ],
-   "newest": 1792938785000
+   "newest": 1792950660000
   }
  }
 }
