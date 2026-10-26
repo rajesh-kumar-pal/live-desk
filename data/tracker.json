@@ -1,18 +1,18 @@
 {
- "lastRunAt": 1792950785055,
+ "lastRunAt": 1792992260817,
  "method": "GitHub Actions",
  "windowHours": 3.0,
  "kept": 80,
- "gaps": 78,
+ "gaps": 75,
  "sources": {
   "pat": {
    "name": "Patrika",
    "ok": true,
-   "count": 526,
+   "count": 542,
    "sitemaps": [
     "https://www.patrika.com/google-news-sitemap-v1.xml"
    ],
-   "newest": 1792949250000
+   "newest": 1792992047000
   },
   "au": {
    "name": "Amar Ujala",
@@ -21,45 +21,45 @@
    "sitemaps": [
     "https://www.amarujala.com/sitemap-news-v1.xml"
    ],
-   "newest": 1792950722000
+   "newest": 1792992246000
   },
   "at": {
    "name": "Aaj Tak",
    "ok": true,
-   "count": 985,
+   "count": 698,
    "sitemaps": [
     "https://www.aajtak.in/rssfeeds/news-sitemap.xml"
    ],
-   "newest": 1792950427000
+   "newest": 1792992214000
   },
   "zee": {
    "name": "Zee News Hindi",
    "ok": true,
-   "count": 1670,
+   "count": 1674,
    "sitemaps": [
     "https://zeenews.india.com/hindi/sitemaps/news-sitemap.xml",
     "https://zeenews.india.com/hindi/india/rajasthan/news-sitemap.xml"
    ],
-   "newest": 1792949458000
+   "newest": 1792990519000
   },
   "bh": {
    "name": "Bhaskar",
    "ok": true,
-   "count": 1400,
+   "count": 1398,
    "sitemaps": [
     "https://www.bhaskar.com/sitemaps-v1--sitemap-google-news-index.xml"
    ],
-   "newest": 1792970217000
+   "newest": 1793011975000
   },
   "abp": {
    "name": "ABP Live",
    "ok": true,
-   "count": 739,
+   "count": 500,
    "sitemaps": [
     "https://www.abplive.com/news-sitemap.xml",
     "https://www.abplive.com/google-news-sitemap.xml"
    ],
-   "newest": 1792950100000
+   "newest": 1792992173000
   },
   "ndtv": {
    "name": "NDTV Hindi",
@@ -69,12 +69,12 @@
   "nbt": {
    "name": "Navbharat Times",
    "ok": true,
-   "count": 10063,
+   "count": 10183,
    "sitemaps": [
     "https://navbharattimes.indiatimes.com/news-sitemap.xml",
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-index.xml"
    ],
-   "newest": 1792950660000
+   "newest": 1792992138000
   }
  }
 }
