@@ -1,5 +1,5 @@
 {
- "lastRunAt": 1793014450612,
+ "lastRunAt": 1793036370864,
  "method": "GitHub Actions",
  "windowHours": 3.0,
  "kept": 80,
@@ -8,39 +8,39 @@
   "pat": {
    "name": "Patrika",
    "ok": true,
-   "count": 551,
+   "count": 554,
    "sitemaps": [
     "https://www.patrika.com/google-news-sitemap-v1.xml"
    ],
-   "newest": 1793013492000
+   "newest": 1793035751000
   },
   "au": {
    "name": "Amar Ujala",
    "ok": true,
-   "count": 700,
+   "count": 697,
    "sitemaps": [
     "https://www.amarujala.com/sitemap-news-v1.xml"
    ],
-   "newest": 1793014402000
+   "newest": 1793036027000
   },
   "at": {
    "name": "Aaj Tak",
    "ok": true,
-   "count": 844,
+   "count": 947,
    "sitemaps": [
     "https://www.aajtak.in/rssfeeds/news-sitemap.xml"
    ],
-   "newest": 1793014283000
+   "newest": 1793036234000
   },
   "zee": {
    "name": "Zee News Hindi",
    "ok": true,
-   "count": 1673,
+   "count": 1669,
    "sitemaps": [
     "https://zeenews.india.com/hindi/sitemaps/news-sitemap.xml",
     "https://zeenews.india.com/hindi/india/rajasthan/news-sitemap.xml"
    ],
-   "newest": 1793004336000
+   "newest": 1793036244000
   },
   "bh": {
    "name": "Bhaskar",
@@ -49,17 +49,17 @@
    "sitemaps": [
     "https://www.bhaskar.com/sitemaps-v1--sitemap-google-news-index.xml"
    ],
-   "newest": 1793034254000
+   "newest": 1793056088000
   },
   "abp": {
    "name": "ABP Live",
    "ok": true,
-   "count": 682,
+   "count": 803,
    "sitemaps": [
     "https://www.abplive.com/news-sitemap.xml",
     "https://www.abplive.com/google-news-sitemap.xml"
    ],
-   "newest": 1793014285000
+   "newest": 1793036146000
   },
   "ndtv": {
    "name": "NDTV Hindi",
@@ -69,12 +69,12 @@
   "nbt": {
    "name": "Navbharat Times",
    "ok": true,
-   "count": 10355,
+   "count": 10481,
    "sitemaps": [
     "https://navbharattimes.indiatimes.com/news-sitemap.xml",
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-index.xml"
    ],
-   "newest": 1793014264000
+   "newest": 1793036156000
   }
  }
 }
