@@ -1,18 +1,18 @@
 {
- "lastRunAt": 1793341866623,
+ "lastRunAt": 1793367501251,
  "method": "GitHub Actions",
  "windowHours": 3.0,
  "kept": 80,
- "gaps": 73,
+ "gaps": 75,
  "sources": {
   "pat": {
    "name": "Patrika",
    "ok": true,
-   "count": 615,
+   "count": 601,
    "sitemaps": [
     "https://www.patrika.com/google-news-sitemap-v1.xml"
    ],
-   "newest": 1793341044000
+   "newest": 1793367078000
   },
   "au": {
    "name": "Amar Ujala",
@@ -21,45 +21,45 @@
    "sitemaps": [
     "https://www.amarujala.com/sitemap-news-v1.xml"
    ],
-   "newest": 1793341852000
+   "newest": 1793367175000
   },
   "at": {
    "name": "Aaj Tak",
    "ok": true,
-   "count": 929,
+   "count": 1105,
    "sitemaps": [
     "https://www.aajtak.in/rssfeeds/news-sitemap.xml"
    ],
-   "newest": 1793341634000
+   "newest": 1793367394000
   },
   "zee": {
    "name": "Zee News Hindi",
    "ok": true,
-   "count": 1660,
+   "count": 1658,
    "sitemaps": [
     "https://zeenews.india.com/hindi/sitemaps/news-sitemap.xml",
     "https://zeenews.india.com/hindi/india/rajasthan/news-sitemap.xml"
    ],
-   "newest": 1793340976000
+   "newest": 1793366916000
   },
   "bh": {
    "name": "Bhaskar",
    "ok": true,
-   "count": 700,
+   "count": 1396,
    "sitemaps": [
     "https://www.bhaskar.com/sitemaps-v1--sitemap-google-news-index.xml"
    ],
-   "newest": 1793361667000
+   "newest": 1793387302000
   },
   "abp": {
    "name": "ABP Live",
    "ok": true,
-   "count": 525,
+   "count": 726,
    "sitemaps": [
     "https://www.abplive.com/news-sitemap.xml",
     "https://www.abplive.com/google-news-sitemap.xml"
    ],
-   "newest": 1793341785000
+   "newest": 1793367234000
   },
   "ndtv": {
    "name": "NDTV Hindi",
@@ -69,12 +69,12 @@
   "nbt": {
    "name": "Navbharat Times",
    "ok": true,
-   "count": 12405,
+   "count": 12812,
    "sitemaps": [
     "https://navbharattimes.indiatimes.com/news-sitemap.xml",
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-index.xml"
    ],
-   "newest": 1793329335000
+   "newest": 1793362300000
   }
  }
 }
