@@ -1,18 +1,18 @@
 {
- "lastRunAt": 1793664192739,
+ "lastRunAt": 1793690209209,
  "method": "GitHub Actions",
  "windowHours": 3.0,
  "kept": 80,
- "gaps": 80,
+ "gaps": 75,
  "sources": {
   "pat": {
    "name": "Patrika",
    "ok": true,
-   "count": 545,
+   "count": 564,
    "sitemaps": [
     "https://www.patrika.com/google-news-sitemap-v1.xml"
    ],
-   "newest": 1793658600000
+   "newest": 1793690079000
   },
   "au": {
    "name": "Amar Ujala",
@@ -21,26 +21,26 @@
    "sitemaps": [
     "https://www.amarujala.com/sitemap-news-v1.xml"
    ],
-   "newest": 1793664030000
+   "newest": 1793689915000
   },
   "at": {
    "name": "Aaj Tak",
    "ok": true,
-   "count": 655,
+   "count": 780,
    "sitemaps": [
     "https://www.aajtak.in/rssfeeds/news-sitemap.xml"
    ],
-   "newest": 1793663110000
+   "newest": 1793690095000
   },
   "zee": {
    "name": "Zee News Hindi",
    "ok": true,
-   "count": 1636,
+   "count": 1633,
    "sitemaps": [
     "https://zeenews.india.com/hindi/sitemaps/news-sitemap.xml",
     "https://zeenews.india.com/hindi/india/rajasthan/news-sitemap.xml"
    ],
-   "newest": 1793644456000
+   "newest": 1793687734000
   },
   "bh": {
    "name": "Bhaskar",
@@ -49,17 +49,17 @@
    "sitemaps": [
     "https://www.bhaskar.com/sitemaps-v1--sitemap-google-news-index.xml"
    ],
-   "newest": 1793683855000
+   "newest": 1793710003000
   },
   "abp": {
    "name": "ABP Live",
    "ok": true,
-   "count": 500,
+   "count": 603,
    "sitemaps": [
     "https://www.abplive.com/news-sitemap.xml",
     "https://www.abplive.com/google-news-sitemap.xml"
    ],
-   "newest": 1793658327000
+   "newest": 1793689917000
   },
   "ndtv": {
    "name": "NDTV Hindi",
@@ -69,13 +69,13 @@
   "nbt": {
    "name": "Navbharat Times",
    "ok": true,
-   "count": 10863,
+   "count": 11038,
    "sitemaps": [
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-48hours.xml",
     "https://navbharattimes.indiatimes.com/news-sitemap.xml",
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-index.xml"
    ],
-   "newest": 1793664130000
+   "newest": 1793690106000
   }
  }
 }
