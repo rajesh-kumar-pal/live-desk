@@ -1,7 +1,577 @@
 {
- "updatedAt": 1793740660035,
- "newest": 1793737800000,
+ "updatedAt": 1793775581837,
+ "newest": 1793774742000,
  "items": [
+  {
+   "slug": "khandwa-diwali-traffic-plan-no-vehicle-zone-in-major-markets-from-november-6-to-8",
+   "url": "https://www.patrika.com/khandwa-news/khandwa-diwali-traffic-plan-no-vehicle-zone-in-major-markets-from-november-6-to-8-21029309",
+   "title": "त्योहार की रौनक में ट्रैफिक का अड़ंगा नहीं, बाजारों में लागू होगा नो व्हीकल जोन",
+   "t": 1793774742000
+  },
+  {
+   "slug": "ayesha-raza-mishra-reveals-body-shaming-on-her-wedding-day-she-talks-about-katrina-and-aishwarya",
+   "url": "https://www.patrika.com/bollywood-news/ayesha-raza-mishra-reveals-body-shaming-on-her-wedding-day-she-talks-about-katrina-and-aishwarya-21029220",
+   "title": "‘शादी के दिन बॉडी-शेमिंग का शिकार हुई थी’, अभिनेत्री आयशा रजा मिश्रा ने किया खुलासा, कैटरीना- ऐश्वर्या पर भी की बात",
+   "t": 1793774430000
+  },
+  {
+   "slug": "keshav-maurya-rahul-gandhi-vote-chori-nehrupatel-bjp-congress-up-politics",
+   "url": "https://www.patrika.com/lucknow-news/keshav-maurya-rahul-gandhi-vote-chori-nehrupatel-bjp-congress-up-politics-21029162",
+   "title": "‘वोट चोरी का आरोप लगाने वाले खुद सबसे बड़े वोट चोर’, केशव मौर्य बोले- नेहरू ने पटेल का वोट चुराकर PM की कुर्सी पाई",
+   "t": 1793774278000
+  },
+  {
+   "slug": "alwar-bjp-candidates-political-camp-diwali-family-home-demand",
+   "url": "https://www.patrika.com/alwar-news/alwar-bjp-candidates-political-camp-diwali-family-home-demand-21029267",
+   "title": "BJP की बाड़ाबंदी में दिवाली पर परिवार के साथ रहने की ‘आजादी’ मांग रहे प्रत्याशी",
+   "t": 1793774006000
+  },
+  {
+   "slug": "unlicensed-illegal-trade-of-firecrackers",
+   "url": "https://www.patrika.com/ratlam-news/unlicensed-illegal-trade-of-firecrackers-21029258",
+   "title": "शहर में नहीं थम रहा पटाखों का अवैध कारोबार",
+   "t": 1793774003000
+  },
+  {
+   "slug": "jawar-police-seize-221-cannabis-plants-worth-rs-29-57-lakh-in-cotton-field",
+   "url": "https://www.patrika.com/khandwa-news/jawar-police-seize-221-cannabis-plants-worth-rs-29-57-lakh-in-cotton-field-21029286",
+   "title": "सफेद सोने के बीच हरे नशे की खेती, 29.57 लाख का गांजा जब्त",
+   "t": 1793773907000
+  },
+  {
+   "slug": "simhastha-2028-omkareshwar-trenching-ground-parking-750-vehicles",
+   "url": "https://www.patrika.com/khandwa-news/simhastha-2028-omkareshwar-trenching-ground-parking-750-vehicles-21029277",
+   "title": "सिंहस्थ 2028… ओंकारेश्वर में बदलेगा पार्किंग का प्लान, अब 150 नहीं 750 गाड़ियों की होगी पार्किंग",
+   "t": 1793773764000
+  },
+  {
+   "slug": "sukma-hostel-students-sent-to-forest-to-carry-firewood",
+   "url": "https://www.patrika.com/sukma-news/sukma-hostel-students-sent-to-forest-to-carry-firewood-21029241",
+   "title": "पढ़ने आए थे छात्रावास, जंगल में लकड़ी ढोने भेजे गए बच्चे, सुकमा में अधीक्षक पर लापरवाही के आरोप",
+   "t": 1793773649000
+  },
+  {
+   "slug": "politics-panchayat-elections",
+   "url": "https://www.patrika.com/khandwa-news/politics-panchayat-elections-21029210",
+   "title": "पॉलिटिक्स : लॉटरी से मिली थी कुर्सी…अब ढाई साल बाद जिपं अध्यक्ष की कुर्सी बचाने जुटाना होगा बहुमत",
+   "t": 1793773649000
+  },
+  {
+   "slug": "amitabh-bachchan-security-sanjay-raut-statement",
+   "url": "https://www.patrika.com/mumbai-news/amitabh-bachchan-security-sanjay-raut-statement-21029190",
+   "title": "बुलेटप्रूफ सुरक्षा में अमिताभ बच्चन, संजय राउत बोले- आखिर किसके डर में जी रही है पूरी फिल्म इंडस्ट्री?",
+   "t": 1793773531000
+  },
+  {
+   "slug": "book-a-priest-online-for-religious-rituals-700-priests-are-registered",
+   "url": "https://www.patrika.com/indore-news/book-a-priest-online-for-religious-rituals-700-priests-are-registered-21029234",
+   "title": "अब घर बैठे बुक करें ‘पंडित जी’, पूजा के लिए हो रही ऑनलाइन बुकिंग,  इंदौर में 700 पंडित रजिस्टर्ड",
+   "t": 1793773356000
+  },
+  {
+   "slug": "bsp-township-house-rent-reduction-4100-families-benefit",
+   "url": "https://www.patrika.com/bhilai-news/bsp-township-house-rent-reduction-4100-families-benefit-21029067",
+   "title": "BSP के एक फैसले से टाउनशिप के 33 वार्डों में बढ़ी सियासी हलचल, 4100 परिवारों को फायदा, जानिए पूरा गणित",
+   "t": 1793773271000
+  },
+  {
+   "slug": "us-midterm-election-2026-pia-dandiya-wins-florida-congress-seat-jaipur-connection",
+   "url": "https://www.patrika.com/jaipur-news/us-midterm-election-2026-pia-dandiya-wins-florida-congress-seat-jaipur-connection-21029180",
+   "title": "Pia Dandiya Rajasthan Connection: यूएस हाउस ऑफ रिप्रेजेंटेटिव्स का चुनाव जीतकर रचा इतिहास, जानिए पिया डांडिया का राजस्थान कनेक्शन",
+   "t": 1793773168000
+  },
+  {
+   "slug": "giriraj-singh-calls-rahul-gandhi-chirkut-over-modi-open-debate-challenge",
+   "url": "https://www.patrika.com/national-news/giriraj-singh-calls-rahul-gandhi-chirkut-over-modi-open-debate-challenge-21029235",
+   "title": "राहुल गांधी को गिरिराज सिंह की दोटूक- मोदी से बहस करनी है तो संसद आइए, यही है सही मंच",
+   "t": 1793772979000
+  },
+  {
+   "slug": "rajasthan-road-accident-three-friends-died",
+   "url": "https://www.patrika.com/sirohi-news/rajasthan-road-accident-three-friends-died-21029223",
+   "title": "राजस्थान में भीषण सड़क हादसा, ट्रक ने बाइक सवार युवकों को कुचला, 3 दोस्तों की मौके पर ही मौत",
+   "t": 1793772977000
+  },
+  {
+   "slug": "jairam-ramesh-bjp-vb-g-ram-g-fake-attendance-allegation",
+   "url": "https://www.patrika.com/national-news/jairam-ramesh-bjp-vb-g-ram-g-fake-attendance-allegation-21029169",
+   "title": "VB-G RAM G में फर्जी हाजिरी का आरोप, जयराम रमेश ने भाजपा को घेरा, बोले- राम के नाम पर और कितना पाप करेगी BJP?",
+   "t": 1793772884000
+  },
+  {
+   "slug": "jhiri-village-map-dispute-rajasthan-high-court-60-days-certified-map",
+   "url": "https://www.patrika.com/alwar-news/jhiri-village-map-dispute-rajasthan-high-court-60-days-certified-map-21029176",
+   "title": "झिरी मानचित्र विवाद: 60 दिन में प्रमाणित मानचित्र जारी करें जिला कलक्टर- हाईकोर्ट  का आदेश",
+   "t": 1793772861000
+  },
+  {
+   "slug": "khandwa-disabled-elderly-woman-declared-dead-in-samagra-id-seeks-justice",
+   "url": "https://www.patrika.com/khandwa-news/khandwa-disabled-elderly-woman-declared-dead-in-samagra-id-seeks-justice-21029185",
+   "title": "जिंदा हूं मैं…! खंडवा में कागजों में मृत घोषित दिव्यांग वृद्धा पहुंची जनसुनवाई, बोलीं- साहब मुझे जिंदा कर दीजिए",
+   "t": 1793772616000
+  },
+  {
+   "slug": "army-soldier-warning-paan-singh-tomar-plot-dispute",
+   "url": "https://www.patrika.com/gwalior-news/army-soldier-warning-paan-singh-tomar-plot-dispute-21029186",
+   "title": "‘पान सिंह तोमर बनने को मजबूर कर रहा सिस्टम’, ग्वालियर में सेना के जवान ने दी चेतावनी",
+   "t": 1793772360000
+  },
+  {
+   "slug": "barack-obama-statement-us-midterm-election-results-trump-democratic-party-news",
+   "url": "https://www.patrika.com/world-news/barack-obama-statement-us-midterm-election-results-trump-democratic-party-news-21029122",
+   "title": "US Midterm Elections Results: डेमोक्रेट्स की जीत से उत्साहित ओबामा बोले- अब अमेरिका को बांटने नहीं, जोड़ने वाली राजनीति चाहिए",
+   "t": 1793772202000
+  },
+  {
+   "slug": "nitin-naveen-railly-in-gorakhpur",
+   "url": "https://www.patrika.com/gorakhpur-news/nitin-naveen-railly-in-gorakhpur-21028610",
+   "title": "नितिन नबीन के स्वागत में एयरपोर्ट से गोलघर तक सजेंगे 24 स्वागत स्थल: एक लाख लोगों के जुटने का दावा, योगी के साथ निकालेंगे पदयात्रा",
+   "t": 1793771181000
+  },
+  {
+   "slug": "anurag-thakur-slams-congress-on-china-funding-indian-democracy-1984-sikh-riots",
+   "url": "https://www.patrika.com/national-news/anurag-thakur-slams-congress-on-china-funding-indian-democracy-1984-sikh-riots-21029053",
+   "title": "‘चीन से फंड लेकर लोकतंत्र कमजोर कर रही कांग्रेस’, अनुराग ठाकुर का बड़ा आरोप, राहुल गांधी से मांगा जवाब",
+   "t": 1793771139000
+  },
+  {
+   "slug": "sharad-pawar-discharged-from-ruby-hall-hospital-pune-health-update",
+   "url": "https://www.patrika.com/mumbai-news/sharad-pawar-discharged-from-ruby-hall-hospital-pune-health-update-21029097",
+   "title": "शरद पवार को अस्पताल से मिली छुट्टी, दो दिन से पुणे के रूबी हॉस्पिटल में चल रहा था इलाज",
+   "t": 1793771032000
+  },
+  {
+   "slug": "akhilesh-yadav-pankaj-chaudhary-ranchhod-remark-bjp-ticket-2027-up-politics",
+   "url": "https://www.patrika.com/lucknow-news/akhilesh-yadav-pankaj-chaudhary-ranchhod-remark-bjp-ticket-2027-up-politics-21029111",
+   "title": "‘प्रदेश अध्यक्ष हैं तो पहले अपना टिकट घोषित करें’, अखिलेश यादव बोले- जिनकी खुद की टिकट पड़ोसी पक्की नहीं होने दे रहे, वो चुप ही रहें",
+   "t": 1793770984000
+  },
+  {
+   "slug": "mahadev-app-still-active-after-saurabh-chandrakar-arrest",
+   "url": "https://www.patrika.com/raipur-news/mahadev-app-still-active-after-saurabh-chandrakar-arrest-21029092",
+   "title": "वेबसाइट ब्लॉक हुई तो WhatsApp बना सहारा, सौरभ चंद्राकर की गिरफ्तारी के बाद महादेव सट्टा नेटवर्क ने बदला कारोबार का तरीका",
+   "t": 1793770798000
+  },
+  {
+   "slug": "rajasthan-drug-smuggling-750-crore-drugs-seized-917-smugglers-arrested",
+   "url": "https://www.patrika.com/jaipur-news/rajasthan-drug-smuggling-750-crore-drugs-seized-917-smugglers-arrested-21029107",
+   "title": "राजस्थान में एक साल में 750 करोड़ की नशे की खेप पकड़ी, 917 तस्कर गिरफ्तार; फिर भी नहीं टूटी सप्लाई चेन",
+   "t": 1793770725000
+  },
+  {
+   "slug": "nz-vs-ind-1st-odi-highlights-new-zealand-set-a-target-of-186-runs-for-india",
+   "url": "https://www.patrika.com/cricket-news/nz-vs-ind-1st-odi-highlights-new-zealand-set-a-target-of-186-runs-for-india-21029082",
+   "title": "अर्शदीप सिंह ने बल्लेबाजों पर बरपाया कहर, न्यूजीलैंड की टीम ताश के पत्तों की तरह मात्र 185 रन पर ढेर",
+   "t": 1793770719000
+  },
+  {
+   "slug": "ramayana-part-1-mumbai-screening-namit-malhotra-emotional-reaction-ranbir-kapoor-yash-sai-pallavi-first-reviews",
+   "url": "https://www.patrika.com/bollywood-news/ramayana-part-1-mumbai-screening-namit-malhotra-emotional-reaction-ranbir-kapoor-yash-sai-pallavi-first-reviews-21029056",
+   "title": "‘फिल्म बनाने में दिल, मेहनत और जुनून सब लगा दिया’, ‘रामायण’ के प्रोड्यूसर नमित मल्होत्रा हुए भावुक, मुंबई में हुई स्क्रीनिंग",
+   "t": 1793770657000
+  },
+  {
+   "slug": "soni-razdan-on-air-pollution-angry-bursting-cracker-on-diwali-said-anti-national-amid-dia-mirza-dispute",
+   "url": "https://www.patrika.com/bollywood-news/soni-razdan-on-air-pollution-angry-bursting-cracker-on-diwali-said-anti-national-amid-dia-mirza-dispute-21029026",
+   "title": "दीया मिर्जा विवाद के बीच सोनी राजदान ने दिया पटाखों पर बयान, बोलीं- यह ‘एंटी-नेशनल’ है",
+   "t": 1793770531000
+  },
+  {
+   "slug": "clarification-provided-by-religious-scholars-regarding-the-date-of-rama-ekadashi",
+   "url": "https://www.patrika.com/religion-news/clarification-provided-by-religious-scholars-regarding-the-date-of-rama-ekadashi-21029072",
+   "title": "Rama Ekadashi 2026 : 4 या 5 नवंबर- कब है रमा एकादशी! ज्योतिषाचार्यों, धमाचार्यों ने दूर किया भ्रम",
+   "t": 1793770492000
+  },
+  {
+   "slug": "jaipur-railway-station-platform-ticket-ban-diwali-chhath-puja-4-to-20-november-2026",
+   "url": "https://www.patrika.com/jaipur-news/jaipur-railway-station-platform-ticket-ban-diwali-chhath-puja-4-to-20-november-2026-21029015",
+   "title": "Railway Platform Ticket: 20 नवंबर तक नहीं मिलेंगे प्लेटफॉर्म टिकट, जानिए क्यों और किन बड़े स्टेशंस पर रेलवे ने लगाया 17 दिन का बैन",
+   "t": 1793770384000
+  },
+  {
+   "slug": "diwali-2026-easy-rangoli-designs-ideas",
+   "url": "https://www.patrika.com/lifestyle-news/diwali-2026-easy-rangoli-designs-ideas-21025232",
+   "title": "दिवाली रंगोली डिजाइन 2026: गेट से मंदिर तक सजाएं घर, जानें फूलों, दीयों और लक्ष्मी पादुका वाली रंगोली बनाने के टिप्स",
+   "t": 1793770200000
+  },
+  {
+   "slug": "mortons-neuroma-symptoms-causes-foot-pain-in-hindi",
+   "url": "https://www.patrika.com/health-news/mortons-neuroma-symptoms-causes-foot-pain-in-hindi-21028933",
+   "title": "Morton’s Neuroma Symptoms: चलते समय ऐसा लगता है जैसे जूते में कंकड़ फंसा हो, मेयो क्लिनिक से जानें क्या है यह बीमारी?",
+   "t": 1793770118000
+  },
+  {
+   "slug": "under-the-ladli-behna-yojana-women-will-receive-an-increased-amount-in-their-accounts",
+   "url": "https://www.patrika.com/bhopal-news/under-the-ladli-behna-yojana-women-will-receive-an-increased-amount-in-their-accounts-21029062",
+   "title": "क्या दिवाली में लाड़ली बहनों को मिलेंगे 3000 रुपए ! एमपी में 1.25 करोड़ बहनों को मिल सकता लाभ",
+   "t": 1793770086000
+  },
+  {
+   "slug": "diwali-2026-party-menu-easy-snacks-drinks",
+   "url": "https://www.patrika.com/lifestyle-news/diwali-2026-party-menu-easy-snacks-drinks-21029017",
+   "title": "Diwali Party को बनाना है खास? मेन्यू में शामिल करें स्नैक्स, चाट और मॉकटेल से लेकर ये टेस्टी और हेल्दी डिशेज",
+   "t": 1793769762000
+  },
+  {
+   "slug": "gold-silver-price-fall-today-on-mcx-konw-reason",
+   "url": "https://www.patrika.com/business-news/gold-silver-price-fall-today-on-mcx-konw-reason-21029038",
+   "title": "Gold Silver Price Today: MCX पर टूट गए सोने के भाव, चांदी में भी आई गिरावट, जानिए क्या रह गई हैं कीमतें",
+   "t": 1793769575000
+  },
+  {
+   "slug": "upi-digital-payment-growth-atm-cash-withdrawal-decline",
+   "url": "https://www.patrika.com/bhilai-news/upi-digital-payment-growth-atm-cash-withdrawal-decline-21028979",
+   "title": "दीपावली पर भी ATM बूथों पर सन्नाटा! दुर्ग में 3 साल में 27% घटी नकदी निकासी, जानिए क्यों बदली लोगों की आदत?",
+   "t": 1793769498000
+  },
+  {
+   "slug": "akhilesh-yadav-dhirendra-shastri-krishna-ram-statement-braj-awadh-controversy",
+   "url": "https://www.patrika.com/lucknow-news/akhilesh-yadav-dhirendra-shastri-krishna-ram-statement-braj-awadh-controversy-21029044",
+   "title": "‘न ब्रज में प्रवेश मिलेगा, न अवध में’, धीरेंद्र शास्त्री पर अखिलेश यादव का निशाना, बोले- यदुवंशियों और रघुवंशियों की भावनाएं आहत कीं",
+   "t": 1793769295000
+  },
+  {
+   "slug": "abhijeet-dipke-taunt-gyanesh-kumar-trump-sir-row",
+   "url": "https://www.patrika.com/mumbai-news/abhijeet-dipke-taunt-gyanesh-kumar-trump-sir-row-21029018",
+   "title": "‘ट्रंप के साथ ऐसा नहीं होने देते ज्ञानेश कुमार’, अभिजीत दीपके की एक लाइन ने छेड़ी नई बहस",
+   "t": 1793769275000
+  },
+  {
+   "slug": "progressive-interstitial-lung-disease-early-diagnosis-symptoms",
+   "url": "https://www.patrika.com/advertorial/progressive-interstitial-lung-disease-early-diagnosis-symptoms-20995496",
+   "title": "सांस थमने का इंतजार न करें:  आइएलडी  को जानें",
+   "t": 1793769101000
+  },
+  {
+   "slug": "karnal-pubg-student-prince-jumps-into-yamuna-canal",
+   "url": "https://www.patrika.com/national-news/karnal-pubg-student-prince-jumps-into-yamuna-canal-21029030",
+   "title": "करनाल में PUBG से रोकने पर 15 साल के प्रिंस ने नहर में लगाई छलांग, गेमिंग एडिक्शन बच्चों की जान पर बन रही भारी",
+   "t": 1793768957000
+  },
+  {
+   "slug": "virat-kohli-diwali-special-celebration-after-take-a-spectacular-catch",
+   "url": "https://www.patrika.com/cricket-news/virat-kohli-diwali-special-celebration-after-take-a-spectacular-catch-21029009",
+   "title": "विराट कोहली ने चीते की तरह हवा में छलांग लगाकर पकड़ा अद्भुत कैच और फिर मनाया दिवाली स्पेशल सेलिब्रेशन",
+   "t": 1793768917000
+  },
+  {
+   "slug": "patrika-blockbuster-sale-diwali-shopping-bumper-prizes",
+   "url": "https://www.patrika.com/jaipur-news/patrika-blockbuster-sale-diwali-shopping-bumper-prizes-21029000",
+   "title": "Patrika Blockbuster Sale: दिवाली की शॉपिंग के साथ बंपर इनाम जीतने का मौका",
+   "t": 1793768325000
+  },
+  {
+   "slug": "barabanki-brother-and-sister-in-law-murder-sister",
+   "url": "https://www.patrika.com/barabanki-news/barabanki-brother-and-sister-in-law-murder-sister-21028927",
+   "title": "‘हां, मैंने पत्नी के साथ मिलकर बहन का मार डाला’, भाई का कबूलनामा",
+   "t": 1793767964000
+  },
+  {
+   "slug": "gas-cylinders-will-not-reach-50000-homes-this-diwali",
+   "url": "https://www.patrika.com/bhopal-news/gas-cylinders-will-not-reach-50000-homes-this-diwali-21028987",
+   "title": "दिवाली पर 50 हजार घरों में नहीं पहुंचेगा गैस सिलेंडर ! भोपाल में गैस एजेंसियों ने खड़े किए हाथ",
+   "t": 1793767741000
+  },
+  {
+   "slug": "punjab-congress-vijay-inder-singla-attacks-aap-government-rahul-gandhi-sangrur-rally",
+   "url": "https://www.patrika.com/national-news/punjab-congress-vijay-inder-singla-attacks-aap-government-rahul-gandhi-sangrur-rally-21028983",
+   "title": "Punjab Election 2027: राहुल गांधी की रैली से पहले कांग्रेस ने AAP सरकार पर साधा निशाना, कहा- हर मोर्चे पर विफल रही मान सरकार",
+   "t": 1793767563000
+  },
+  {
+   "slug": "rajasthan-ncr-diwali-cracker-guidelines-green-crackers-time-limit-silenze-zone-restrictions",
+   "url": "https://www.patrika.com/jaipur-news/rajasthan-ncr-diwali-cracker-guidelines-green-crackers-time-limit-silenze-zone-restrictions-21028889",
+   "title": "Rajasthan News: दिल्ली के बाद अब राजस्थान सरकार की सख्ती, दिवाली से ऐन पहले पटाखे चलाने का वक्त तय- गाइडलाइंस जारी",
+   "t": 1793767203000
+  },
+  {
+   "slug": "chhattisgarh-to-become-indias-top-tourist-destination",
+   "url": "https://www.patrika.com/raipur-news/chhattisgarh-to-become-indias-top-tourist-destination-21028925",
+   "title": "अब दुनिया देखेगी बस्तर की खूबसूरती! अमित शाह ने बताया क्यों खास है छत्तीसगढ़?",
+   "t": 1793767150000
+  },
+  {
+   "slug": "us-midterm-democrats-majority-congress-india-america-relations-ajay-jain-bhutoria",
+   "url": "https://www.patrika.com/world-news/us-midterm-democrats-majority-congress-india-america-relations-ajay-jain-bhutoria-21028846",
+   "title": "अमेरिकी संसद में डेमोक्रेट्स के बहुमत से भारत को क्या फायदा? बाइडेन के पूर्व सलाहकार बोले- टैरिफ वाला ड्रामा होगा बंद",
+   "t": 1793767065000
+  },
+  {
+   "slug": "nikay-chunav-voter-list-revision-update",
+   "url": "https://www.patrika.com/bhilai-news/nikay-chunav-voter-list-revision-update-21028914",
+   "title": "Bhilai Nikay Chunav: किस वार्ड में बढ़े वोट, कहां कटे नाम… तीन सूचियों ने उलझाया सियासी गणित, जानें कैसे?",
+   "t": 1793767042000
+  },
+  {
+   "slug": "dhar-lokayukta-raid-on-adivasi-jati-seva-samiti-manager-disproportionate-assets-2-crore-property",
+   "url": "https://www.patrika.com/dhar-news/dhar-lokayukta-raid-on-adivasi-jati-seva-samiti-manager-disproportionate-assets-2-crore-property-21028958",
+   "title": "Dhar: पत्नी के सरपंच बनने के 15 दिन बाद प्रबंधक पति पर लोकायुक्त का छापा, JCB-ट्रेक्टर से लेकर आलिशान मकान की जांच",
+   "t": 1793766952000
+  },
+  {
+   "slug": "us-midterm-election-results-trump-reaction-texas-senate-james-talarico-democrats-win",
+   "url": "https://www.patrika.com/world-news/us-midterm-election-results-trump-reaction-texas-senate-james-talarico-democrats-win-21028912",
+   "title": "Donald Trump Reaction: अमेरिका में ट्रंप की सत्ता को बड़ा झटका! सीनेट पर डेमोक्रेट्स का कब्जा, चार राज्यों में पलटी बाजी",
+   "t": 1793766656000
+  },
+  {
+   "slug": "five-funeral-biers-carried-out-from-a-single-home-in-bhopal",
+   "url": "https://www.patrika.com/bhopal-news/five-funeral-biers-carried-out-from-a-single-home-in-bhopal-21028904",
+   "title": "भोपाल में एक घर से उठीं पांच अर्थियां, दंपत्ति-दो बच्चों और मां का एक साथ हुआ अंतिम संस्कार",
+   "t": 1793766624000
+  },
+  {
+   "slug": "diwali-skin-hair-care-pollution-festive-glow-tips",
+   "url": "https://www.patrika.com/health-news/diwali-skin-hair-care-pollution-festive-glow-tips-21022338",
+   "title": "Diwali Skin Care: दिवाली पर प्रदूषण से स्किन और बालों को कैसे बचाएं? जानें स्किन और हेयर केयर टिप्स",
+   "t": 1793766600000
+  },
+  {
+   "slug": "train-bomb-hoax-accused-had-earlier-threatened-to-blow-up-jaipur-police-commissionerate",
+   "url": "https://www.patrika.com/ajmer-news/train-bomb-hoax-accused-had-earlier-threatened-to-blow-up-jaipur-police-commissionerate-21028919",
+   "title": "जयपुर-असरवा एक्सप्रेस में बम की झूठी सूचना देने वाला यात्री डिटेन, पहले भी जयपुर आयुक्तालय को उड़ाने की दे चुका धमकी",
+   "t": 1793766440000
+  },
+  {
+   "slug": "shankaracharya-avimukteshwaranand-amit-shah-angad-statement-yogi-ramrajya-controversy",
+   "url": "https://www.patrika.com/lucknow-news/shankaracharya-avimukteshwaranand-amit-shah-angad-statement-yogi-ramrajya-controversy-21028833",
+   "title": "‘लाखों गौमाताओं को कटवाने वाले शासन की तुलना रामराज्य से नहीं हो सकती’, शंकराचार्य बोले- अंगद का पैर सत्ता के दंभ पर नहीं, धर्म पर टिका था",
+   "t": 1793766320000
+  },
+  {
+   "slug": "stock-market-sees-strong-surge-today-sensex-crosses-77300-points",
+   "url": "https://www.patrika.com/business-news/stock-market-sees-strong-surge-today-sensex-crosses-77300-points-21028878",
+   "title": "शेयर बाजार में आज भी भारी तेजी, सेंसेक्स 77,300 के पार, जानिए किन स्टॉक्स में आई सबसे अधिक खरीदारी",
+   "t": 1793765653000
+  },
+  {
+   "slug": "shubman-gill-plan-successful-as-nz-top-3-batsmen-were-dismissed-playing-pull-shots",
+   "url": "https://www.patrika.com/cricket-news/shubman-gill-plan-successful-as-nz-top-3-batsmen-were-dismissed-playing-pull-shots-21028871",
+   "title": "NZ vs IND 1st ODI: शुभमन गिल का प्लान कर गया काम, न्यूजीलैंड के शीर्ष 3 बल्लेबाजों को एक ही तरीके से किया आउट",
+   "t": 1793765452000
+  },
+  {
+   "slug": "prashant-bhushan-lavrov-fake-video-fir-delhi-police",
+   "url": "https://www.patrika.com/new-delhi-news/prashant-bhushan-lavrov-fake-video-fir-delhi-police-21028853",
+   "title": "प्रशांत भूषण के सोशल मीडिया हैंडल से रूसी विदेश मंत्री का फर्जी वीडियो शेयर, दिल्ली पुलिस ने दर्ज की FIR",
+   "t": 1793765359000
+  },
+  {
+   "slug": "cg-weather-update-rain-alert-11-districts",
+   "url": "https://www.patrika.com/raipur-news/cg-weather-update-rain-alert-11-districts-21028850",
+   "title": "कमजोर पड़ा मुरासु, फिर भी छत्तीसगढ़ में भारी बारिश के आसार, रायपुर से लेकर बस्तर तक इन 11 जिलों में अलर्ट जारी",
+   "t": 1793765076000
+  },
+  {
+   "slug": "rajasthan-cm-bhajan-lal-sharma-high-level-law-and-order-meeting-10-major-points-festive-season",
+   "url": "https://www.patrika.com/jaipur-news/rajasthan-cm-bhajan-lal-sharma-high-level-law-and-order-meeting-10-major-points-festive-season-21028783",
+   "title": "Rajasthan News: सीएम भजनलाल की टॉप पुलिस ऑफिसर्स के साथ ‘लॉ एन्ड ऑर्डर’ मीटिंग- दिए सख्त निर्देश, जानिए 10 बड़ी बातें",
+   "t": 1793764700000
+  },
+  {
+   "slug": "rajasthan-police-sho-bribe-threat-married-couple-four-years-jail",
+   "url": "https://www.patrika.com/alwar-news/rajasthan-police-sho-bribe-threat-married-couple-four-years-jail-21028851",
+   "title": "Rajasthan:शादीशुदा जोड़े को जेल भेजने की धमकी देकर मांगी थी रिश्वत, अब तत्कालीन SHO को जेल में गुजारने पड़ेंगे 4 साल",
+   "t": 1793764693000
+  },
+  {
+   "slug": "maharashtra-ncp-tension-rohit-pawar-bjp-parth-jay-pawar-claim",
+   "url": "https://www.patrika.com/mumbai-news/maharashtra-ncp-tension-rohit-pawar-bjp-parth-jay-pawar-claim-21028745",
+   "title": "NCP में घमासान: पार्थ और जय पवार के बीच दरार पैदा करने की कोशिश में भाजपा! शरद गुट का बड़ा आरोप",
+   "t": 1793764608000
+  },
+  {
+   "slug": "lalan-singh-voter-id-biometric-government-scheme-payment-aadhaar-gangtok",
+   "url": "https://www.patrika.com/national-news/lalan-singh-voter-id-biometric-government-scheme-payment-aadhaar-gangtok-21028834",
+   "title": "आधार से नहीं, जल्द ही वोटर ID और बायोमेट्रिक से मिलेगा सरकारी योजनाओं का पैसा: ललन सिंह",
+   "t": 1793764390000
+  },
+  {
+   "slug": "keisha-lance-bottoms-georgia-governor-first-black-woman-2026",
+   "url": "https://www.patrika.com/world-news/keisha-lance-bottoms-georgia-governor-first-black-woman-2026-21028822",
+   "title": "US Election Results 2026: अमेरिका में इतिहास की नई इबारत: जॉर्जिया की पहली अश्वेत महिला गवर्नर बनीं कीशा लांस बॉटम्स",
+   "t": 1793764107000
+  },
+  {
+   "slug": "3-hour-commotion-at-the-collectorate-in-satna-over-a-road-issue",
+   "url": "https://www.patrika.com/satna-news/3-hour-commotion-at-the-collectorate-in-satna-over-a-road-issue-21028716",
+   "title": "सतना में 200 मीटर सड़क के लिए कलेक्ट्रेट में 3 घंटे बवाल, कलेक्टर को घेरा, पुलिस से भिड़े, तीन हंगामाई भेजे गए जेल",
+   "t": 1793763217000
+  },
+  {
+   "slug": "ramayana-first-review-in-hindi-ashish-chanchlani-post-ranbir-kapoor-yash-sai-pallavi-starrer-film-blockbuster",
+   "url": "https://www.patrika.com/bollywood-news/ramayana-first-review-in-hindi-ashish-chanchlani-post-ranbir-kapoor-yash-sai-pallavi-starrer-film-blockbuster-21028798",
+   "title": "Ramayana First Review: रणबीर कपूर की ‘रामायण’ का पहला रिव्यू आया सामने, आशीष चंचलानी ने बताया कब आया रोना?",
+   "t": 1793763107000
+  },
+  {
+   "slug": "om-prakash-rajbhar-challenges-akhilesh-yadav-up-assembly-election-2027",
+   "url": "https://www.patrika.com/lucknow-news/om-prakash-rajbhar-challenges-akhilesh-yadav-up-assembly-election-2027-21028772",
+   "title": "‘अगली पैदाइश तक मुख्यमंत्री बनने की उम्मीद नहीं’, ओपी राजभर बोले- नेता क्या जो चुनाव से भागे, किसी एक सीट से लड़कर दिखाइए",
+   "t": 1793762760000
+  },
+  {
+   "slug": "mp-cabinet-meeting-kailash-vijayvargiya-opposed-government",
+   "url": "https://www.patrika.com/bhopal-news/mp-cabinet-meeting-kailash-vijayvargiya-opposed-government-21028794",
+   "title": "‘घोषणा करता हूं…’, मंत्री कैलाश विजयवर्गीय ने की सरकार की खिलाफत, कैबिनेट बैठक में पसरा सन्नाटा",
+   "t": 1793762636000
+  },
+  {
+   "slug": "flood-destroyed-crops-why-farmers-must-wait-for-insurance",
+   "url": "https://www.patrika.com/jagdalpur-news/flood-destroyed-crops-why-farmers-must-wait-for-insurance-21028758",
+   "title": "इंद्रावती की बाढ़ में डूबी धान की फसल, अब उत्पादन के आंकड़े तय करेंगे किसानों का मुआवजा",
+   "t": 1793762238000
+  },
+  {
+   "slug": "bhilwara-kamla-devi-kankaria-murder-case-ravi-taparia-shocking-revelations",
+   "url": "https://www.patrika.com/bhilwara-news/bhilwara-kamla-devi-kankaria-murder-case-ravi-taparia-shocking-revelations-21028773",
+   "title": "Rajasthan Crime: ‘मर्डर के बाद घर की छत पर अंतिम संस्कार और कपाल क्रिया’, आरोपी ने उगले रोंगटे खड़े करने वाले राज",
+   "t": 1793762086000
+  },
+  {
+   "slug": "sunil-lehri-disappointed-ramayana-music-tv-lakshman-praised-namit-malhotra-before-ranbir-kapoor-film-release",
+   "url": "https://www.patrika.com/bollywood-news/sunil-lehri-disappointed-ramayana-music-tv-lakshman-praised-namit-malhotra-before-ranbir-kapoor-film-release-21028728",
+   "title": "सुनील लहरी ने ‘रामायण’ पर दिया बयान, म्यूजिक पर जताई नाराजगी, बोले- संगीत होता है एक रीढ़ की हड्डी",
+   "t": 1793761906000
+  },
+  {
+   "slug": "major-changes-to-bhopal-traffic-plan-for-6-days",
+   "url": "https://www.patrika.com/bhopal-news/major-changes-to-bhopal-traffic-plan-for-6-days-21028743",
+   "title": "भोपाल के ट्रैफिक प्लान में बड़ा बदलाव, 6 दिनों के लिए मुख्य बाजारों के लिए डायवर्ट किए रूट",
+   "t": 1793761528000
+  },
+  {
+   "slug": "us-midterm-elections-pia-dandiya-wins-florida-first-indian-american-congresswoman",
+   "url": "https://www.patrika.com/world-news/us-midterm-elections-pia-dandiya-wins-florida-first-indian-american-congresswoman-21028733",
+   "title": "US Midterm में भारतीय मूल की पिया दांडिया ने रचा इतिहास, फ्लोरिडा से अमेरिकी संसद पहुंचने वाली पहली भारतीय-अमेरिकी बनीं",
+   "t": 1793761208000
+  },
+  {
+   "slug": "eye-twitching-causes-and-symptoms-myokymia-in-hindi",
+   "url": "https://www.patrika.com/health-news/eye-twitching-causes-and-symptoms-myokymia-in-hindi-21028707",
+   "title": "Myokymia: आंख की पलक अपने आप बार-बार फड़कती है, AOA से जानें कब यह सामान्य और कब परेशानी का संकेत है?",
+   "t": 1793761178000
+  },
+  {
+   "slug": "yogi-adityanath-congress-india-alliance-democracy-rally-gorakhpur-nitin-nabin",
+   "url": "https://www.patrika.com/gorakhpur-news/yogi-adityanath-congress-india-alliance-democracy-rally-gorakhpur-nitin-nabin-21028675",
+   "title": "लोकतंत्र बचाओ, अराजकता हटाओ: ‘चुनाव में हार के नए रिकॉर्ड बना रही कांग्रेस’, CM योगी बोले- विपक्ष अराजकता की राजनीति कर रहा है",
+   "t": 1793760814000
+  },
+  {
+   "slug": "us-midterm-election-results-2026-trump-democrats-house-senate-keisha-lance-bottoms-georgia-governor",
+   "url": "https://www.patrika.com/world-news/us-midterm-election-results-2026-trump-democrats-house-senate-keisha-lance-bottoms-georgia-governor-21028730",
+   "title": "US Election Results: डोनाल्ड ट्रंप की सत्ता को बड़ा झटका! अमेरिकी संसद में डेमोक्रेट्स की वापसी",
+   "t": 1793760765000
+  },
+  {
+   "slug": "rajasthan-political-war-bhajan-lal-sharma-vs-ashok-gehlot-accusatory-statements",
+   "url": "https://www.patrika.com/jaipur-news/rajasthan-political-war-bhajan-lal-sharma-vs-ashok-gehlot-accusatory-statements-21028698",
+   "title": "Rajasthan Politics: ‘मैं किसी को छोड़ता नहीं, ब्याज समेत चुकाता हूं’, Ex CM गहलोत पर बरसे CM भजनलाल, जानें और क्या-क्या कहा?",
+   "t": 1793760576000
+  },
+  {
+   "slug": "bhopal-retired-ias-murder-case-accused-varun-kumar-exchanged-13000-dollar",
+   "url": "https://www.patrika.com/bhopal-news/bhopal-retired-ias-murder-case-accused-varun-kumar-exchanged-13000-dollar-21028712",
+   "title": "‘ग्वालियर में एक्सचेंज कराए थे 13000 डॉलर’, रिटायर्ड IAS हत्याकांड के आरोपी वरुण कुमार का खुलासा",
+   "t": 1793759558000
+  },
+  {
+   "slug": "lok-sabha-session-83-days-not-prorogued-special-parliament-session-delimitation-bill",
+   "url": "https://www.patrika.com/national-news/lok-sabha-session-83-days-not-prorogued-special-parliament-session-delimitation-bill-21028702",
+   "title": "Lok Sabha Session: 83 दिन से संसद का सत्र अधर में! 1987 का रिकॉर्ड टूटा, क्या अचानक बुलाया जाएगा विशेष सत्र?",
+   "t": 1793759557000
+  },
+  {
+   "slug": "guwahati-hotel-firing-accused-ghanakanta-gogoi-killed-police-firing-sivasagar",
+   "url": "https://www.patrika.com/national-news/guwahati-hotel-firing-accused-ghanakanta-gogoi-killed-police-firing-sivasagar-21028705",
+   "title": "गुवाहाटी में पांच लोगों की हत्या का आरोपी घनकांत गोगोई पुलिस फायरिंग में ढेर",
+   "t": 1793759034000
+  },
+  {
+   "slug": "rajasthan-ramsinghpur-anupgarh-railway-line-blast-after-train-passes",
+   "url": "https://www.patrika.com/sri-ganganagar-news/rajasthan-ramsinghpur-anupgarh-railway-line-blast-after-train-passes-21028682",
+   "title": "दिवाली से पहले राजस्थान में रेलवे लाइन पर ब्लास्ट, ट्रेन के गुजरने के बाद हुआ जबरदस्त धमाका; बड़ा हादसा टला",
+   "t": 1793758392000
+  },
+  {
+   "slug": "child-lay-upon-a-symbolic-funeral-bier-representing-his-mother-in-bhopal",
+   "url": "https://www.patrika.com/bhopal-news/child-lay-upon-a-symbolic-funeral-bier-representing-his-mother-in-bhopal-21028677",
+   "title": "मां की प्रतीकात्मक अर्थी से लिपटकर लेटा रहा मासूम, भोपाल में धरने में आया भावुक क्षण",
+   "t": 1793758362000
+  },
+  {
+   "slug": "new-zealand-vs-india-1st-odi-india-won-the-toss-and-have-opted-to-field",
+   "url": "https://www.patrika.com/cricket-news/new-zealand-vs-india-1st-odi-india-won-the-toss-and-have-opted-to-field-21028667",
+   "title": "NZ vs IND 1st ODI: भारत ने टॉस जीतकर पहले गेंदबाजी चुनी, यहां देखें दोनों की प्‍लेइंग इलेवन",
+   "t": 1793757644000
+  },
+  {
+   "slug": "eci-removes-sir-declaration-from-online-form-6-voter-enrolment",
+   "url": "https://www.patrika.com/national-news/eci-removes-sir-declaration-from-online-form-6-voter-enrolment-21028643",
+   "title": "चुनाव आयोग का एक और यू-टर्न: वोटर फॉर्म 6 से हटाया SIR डिक्लेरेशन, दोनों चुनाव आयुक्तों की आपत्तियों पर बदला फैसला",
+   "t": 1793757383000
+  },
+  {
+   "slug": "banswara-kalinjara-bypass-liquor-pickup-overturned-people-looted-bottles",
+   "url": "https://www.patrika.com/banswara-news/banswara-kalinjara-bypass-liquor-pickup-overturned-people-looted-bottles-21028659",
+   "title": "बांसवाड़ा के कलिंजरा बायपास पर शराब से भरी पिकअप पलटी, बोतलें लूटने की मची होड़",
+   "t": 1793757348000
+  },
+  {
+   "slug": "singer-kanika-kapoor-divorce-with-husband-gautam-hathiramani-after-4-years-marriage-at-48",
+   "url": "https://www.patrika.com/bollywood-news/singer-kanika-kapoor-divorce-with-husband-gautam-hathiramani-after-4-years-marriage-at-48-21028651",
+   "title": "48 की कनिका कपूर ने तलाक किया अनाउंस, पति गौतम से 4 साल पहले की थी दूसरी शादी",
+   "t": 1793757253000
+  },
+  {
+   "slug": "new-zealand-vs-india-1st-odi-toss-and-playing-11",
+   "url": "https://www.patrika.com/cricket-news/new-zealand-vs-india-1st-odi-toss-and-playing-11-21028640",
+   "title": "NZ vs IND 1st ODI: भारत-न्‍यूजीलैंड मैच पर बारिश का साया, गीले आउटफिल्‍ड की वजह से 20 मिनट देरी से हुआ टॉस",
+   "t": 1793756724000
+  },
+  {
+   "slug": "us-midterm-election-2026-early-trends-democrats-lead-vivek-ramaswamy-ohio",
+   "url": "https://www.patrika.com/world-news/us-midterm-election-2026-early-trends-democrats-lead-vivek-ramaswamy-ohio-21028630",
+   "title": "US Midterm Elections: हाउस-सीनेट में डेमोक्रेट्स को बढ़त, ट्रंप की पार्टी पीछे, रामास्वामी का मुकाबला फंसा",
+   "t": 1793755907000
+  },
+  {
+   "slug": "bigg-boss-20-mahhi-vij-wept-bitterly-after-love-gill-mother-allegation-said-i-am-not-continue-this-show",
+   "url": "https://www.patrika.com/bollywood-news/bigg-boss-20-mahhi-vij-wept-bitterly-after-love-gill-mother-allegation-said-i-am-not-continue-this-show-21028629",
+   "title": "फफक-फफक कर रोईं माही विज, शो छोड़ने की दी धमकी, ‘बिग बॉस 20’ से वीडियो आया सामने",
+   "t": 1793755310000
+  },
+  {
+   "slug": "donald-trump-end-us-aid-to-israel-yair-lapid-netanyahu-criticism",
+   "url": "https://www.patrika.com/world-news/donald-trump-end-us-aid-to-israel-yair-lapid-netanyahu-criticism-21028627",
+   "title": "ट्रंप रोकेंगे 4 अरब डॉलर की सैन्य मदद: इजरायल में मचा सियासी घमासान, विपक्ष बोला- नेतन्याहू ने टेक दिए घुटने",
+   "t": 1793754783000
+  },
+  {
+   "slug": "phantom-vibration-syndrome-causes-and-prevention",
+   "url": "https://www.patrika.com/health-news/phantom-vibration-syndrome-causes-and-prevention-21027335",
+   "title": "फोन जेब में नहीं होता, फिर भी वाइब्रेशन महसूस होती है, डर्मनेट से जानें कहीं Phantom Vibration Syndrome तो नहीं",
+   "t": 1793752200000
+  },
+  {
+   "slug": "cyclone-murasu-weakens-after-andhra-pradesh-landfall-rain-alert-six-states",
+   "url": "https://www.patrika.com/national-news/cyclone-murasu-weakens-after-andhra-pradesh-landfall-rain-alert-six-states-21028582",
+   "title": "चक्रवात मुरासु कमजोर पड़ा, लेकिन 6 राज्यों में भारी बारिश का खतरा, IMD ने जारी किया अलर्ट",
+   "t": 1793745000000
+  },
+  {
+   "slug": "rss-annual-meeting-bhojshala-exhibition-new-organisational-structure",
+   "url": "https://www.patrika.com/national-news/rss-annual-meeting-bhojshala-exhibition-new-organisational-structure-21028592",
+   "title": "संघ की 100 साल की यात्रा से भोजशाला के इतिहास तक, RSS की बैठक में लगी विशेष प्रदर्शनी",
+   "t": 1793741400000
+  },
+  {
+   "slug": "market-for-low-pollution-green-crackers-booms-in-chhattisgarh-this-diwali",
+   "url": "https://www.patrika.com/raipur-news/market-for-low-pollution-green-crackers-booms-in-chhattisgarh-this-diwali-21028620",
+   "title": "Green Crackers: छत्तीसगढ़ में ग्रीन पटाखों की धूम, क्यूआर कोड से जांचें और खरीदें",
+   "t": 1793740005000
+  },
   {
    "slug": "gandhisagar-pumped-storage-hydroelectric-project-1920-mw-madhya-pradesh",
    "url": "https://www.patrika.com/national-news/gandhisagar-pumped-storage-hydroelectric-project-1920-mw-madhya-pradesh-21028589",
@@ -19,978 +589,6 @@
    "url": "https://www.patrika.com/national-news/sir-voter-list-name-missing-form-6-election-commission-rules-21028587",
    "title": "SIR में मतदाता सूची से नाम कटने पर क्या करें? जानिए फॉर्म-6 भरने और कानूनी कार्रवाई से जुड़े नियम",
    "t": 1793734200000
-  },
-  {
-   "slug": "aaj-ka-rashifal-4-november-2026-horoscope-today-hindi",
-   "url": "https://www.patrika.com/horoscope-rashifal/aaj-ka-rashifal-4-november-2026-horoscope-today-hindi-21027268",
-   "title": "Aaj Ka Rashifal 4 November 2026: कैसा रहेगा आज का दिन? जानें दैनिक भविष्यफल में मेष से मीन तक का राशिफल",
-   "t": 1793730660000
-  },
-  {
-   "slug": "home-minister-amit-shah-at-chhattisgarh-rajyotsav-said-atal-ji-built-it-and-modi-ji-refining-it",
-   "url": "https://www.patrika.com/raipur-news/home-minister-amit-shah-at-chhattisgarh-rajyotsav-said-atal-ji-built-it-and-modi-ji-refining-it-21028595",
-   "title": "CG Rajyotsav: गृहमंत्री अमित शाह बोले- अटल ने बनाया, मोदी संवार रहे",
-   "t": 1793728660000
-  },
-  {
-   "slug": "delhi-ncr-traffic-jam-before-diwali-dhaula-kuan",
-   "url": "https://www.patrika.com/national-news/delhi-ncr-traffic-jam-before-diwali-dhaula-kuan-21028596",
-   "title": "दिवाली से पहले दिल्ली-NCR में ट्रैफिक का बुरा हाल, धौला कुआं से बॉर्डर तक सड़कों पर वाहनों की लंबी कतारें",
-   "t": 1793728429000
-  },
-  {
-   "slug": "silver-prices-one-month-70000-rupees-cheaper-gold-also-cheaper-jodhpur",
-   "url": "https://www.patrika.com/jodhpur-news/silver-prices-one-month-70000-rupees-cheaper-gold-also-cheaper-jodhpur-21028581",
-   "title": "Gold-Silver Price : चांदी की कीमतों में भारी गिरावट, एक माह में 75 हजार रुपए हुई सस्ती, सर्राफा बाजार में लौटी रौनक",
-   "t": 1793726133000
-  },
-  {
-   "slug": "ind-vs-nz-one-off-tie-match-between-india-vs-new-zealand-ravindra-jadeja-r-ashiwn",
-   "url": "https://www.patrika.com/cricket-news/ind-vs-nz-one-off-tie-match-between-india-vs-new-zealand-ravindra-jadeja-r-ashiwn-21028540",
-   "title": "IND vs NZ: 315 रन का था लक्ष्य, 186 रन पर गिर गए थे 6 विकेट, अश्विन-जडेजा की जोड़ी ने बचा ली थी टीम इंडिया की हार",
-   "t": 1793725440000
-  },
-  {
-   "slug": "drunk-car-driver-runs-over-four-in-ahmedabad",
-   "url": "https://www.patrika.com/ahmedabad-news/drunk-car-driver-runs-over-four-in-ahmedabad-21028574",
-   "title": "Ahmedabad: नशे में धुत्त कार चालक ने चार लोगों को कुचला, मां-बेटे की मौत",
-   "t": 1793725204000
-  },
-  {
-   "slug": "pm-modi-netanyahu-bond-india-israel-partnership-report",
-   "url": "https://www.patrika.com/world-news/pm-modi-netanyahu-bond-india-israel-partnership-report-21028573",
-   "title": "पीएम मोदी-नेतन्याहू के बाद भी कायम रहेंगे भारत-इजरायल के रिश्ते? इजरायली रिपोर्ट ने बताई बड़ी चुनौती",
-   "t": 1793725185000
-  },
-  {
-   "slug": "gujarat-ats-nabs-salim-dola-in-438-cr-md-drug-bust",
-   "url": "https://www.patrika.com/ahmedabad-news/gujarat-ats-nabs-salim-dola-in-438-cr-md-drug-bust-21028570",
-   "title": "Gujarat: 438 करोड़ के एमडी ड्रग्स सिंडिकेट का मास्टरमाइंड सलीम डोला गिरफ्तार",
-   "t": 1793724713000
-  },
-  {
-   "slug": "liquor-worth-75-lakh-seized-from-a-mini-truck-near-dhrangadhra",
-   "url": "https://www.patrika.com/ahmedabad-news/liquor-worth-75-lakh-seized-from-a-mini-truck-near-dhrangadhra-21028546",
-   "title": "ध्रांगध्रा के पास मिनी ट्रक से 75 लाख की शराब जब्त, चालक गिरफ्तार",
-   "t": 1793724004000
-  },
-  {
-   "slug": "farmers-in-ratlam-are-upset-forced-to-wait-from-morning-until-late-at-night-for-a-transformer-replacement",
-   "url": "https://www.patrika.com/ratlam-news/farmers-in-ratlam-are-upset-forced-to-wait-from-morning-until-late-at-night-for-a-transformer-replacement-21028533",
-   "title": "किसान नाराज: रतलाम में ट्रांसफार्मर के लिए सुबह से देर रात तक इंतजार",
-   "t": 1793723811000
-  },
-  {
-   "slug": "imd-prediction-4-nov-9-nov-rajasthan-weather-remain-dry-mount-abu-coldest",
-   "url": "https://www.patrika.com/jaipur-news/imd-prediction-4-nov-9-nov-rajasthan-weather-remain-dry-mount-abu-coldest-21028544",
-   "title": "Weather Update : माउंट आबू रहा सबसे ठंडा, IMD का नया पूर्वानुमान, राजस्थान में 4-9 नवंबर तक मौसम रहेगा शुष्क",
-   "t": 1793723502000
-  },
-  {
-   "slug": "legacy-waste-will-be-treated-in-ratlam",
-   "url": "https://www.patrika.com/ratlam-news/legacy-waste-will-be-treated-in-ratlam-21028527",
-   "title": "संभाग की स्वीकृत दरों पर ही होगा लीगेसी वेस्ट का उपचार",
-   "t": 1793723047000
-  },
-  {
-   "slug": "rajasthan-alwar-agniveer-samudra-gurjar-body-found-after-80-days-in-flood-tragedy",
-   "url": "https://www.patrika.com/alwar-news/rajasthan-alwar-agniveer-samudra-gurjar-body-found-after-80-days-in-flood-tragedy-21028541",
-   "title": "Rajasthan: 80 दिन बाद मिला अग्निवीर समुद्र गुर्जर का शव, बादल फटने से आई बाढ़ में बहा था जवान; 2 बहनों का इकलौता भाई था",
-   "t": 1793723045000
-  },
-  {
-   "slug": "akhilesh-yadav-statement-not-contesting-up-assembly-election-cm-oath",
-   "url": "https://www.patrika.com/varanasi-news/akhilesh-yadav-statement-not-contesting-up-assembly-election-cm-oath-21028538",
-   "title": "सीधे लोकसभा से शपथ की तैयारी: चुनाव न लड़ने के फैसले पर बोले अखिलेश- यही मेरे लिए शुभ है",
-   "t": 1793722821000
-  },
-  {
-   "slug": "rajgarh-gambling-racket-police-raid-seven-arrested-fir-registered",
-   "url": "https://www.patrika.com/rajgarh-news/rajgarh-gambling-racket-police-raid-seven-arrested-fir-registered-21028524",
-   "title": "राजगढ़ की एक लॉज में चल रहा था जुए का फड़, दबिश में 7 को पकड़ा, FIR दर्ज",
-   "t": 1793722451000
-  },
-  {
-   "slug": "youth-murdered-in-vadodara",
-   "url": "https://www.patrika.com/ahmedabad-news/youth-murdered-in-vadodara-21028525",
-   "title": "वडोदरा के गोत्री इलाके में युवक की हत्या, आरोपी फरार",
-   "t": 1793722318000
-  },
-  {
-   "slug": "three-killed-in-separate-accidents-in-gujarat",
-   "url": "https://www.patrika.com/national-news/three-killed-in-separate-accidents-in-gujarat-21028510",
-   "title": "Gujarat Accident: अलग-अलग हादसों में 3 की मौत, डंपर ने महिला को कुचला, इमारत से गिरा बच्चा और ट्रेलर की टक्कर से बाइक सवार की मौत",
-   "t": 1793722093000
-  },
-  {
-   "slug": "ind-vs-nz-odi-know-whats-happend-in-last-india-vs-new-zealand-auckland-odi",
-   "url": "https://www.patrika.com/cricket-news/ind-vs-nz-odi-know-whats-happend-in-last-india-vs-new-zealand-auckland-odi-21028495",
-   "title": "IND vs NZ: ऑकलैंड में 306 रन भी डिफेंड नहीं कर पाए थे भारतीय बॉलर्स, आखिरी बार यहां खूब चला था बल्लेबाजों का बल्ला",
-   "t": 1793721866000
-  },
-  {
-   "slug": "high-tension-lines-running-above-the-rooftops-of-houses-pose-a-lethal-threat",
-   "url": "https://www.patrika.com/ratlam-news/high-tension-lines-running-above-the-rooftops-of-houses-pose-a-lethal-threat-21028494",
-   "title": "मकानों की छतों के ऊपर मौत बनकर दौड़ रही हाइटेंशन लाइन",
-   "t": 1793721830000
-  },
-  {
-   "slug": "more-and-more-temples-should-be-built",
-   "url": "https://www.patrika.com/ahmedabad-news/more-and-more-temples-should-be-built-21028513",
-   "title": "अधिक से अधिक मंदिरों का निर्माण हो : पटेल",
-   "t": 1793721726000
-  },
-  {
-   "slug": "outsourced-employees-go-on-strike",
-   "url": "https://www.patrika.com/ratlam-news/outsourced-employees-go-on-strike-21028442",
-   "title": "तीन माह से वेतन नहीं मिलने से हड़ताल पर उतरे आउट सोर्स कर्मचारी",
-   "t": 1793721537000
-  },
-  {
-   "slug": "freight-train-wagon-derails-near-dahod",
-   "url": "https://www.patrika.com/ahmedabad-news/freight-train-wagon-derails-near-dahod-21028483",
-   "title": "दाहोद के पास पटरी से उतरा मालगाड़ी का एक वैगन, कुछ ट्रेनें प्रभावित",
-   "t": 1793721236000
-  },
-  {
-   "slug": "sweden-political-crisis-parliament-rejects-centre-party-leader-prime-minister",
-   "url": "https://www.patrika.com/world-news/sweden-political-crisis-parliament-rejects-centre-party-leader-prime-minister-21028477",
-   "title": "सिर्फ अपनी पार्टी का साथ, बाकी सबने कहा ‘ना’: स्वीडन में प्रधानमंत्री पद पर गतिरोध बरकरार",
-   "t": 1793720657000
-  },
-  {
-   "slug": "mhow-fake-share-trading-app-cyber-fraud-businessman-loses-22-50-lakh",
-   "url": "https://www.patrika.com/indore-news/mhow-fake-share-trading-app-cyber-fraud-businessman-loses-22-50-lakh-21028478",
-   "title": "Indore Crime : खाते में 5 करोड़ देख खुश हो गया व्यापारी, विड्रॉल करते ही उड़ गए खुद के 22.50 लाख",
-   "t": 1793720427000
-  },
-  {
-   "slug": "hardeep-singh-puri-madhya-pradesh-rajya-sabha-bypoll",
-   "url": "https://www.patrika.com/national-news/hardeep-singh-puri-madhya-pradesh-rajya-sabha-bypoll-21028474",
-   "title": "हरदीप सिंह पुरी का राज्यसभा पहुंचना तय, दोनों निर्दलीय उम्मीदवारों के नामांकन खारिज, कांग्रेस जाएगी कोर्ट",
-   "t": 1793720318000
-  },
-  {
-   "slug": "houthis-attack-saudi-arabia-targeting-abha-international-airport-and-khamis-mushait-air-base",
-   "url": "https://www.patrika.com/world-news/houthis-attack-saudi-arabia-targeting-abha-international-airport-and-khamis-mushait-air-base-21028447",
-   "title": "हूती विद्रोहियों ने सऊदी अरब पर किए हमले, आभा इंटरनेशनल एयरपोर्ट और खमीस मुशैत एयरबेस को बनाया निशाना",
-   "t": 1793719699000
-  },
-  {
-   "slug": "congress-spokesperson-abhay-dubey-attacks-bjp-loktantra-bachao-march-yogi-adityanath",
-   "url": "https://www.patrika.com/lucknow-news/congress-spokesperson-abhay-dubey-attacks-bjp-loktantra-bachao-march-yogi-adityanath-21028450",
-   "title": "योगी का तख्तापलट करना चाहते हैं मोदी-शाह-शिवराज: लखनऊ में कांग्रेस का बीजेपी पर सनसनीखेज आरोप",
-   "t": 1793719578000
-  },
-  {
-   "slug": "jitendra-singh-alleges-foreign-funding-for-anti-sir-campaign",
-   "url": "https://www.patrika.com/national-news/jitendra-singh-alleges-foreign-funding-for-anti-sir-campaign-21028445",
-   "title": "अभिजीत दीपके को अमेरिका-आशुतोष रांका को पाकिस्तान से मिला पैसा, SIR विरोधी अभियान पर केंद्रीय मंत्री जितेंद्र सिंह का आरोप",
-   "t": 1793719438000
-  },
-  {
-   "slug": "china-halloween-security-beijing-shanghai-hangzhou-youth-protest",
-   "url": "https://www.patrika.com/world-news/china-halloween-security-beijing-shanghai-hangzhou-youth-protest-21028441",
-   "title": "भूतिया पोशाकों में छिपा सरकार पर तंज? चीन के 3 शहरों में हैलोवीन पर कड़ी सुरक्षा, मास्क-मेकअप पर पाबंदी",
-   "t": 1793719202000
-  },
-  {
-   "slug": "bjp-loktantra-bachao-yatra-bhopal-rajnath-singh-mohan-yadav-padyatra-from-atal-path",
-   "url": "https://www.patrika.com/bhopal-news/bjp-loktantra-bachao-yatra-bhopal-rajnath-singh-mohan-yadav-padyatra-from-atal-path-21028443",
-   "title": "भोपाल में भाजपा का शक्ति प्रदर्शन, राजनाथ सिंह के साथ सड़क पर होंगे मोहन यादव, 1 लाख लोग होंगे साथ!",
-   "t": 1793718997000
-  },
-  {
-   "slug": "defense-mechanism-will-be-strengthened-through-the-participation-of-private-sector",
-   "url": "https://www.patrika.com/jaisalmer-news/defense-mechanism-will-be-strengthened-through-the-participation-of-private-sector-21028437",
-   "title": "jaisalmer: निजी क्षेत्र और एमएसएमई की भागीदारी से मजबूत होगा रक्षा तंत्र : राजनाथ",
-   "t": 1793718805000
-  },
-  {
-   "slug": "canal-reached-ramdevra-yet-townspeople-yearn-for-sweet-drinking-water",
-   "url": "https://www.patrika.com/jaisalmer-news/canal-reached-ramdevra-yet-townspeople-yearn-for-sweet-drinking-water-21028428",
-   "title": "jaisalmer: नहर पहुंची रामदेवरा, फिर भी मीठे पानी के लिए तरस रहे कस्बेवासी",
-   "t": 1793718293000
-  },
-  {
-   "slug": "ashok-gehlot-hits-back-at-cm-bhajanlal-otherwise-apologize-within-24-hours",
-   "url": "https://www.patrika.com/jaipur-news/ashok-gehlot-hits-back-at-cm-bhajanlal-otherwise-apologize-within-24-hours-21028417",
-   "title": "Ashok Gehlot : सीएम भजनलाल पर अशोक गहलोत का पलटवार, बोले- …अन्यथा 24 घंटे में माफी मांगें",
-   "t": 1793717903000
-  },
-  {
-   "slug": "three-more-arrested-in-minor-girls-kidnapping-and-conversion-case",
-   "url": "https://www.patrika.com/national-news/three-more-arrested-in-minor-girls-kidnapping-and-conversion-case-21028406",
-   "title": "Gujarat: नाबालिग लड़कियों के अपहरण और धर्मांतरण मामले में चौंकाने वाला खुलासा, तीन और आरोपी गिरफ्तार",
-   "t": 1793717806000
-  },
-  {
-   "slug": "a-bus-fire-wiped-out-an-entire-family-in-jaisalmer",
-   "url": "https://www.patrika.com/jaisalmer-news/a-bus-fire-wiped-out-an-entire-family-in-jaisalmer-21028383",
-   "title": "jaisalmer: एक बस की आग ने पूरे परिवार को मिटाया, पीछे रह गया सूना घर",
-   "t": 1793717784000
-  },
-  {
-   "slug": "donald-trump-says-us-will-stop-4-billion-annual-military-aid-to-israel-at-end-of-2026",
-   "url": "https://www.patrika.com/world-news/donald-trump-says-us-will-stop-4-billion-annual-military-aid-to-israel-at-end-of-2026-21028400",
-   "title": "डोनाल्ड ट्रंप का बड़ा फैसला, इज़रायल को अमेरिका की तरफ से दी जाने वाली सालाना 37 हज़ार करोड़ की सैन्य सहायता होगी बंद",
-   "t": 1793717284000
-  },
-  {
-   "slug": "strict-rules-will-be-made-for-vending-and-no-vending-zone-in-ambikapur",
-   "url": "https://www.patrika.com/ambikapur-news/strict-rules-will-be-made-for-vending-and-no-vending-zone-in-ambikapur-21028374",
-   "title": "Vending Zone: वेंडिंग और नो वेंडिंग जोन के नियम होंगे सख्त, अंबिकापुर निगम ने लिया फैसला, ठेले-गुमटियों की होगी गिनती",
-   "t": 1793716681000
-  },
-  {
-   "slug": "she-mart-scheme-for-economic-independence-of-women",
-   "url": "https://www.patrika.com/patrika-plus/she-mart-scheme-for-economic-independence-of-women-21028376",
-   "title": "महिलाओं की आर्थिक स्वतंत्रता के लिए महत्वपूर्ण पहल, जानिए क्या है ‘SHE-MART’ स्कीम और कैसे मिलेगा इसका फायदा?",
-   "t": 1793716316000
-  },
-  {
-   "slug": "jaipur-hotel-death-case-2-foreign-women-stayed-using-fake-identities-case-filed",
-   "url": "https://www.patrika.com/jaipur-news/jaipur-hotel-death-case-2-foreign-women-stayed-using-fake-identities-case-filed-21028377",
-   "title": "जयपुर के होटल में महिला की मौत के बाद बड़ा खुलासा: फर्जी पहचान पर ठहरी थीं 2 विदेशी महिलाएं, संचालक पर केस दर्ज",
-   "t": 1793715971000
-  },
-  {
-   "slug": "dsp-sarita-gaikwad-allegedly-cheated-of-67-lakh-in-sand-business",
-   "url": "https://www.patrika.com/national-news/dsp-sarita-gaikwad-allegedly-cheated-of-67-lakh-in-sand-business-21028339",
-   "title": "Gujarat Crime: डीएसपी सरिता गायकवाड़ को कारोबारी ने लगाया चूना, रेत कारोबार में निवेश के नाम पर 67 लाख की धोखाधड़ी",
-   "t": 1793714624000
-  },
-  {
-   "slug": "waris-pathan-dia-mirza-diwali-video-controversy",
-   "url": "https://www.patrika.com/mumbai-news/waris-pathan-dia-mirza-diwali-video-controversy-21028356",
-   "title": "दीया मिर्जा के दिवाली वीडियो विवाद पर वारिस पठान का बयान, बोले- ‘अमित साटम और मेयर सार्वजनिक रूप से माफी मांगें’",
-   "t": 1793714580000
-  },
-  {
-   "slug": "readers-react-to-rajasthan-patrika-editor-in-chief-gulab-kothari-article-hathi-ke-daant",
-   "url": "https://www.patrika.com/opinion/readers-react-to-rajasthan-patrika-editor-in-chief-gulab-kothari-article-hathi-ke-daant-21028353",
-   "title": "पत्रिका के अग्रलेख ‘हाथी के दांत’ पर पाठकों की प्रतिक्रिया: अभियोजन प्रक्रिया तेज हो, दोषियों को मिले सजा",
-   "t": 1793714556000
-  },
-  {
-   "slug": "25-years-wait-ends-narsinghgarh-rail-line-crs-speed-trial-120-kmph",
-   "url": "https://www.patrika.com/rajgarh-news/25-years-wait-ends-narsinghgarh-rail-line-crs-speed-trial-120-kmph-21028349",
-   "title": "25 साल का इंतजार खत्म हो रहा, 120 की रफ्तार से नरसिंहगढ़ पहुंची ट्रेन, नजारा देखने स्टेशन पर उमड़ी भीड़",
-   "t": 1793714349000
-  },
-  {
-   "slug": "teacher-and-newly-married-died-in-suspected-condition",
-   "url": "https://www.patrika.com/surajpur-news/teacher-and-newly-married-died-in-suspected-condition-21028331",
-   "title": "Surajpur News: शिक्षक और नवविवाहिता की संदिग्ध हालत में मौत, पहुंची पुलिस, 2 साल पहले हुई थी शादी",
-   "t": 1793714023000
-  },
-  {
-   "slug": "prasidh-krishna-declaired-fit-by-coe-of-bcci-now-he-can-play-all-formats",
-   "url": "https://www.patrika.com/cricket-news/prasidh-krishna-declaired-fit-by-coe-of-bcci-now-he-can-play-all-formats-21028327",
-   "title": "वनडे सीरीज से बाहर होने वाले प्रसिद्ध कृष्णा को COE को घोषित किया फिट, सभी फॉर्मेट खेलने के लिए तैयार",
-   "t": 1793713842000
-  },
-  {
-   "slug": "bharatpur-roads-will-now-be-built-using-waste-from-houses-new-scheme",
-   "url": "https://www.patrika.com/bharatpur-news/bharatpur-roads-will-now-be-built-using-waste-from-houses-new-scheme-21028322",
-   "title": "Bharatpur : अब मकानों के कचरे से बनेगी सड़क, राजस्थान के 5 शहरों में लगाए जाएंगे आधुनिक संयंत्र",
-   "t": 1793713747000
-  },
-  {
-   "slug": "balrampur-food-safety-department-destroyed-280-kg-chhena-sweets",
-   "url": "https://www.patrika.com/balrampur-up-news/balrampur-food-safety-department-destroyed-280-kg-chhena-sweets-21028239",
-   "title": "Balrampur: खाद्य सुरक्षा विभाग की बड़ी कार्रवाई, 280 किलो छेना मिठाई नष्ट, बत्तीसा मिठाई के नमूने जांच के लिए भेजे गए",
-   "t": 1793713633000
-  },
-  {
-   "slug": "bjp-strategy-up-election-targets-samajwadi-party-past-rule-yogi-amit-shah",
-   "url": "https://www.patrika.com/lucknow-news/bjp-strategy-up-election-targets-samajwadi-party-past-rule-yogi-amit-shah-21028309",
-   "title": "Mission UP: बिहार की तर्ज पर यूपी में सपा के पुराने शासन को मुद्दा बना रही भाजपा",
-   "t": 1793713529000
-  },
-  {
-   "slug": "wife-of-a-former-dacoit-who-has-left-the-ravines-behind-also-enters-the-electoral-fray",
-   "url": "https://www.patrika.com/dholpur-news/wife-of-a-former-dacoit-who-has-left-the-ravines-behind-also-enters-the-electoral-fray-21028286",
-   "title": "Dholpur: बीहड़ छोड़ चुके पूर्व दस्यु की पत्नी भी चुनावी मैदान में",
-   "t": 1793713162000
-  },
-  {
-   "slug": "amit-shah-challenges-opposition-parliament-debate-hyderabad",
-   "url": "https://www.patrika.com/national-news/amit-shah-challenges-opposition-parliament-debate-hyderabad-21028310",
-   "title": "‘झूठ और सच का फैसला संसद में होगा’: अमित शाह ने विपक्ष को दी बहस की खुली चुनौती",
-   "t": 1793712951000
-  },
-  {
-   "slug": "minister-pratap-sarnaik-accuses-bjp-mla-narendra-mehta-of-corruption",
-   "url": "https://www.patrika.com/national-news/minister-pratap-sarnaik-accuses-bjp-mla-narendra-mehta-of-corruption-21028256",
-   "title": "Maharashtra Politics: महाराष्ट्र की महायुति में बढ़ा तनाव, परिवहन मंत्री प्रताप सरनाईक ने भाजपा विधायक पर लगाए गंभीर आरोप",
-   "t": 1793712694000
-  },
-  {
-   "slug": "ed-attaches-anil-ambani-group-assets-worth-510-crore",
-   "url": "https://www.patrika.com/national-news/ed-attaches-anil-ambani-group-assets-worth-510-crore-21028290",
-   "title": "अनिल अंबानी ग्रुप पर ED का बड़ा एक्शन, 510 करोड़ की संपत्ति अटैच; दो चार्टर्ड विमान और विंडमिल भी जब्त",
-   "t": 1793712611000
-  },
-  {
-   "slug": "pathak-peeth-first-week-nov-2026",
-   "url": "https://www.patrika.com/opinion/pathak-peeth-first-week-nov-2026-21028199",
-   "title": "पाठक पीठ : पाठकों के सराहनीय पत्र First Week Nov 2026",
-   "t": 1793712565000
-  },
-  {
-   "slug": "melania-trump-russia-ukraine-white-house-meeting-november-5",
-   "url": "https://www.patrika.com/world-news/melania-trump-russia-ukraine-white-house-meeting-november-5-21028277",
-   "title": "व्हाइट हाउस में 5 नवंबर को रूस और यूक्रेन के प्रतिनिधियों को साथ लाएंगी मेलानिया ट्रंप, सीजफायर पर करेंगी बात",
-   "t": 1793712443000
-  },
-  {
-   "slug": "ind-vs-nz-odi-series-shubman-gill-not-happy-with-schedule-know-what-he-said-before-auckland-odi-match",
-   "url": "https://www.patrika.com/cricket-news/ind-vs-nz-odi-series-shubman-gill-not-happy-with-schedule-know-what-he-said-before-auckland-odi-match-21028268",
-   "title": "IND vs NZ: न्यूजीलैंड सीरीज के शेड्यूल से खुश नहीं हैं शुभमन गिल! बताया उनके हाथ में होता तो वो क्या करते",
-   "t": 1793712425000
-  },
-  {
-   "slug": "amitabh-bachchan-bulletproof-glass-aicwa-bollywood-celebrity-security",
-   "url": "https://www.patrika.com/entertainment-news/amitabh-bachchan-bulletproof-glass-aicwa-bollywood-celebrity-security-21028233",
-   "title": "बुलेटप्रूफ घेरे में अमिताभ बच्चन को फैंस से मिलने की नौबत आई, AICWA ने पीएम मोदी से की बॉलीवुड सितारों की सुरक्षा बढ़ाने की अपील",
-   "t": 1793712162000
-  },
-  {
-   "slug": "raj-thackeray-criticism-pm-modi-bjp-legislative-council-results",
-   "url": "https://www.patrika.com/mumbai-news/raj-thackeray-criticism-pm-modi-bjp-legislative-council-results-21028262",
-   "title": "‘पहले किसी प्रधानमंत्री ने ऐसी टिप्पणी नहीं की’, राज ठाकरे का पीएम नरेंद्र मोदी पर निशाना",
-   "t": 1793711985000
-  },
-  {
-   "slug": "chhattisgarh-md-ms-admission-seat-allotment-list",
-   "url": "https://www.patrika.com/raipur-news/chhattisgarh-md-ms-admission-seat-allotment-list-21028249",
-   "title": "छत्तीसगढ़ के मेडिकल कॉलेजों में एमडी-एमएस प्रवेश के लिए सूची जारी, 10 नवंबर तक लेना होगा एडमिशन",
-   "t": 1793711831000
-  },
-  {
-   "slug": "rahul-gandhi-again-challenges-pm-modi-open-debate",
-   "url": "https://www.patrika.com/national-news/rahul-gandhi-again-challenges-pm-modi-open-debate-21028227",
-   "title": "‘मोहन भागवत को जज बना दीजिए’, राहुल गांधी ने पीएम मोदी के सामने फिर रखी खुली बहस की शर्त",
-   "t": 1793710838000
-  },
-  {
-   "slug": "bsp-housing-rent-cut",
-   "url": "https://www.patrika.com/bhilai-news/bsp-housing-rent-cut-21028143",
-   "title": "छत्तीसगढ़ सरकार का बड़ा फैसला! BSP टाउनशिप के मकानों का किराया हुआ कम, जानें नई दर",
-   "t": 1793710451000
-  },
-  {
-   "slug": "chhattisgarh-rajyotsav-free-borewell-water-quality-test",
-   "url": "https://www.patrika.com/raipur-news/chhattisgarh-rajyotsav-free-borewell-water-quality-test-21028180",
-   "title": "घर के बोरवेल-कुएं का पानी पीने योग्य है या नहीं, छत्तीसगढ़ राज्योत्सव में मुफ्त कराएं जांच, मौके पर मिलेगी रिपोर्ट",
-   "t": 1793710450000
-  },
-  {
-   "slug": "gonda-dowry-death-case-12-years-imprisonment-operation-conviction",
-   "url": "https://www.patrika.com/gonda-news/gonda-dowry-death-case-12-years-imprisonment-operation-conviction-21027997",
-   "title": "Gonda: दहेज के लिए उजाड़ दी गई पूजा की जिंदगी, 5 साल बाद आया फैसला, आरोपी को 12 साल की सजा अर्थ दंड भी लगा",
-   "t": 1793710414000
-  },
-  {
-   "slug": "cm-vijay-tamil-film-industry-six-shows-new-movies-release",
-   "url": "https://www.patrika.com/national-news/cm-vijay-tamil-film-industry-six-shows-new-movies-release-21028206",
-   "title": "CM विजय का तमिल फिल्म इंडस्ट्री को बड़ा तोहफा, रिलीज के पहले सप्ताह में हर दिन 6 शो चलाने की मंजूरी",
-   "t": 1793710350000
-  },
-  {
-   "slug": "chirag-paswan-announces-up-assembly-election-2027-plan-speak-on-ljp-nda-alliance",
-   "url": "https://www.patrika.com/lucknow-news/chirag-paswan-announces-up-assembly-election-2027-plan-speak-on-ljp-nda-alliance-21028044",
-   "title": "यूपी चुनाव 2027: चिराग पासवान का बड़ा ऐलान, NDA से गठबंधन नहीं हुआ तो सभी 403 सीटों पर अकेले लड़ेंगे चुनाव",
-   "t": 1793709993000
-  },
-  {
-   "slug": "jaipur-cop-daring-rescue-missing-woman-from-open-well-overnight",
-   "url": "https://www.patrika.com/jaipur-news/jaipur-cop-daring-rescue-missing-woman-from-open-well-overnight-21028174",
-   "title": "वाह जयपुर पुलिस! रातभर से लापता महिला बिना मुंडेर के कुएं में गिरी, कांस्टेबल ने जान पर खेलकर बचाया",
-   "t": 1793709954000
-  },
-  {
-   "slug": "amrita-arora-14-kg-weight-loss-ozempic-mounjaro",
-   "url": "https://www.patrika.com/entertainment-news/amrita-arora-14-kg-weight-loss-ozempic-mounjaro-21028135",
-   "title": "दो बच्चों की मां बनने के बाद भी फिट थीं अमृता अरोड़ा, फिर अचानक बढ़ा वजन, अब कुछ महीनों में घटाए 14 किलो",
-   "t": 1793709783000
-  },
-  {
-   "slug": "ravie-dubey-recalls-mental-health-struggles-ramayana-lakshman",
-   "url": "https://www.patrika.com/bollywood-news/ravie-dubey-recalls-mental-health-struggles-ramayana-lakshman-21028062",
-   "title": "‘दिमाग सुन्न रहता था, जॉम्बी की तरह चलता था’, ‘रामायण’ के लक्ष्मण रवि दुबे ने जब की अपनी मेन्टल हेल्थ पर खुलकर बात",
-   "t": 1793709766000
-  },
-  {
-   "slug": "admission-process-begins-for-vacant-seat",
-   "url": "https://www.patrika.com/news-bulletin/admission-process-begins-for-vacant-seat-21028132",
-   "title": "नीट यूजी-2026: स्ट्रे वैकेंसी प्रथम राउंड में आयुष पाठ्यक्रमों की खाली सीटों के लिए प्रवेश प्रक्रिया शुरू, 11 तक च्वॉइस फिलिंग",
-   "t": 1793709608000
-  },
-  {
-   "slug": "udaipur-udiapole-bus-stand-multistorey-commercial-complex-development",
-   "url": "https://www.patrika.com/udaipur-news/udaipur-udiapole-bus-stand-multistorey-commercial-complex-development-21028136",
-   "title": "उदयपुर : उदियापोल स्टैंड की बदलेगी तस्वीर: बनेगा मल्टीस्टोरी कॉम्प्लेक्स… नीचे दौड़ेंगी बसें, ऊपर कमर्शियल हब",
-   "t": 1793709581000
-  },
-  {
-   "slug": "three-tankers-explode-and-catch-fire-in-strait-of-hormuz-after-hitting-naval-mines",
-   "url": "https://www.patrika.com/world-news/three-tankers-explode-and-catch-fire-in-strait-of-hormuz-after-hitting-naval-mines-21028094",
-   "title": "तेल के तीन जहाजों में धमाके के बाद लगी आग, होर्मुज स्ट्रेट पार करते समय समुद्री बारूदी सुरंगों से हुई टक्कर",
-   "t": 1793709356000
-  },
-  {
-   "slug": "mp-ips-officer-anurag-sujania-resigns-after-transfer-reasons",
-   "url": "https://www.patrika.com/bhopal-news/mp-ips-officer-anurag-sujania-resigns-after-transfer-reasons-21028130",
-   "title": "MP के युवा IPS अनुराग सुजानिया ने अचानक क्यों छोड़ी नौकरी? इस्तीफे के बाद कई सवाल",
-   "t": 1793709179000
-  },
-  {
-   "slug": "rajasthan-police-uncover-hidden-truth-accused-arrested",
-   "url": "https://www.patrika.com/chittorgarh-news/rajasthan-police-uncover-hidden-truth-accused-arrested-21028127",
-   "title": "चित्तौड़गढ़ मर्डर केस : महिला की हत्या का राज खुला, पुलिस ने आरोपी को किया गिरफ्तार",
-   "t": 1793709151000
-  },
-  {
-   "slug": "kiren-rijiju-reply-rahul-gandhi-foreign-help-allegation",
-   "url": "https://www.patrika.com/national-news/kiren-rijiju-reply-rahul-gandhi-foreign-help-allegation-21028116",
-   "title": "‘अलगाववादी झंडा और अराजकतावादी संविधान दिखाते हैं’, राहुल गांधी पर क्यों भड़के किरेन रिजिजू?",
-   "t": 1793709149000
-  },
-  {
-   "slug": "maharashtra-weather-update-imd-rain-forecast-mumbai-pune-november-2026",
-   "url": "https://www.patrika.com/mumbai-news/maharashtra-weather-update-imd-rain-forecast-mumbai-pune-november-2026-21027918",
-   "title": "Maharashtra Weather: मुंबई और कोंकण समेत कई जिलों में बारिश का अनुमान, IMD ने जारी किया अलर्ट",
-   "t": 1793709141000
-  },
-  {
-   "slug": "former-bjp-leader-shot-dead-in-sangola-wife-alleges-political-conspiracy",
-   "url": "https://www.patrika.com/national-news/former-bjp-leader-shot-dead-in-sangola-wife-alleges-political-conspiracy-21028107",
-   "title": "Maharashtra Murder: भाजपा नेता की गोली मारकर हत्या, पत्नी ने एकनाथ शिंदे गुट के नेता पर साजिश रचने का आरोप लगाया",
-   "t": 1793709071000
-  },
-  {
-   "slug": "waste-management-system-off-track-700-tonnes-of-garbage-reached-the-landfill-150-tonnes-remain-on-the-streets-and-collection-vehicles-are-arriving-in-neighborhoods-as-late-as-1-pm",
-   "url": "https://www.patrika.com/gwalior-news/waste-management-system-off-track-700-tonnes-of-garbage-reached-the-landfill-150-tonnes-remain-on-the-streets-and-collection-vehicles-are-arriving-in-neighborhoods-as-late-as-1-pm-21028087",
-   "title": "सफाई व्यवस्था बेपटरी : 700 टन कचरा लैंडफिल पहुंचा,150 टन सड़कों पर, मोहल्लों में दोपहर 1 बजे पहुंच रही गाड़ियां",
-   "t": 1793709068000
-  },
-  {
-   "slug": "akhilesh-yadav-defines-pda-full-form-varanasi-pda-includes-brahmins-minorities",
-   "url": "https://www.patrika.com/varanasi-news/akhilesh-yadav-defines-pda-full-form-varanasi-pda-includes-brahmins-minorities-21028102",
-   "title": "UP Politics: मुस्लिम, सिख, ईसाई से लेकर पीड़ित वर्ग तक: अखिलेश यादव ने समझाया PDA का पूरा गणित",
-   "t": 1793709056000
-  },
-  {
-   "slug": "boomers-are-no-longer-behind-gen-z-in-embracing-technology",
-   "url": "https://www.patrika.com/opinion/boomers-are-no-longer-behind-gen-z-in-embracing-technology-21028106",
-   "title": "तकनीक को अपनाने में बूमर्स भी अब जेन-जी से पीछे नहीं",
-   "t": 1793708945000
-  },
-  {
-   "slug": "chhattisgarh-rajyotsav-walking-robot-offline-technology",
-   "url": "https://www.patrika.com/raipur-news/chhattisgarh-rajyotsav-walking-robot-offline-technology-21028033",
-   "title": "छत्तीसगढ़ राज्योत्सव में छाया चलता-फिरता रोबोट, होटल से घरों तक हो सकता है उपयोग, बिना इंटरनेट के होता है ऑपरेट",
-   "t": 1793708767000
-  },
-  {
-   "slug": "udaipur-silver-gifts-demand-rises-diwali-shopping",
-   "url": "https://www.patrika.com/udaipur-news/udaipur-silver-gifts-demand-rises-diwali-shopping-21028092",
-   "title": "उदयपुर : चांदी की चमक से दमके तोहफे… भाव गिरे तो दीपोत्सव पर बढ़ा खरीदारी का रुझान",
-   "t": 1793708752000
-  },
-  {
-   "slug": "israel-opposition-leader-yair-lapid-demands-netanyahu-removal-election-results",
-   "url": "https://www.patrika.com/world-news/israel-opposition-leader-yair-lapid-demands-netanyahu-removal-election-results-21028101",
-   "title": "इजरायल में सत्ता की नई लड़ाई! लापिड ने नेतन्याहू को PMO से बाहर करने का उठाया मुद्दा",
-   "t": 1793708663000
-  },
-  {
-   "slug": "mp-government-issues-advisory-for-diwali-guidelines-issued-to-all-district-collectors",
-   "url": "https://www.patrika.com/bhopal-news/mp-government-issues-advisory-for-diwali-guidelines-issued-to-all-district-collectors-21027957",
-   "title": "एमपी में दिवाली के त्यौहार को लेकर एडवाइजरी जारी, सभी कलेक्टरों को दिए गए दिशा-निर्देश",
-   "t": 1793708279000
-  },
-  {
-   "slug": "virat-kohli-likely-to-break-sachin-tendulkar-virendra-sehwag-record-most-run-in-new-zealand",
-   "url": "https://www.patrika.com/cricket-news/virat-kohli-likely-to-break-sachin-tendulkar-virendra-sehwag-record-most-run-in-new-zealand-21028050",
-   "title": "IND vs NZ: पहले वनडे में ही विराट कोहली तोड़ सकते हैं सचिन-सहवाग का रिकॉर्ड, ऑकलैंड में बनाने होंगे 139 रन",
-   "t": 1793708224000
-  },
-  {
-   "slug": "the-knowledge-gained-through-education-must-benefit-the-community",
-   "url": "https://www.patrika.com/opinion/the-knowledge-gained-through-education-must-benefit-the-community-21028069",
-   "title": "शिक्षा से मिले ज्ञान का लाभ समुदाय तक पहुंचना जरूरी",
-   "t": 1793708193000
-  },
-  {
-   "slug": "murassu-cyclone-impact-raipur-rain",
-   "url": "https://www.patrika.com/raipur-news/murassu-cyclone-impact-raipur-rain-21028025",
-   "title": "Murassu Cyclone Alert: रायपुर में मुरासु तूफान का दिखा असर, गरज-चमक के साथ झमाझम बारिश शुरू",
-   "t": 1793708070000
-  },
-  {
-   "slug": "kanpur-boutique-gold-bangle-theft-three-women-arrested",
-   "url": "https://www.patrika.com/kanpur-news/kanpur-boutique-gold-bangle-theft-three-women-arrested-21027988",
-   "title": "भाजपा के पूर्व युवा मोर्चा जिला मंत्री की पत्नी के पर्स से कंगन चोरी: सीसीटीवी से खुला राज, तीन अंतरराज्यीय महिलाएं गिरफ्तार",
-   "t": 1793708038000
-  },
-  {
-   "slug": "jaipur-meritorious-girl-students-talent-development-camp-bhajanlal-sharma",
-   "url": "https://www.patrika.com/jaipur-news/jaipur-meritorious-girl-students-talent-development-camp-bhajanlal-sharma-21028068",
-   "title": "राजस्थान की 1 हजार बालिकाओं को CM भजनलाल का तोहफा, बांटे 10-10 हजार रुपए के चेक; दिया संस्कार और राष्ट्रभक्ति का संदेश",
-   "t": 1793707998000
-  },
-  {
-   "slug": "chirag-paswan-attack-congress-neha-bora-statement",
-   "url": "https://www.patrika.com/patna-news/chirag-paswan-attack-congress-neha-bora-statement-21028053",
-   "title": "नेहा बोरा के बयान पर चिराग पासवान का पलटवार, बोले- ‘कांग्रेस को तय करना चाहिए कि वह कैसा समाज चाहती है’",
-   "t": 1793707775000
-  },
-  {
-   "slug": "russia-attacks-ukraine-on-massive-level",
-   "url": "https://www.patrika.com/world-news/russia-attacks-ukraine-on-massive-level-21028032",
-   "title": "यूक्रेन के एनर्जी सेक्टर को रूस ने बनाया निशाना, किया बड़े लेवल पर हमला",
-   "t": 1793707769000
-  },
-  {
-   "slug": "results-in-four-states-hold-up-a-mirror-to-political-parties",
-   "url": "https://www.patrika.com/opinion/results-in-four-states-hold-up-a-mirror-to-political-parties-21028011",
-   "title": "चार राज्यों के नतीजों ने सियासी दलों को दिखाया आईना",
-   "t": 1793707678000
-  },
-  {
-   "slug": "europe-supermarket-refrigerator-freezer-cyber-attack-food-supply-chain",
-   "url": "https://www.patrika.com/business-news/europe-supermarket-refrigerator-freezer-cyber-attack-food-supply-chain-21028019",
-   "title": "Refrigerator Hacking: आखिर क्यों फ्रिज का तापमान बढ़ा रहे हैं हैकर? यूरोप के कई देशों में खराब हुए खाने-पीने के सामान",
-   "t": 1793707653000
-  },
-  {
-   "slug": "rajasthan-high-court-big-verdict-without-notification-demanding-tax-illegal",
-   "url": "https://www.patrika.com/jaipur-news/rajasthan-high-court-big-verdict-without-notification-demanding-tax-illegal-21028036",
-   "title": "Rajasthan High Court : बिना अधिसूचना टैक्स मांगना अवैध, वसूली गई राशि लौटाने के आदेश, राजस्थान हाईकोर्ट का बड़ा फैसला",
-   "t": 1793707472000
-  },
-  {
-   "slug": "aga-syed-ruhullah-mehdi-resignation-jknc-imran-nabi-dar-reaction",
-   "url": "https://www.patrika.com/national-news/aga-syed-ruhullah-mehdi-resignation-jknc-imran-nabi-dar-reaction-21028027",
-   "title": "आगा सैयद रुहुल्लाह द्वारा सांसदी और पार्टी छोड़ने के बाद NC की आई पहली प्रतिक्रिया, कहा- फैसले पर पुनर्विचार करें",
-   "t": 1793707457000
-  },
-  {
-   "slug": "migratory-birds-firing-noise-threat-safe-habitat",
-   "url": "https://www.patrika.com/bemetara-news/migratory-birds-firing-noise-threat-safe-habitat-21027728",
-   "title": "4800 KM की उड़ान के बाद गिधवा पहुंचे विदेशी मेहमान, अब क्यों छोड़ सकते हैं अपना ठिकाना? जानें",
-   "t": 1793707152000
-  },
-  {
-   "slug": "gonda-vinod-sahani-murder-case-alok-singh-arrested",
-   "url": "https://www.patrika.com/gonda-news/gonda-vinod-sahani-murder-case-alok-singh-arrested-21027873",
-   "title": "Gonda: दुकान बंद कर घर लौट रहे विनोद पर किया था जानलेवा हमला, अब पुलिस ने हत्यारोपी को दबोचा",
-   "t": 1793707075000
-  },
-  {
-   "slug": "banswara-panchayat-polls-2026-from-mnrega-worker-to-sarpanch-asha-devi-story",
-   "url": "https://www.patrika.com/banswara-news/banswara-panchayat-polls-2026-from-mnrega-worker-to-sarpanch-asha-devi-story-21028016",
-   "title": "राजस्थान पंचायत चुनाव: झोपड़ी में रहने वाली महिला कैसे बनी सरपंच? कभी मनरेगा में करती थीं मजदूरी, जानिए संघर्ष की कहानी",
-   "t": 1793707001000
-  },
-  {
-   "slug": "beyond-guidelines-accountability-is-now-essential",
-   "url": "https://www.patrika.com/opinion/beyond-guidelines-accountability-is-now-essential-21027975",
-   "title": "दिशा-निर्देश ही नहीं, अब जवाबदेही की दरकार",
-   "t": 1793706488000
-  },
-  {
-   "slug": "rajgarh-hostel-mess-condition-improved-after-news-report-administration-action",
-   "url": "https://www.patrika.com/rajgarh-news/rajgarh-hostel-mess-condition-improved-after-news-report-administration-action-21027985",
-   "title": "राजगढ़ के जिस हॉस्टल में दाल में मिलते थे कीड़े, वहां एक दिन में पहुंचे गद्दे-पलंग और AC, जानें क्यों",
-   "t": 1793706442000
-  },
-  {
-   "slug": "abdul-rashid-sheikh-bail-plea-delhi-high-court",
-   "url": "https://www.patrika.com/national-news/abdul-rashid-sheikh-bail-plea-delhi-high-court-21027965",
-   "title": "अब्दुल राशिद शेख की जमानत पर दिल्ली हाईकोर्ट ने सुरक्षित रखा फैसला, टेरर फंडिंग केस में 7 साल से जेल में बंद हैं बारामूला सांसद",
-   "t": 1793705976000
-  },
-  {
-   "slug": "risk-of-impaired-cognitive-development-in-children",
-   "url": "https://www.patrika.com/opinion/risk-of-impaired-cognitive-development-in-children-21027916",
-   "title": "संपादकीय: बच्चों की बौद्धिक क्षमता कुंद होने का खतरा",
-   "t": 1793705816000
-  },
-  {
-   "slug": "chirag-paswan-responds-rahul-gandhi-vote-theft-sir-allegations",
-   "url": "https://www.patrika.com/national-news/chirag-paswan-responds-rahul-gandhi-vote-theft-sir-allegations-21027943",
-   "title": "राहुल गांधी के वोट चोरी के आरोपों पर चिराग पासवान का पलटवार, बोले- सत्ता के लिए इतनी बेचैनी क्यों?",
-   "t": 1793705573000
-  },
-  {
-   "slug": "anurag-thakur-rahul-gandhi-punjab-visit-sangrur-rally-aap-congress-alliance-bjp",
-   "url": "https://www.patrika.com/national-news/anurag-thakur-rahul-gandhi-punjab-visit-sangrur-rally-aap-congress-alliance-bjp-21027953",
-   "title": "Punjab Election: ‘राहुल जहां जाते है, वहां बीजेपी जीत जाती है’, अनुराग ठाकुर ने AAP-Congress को लेकर भी कही बड़ी बात",
-   "t": 1793705556000
-  },
-  {
-   "slug": "illegal-gold-import-in-india-surges-1500-percent-import-duty-hike",
-   "url": "https://www.patrika.com/business-news/illegal-gold-import-in-india-surges-1500-percent-import-duty-hike-21027912",
-   "title": "Gold Smuggling: भारत में 1500% बढ़ गई सोने की तस्करी, उधर लोग कम खरीद रहे गहने, देखिए वर्ल्ड गोल्ड काउंसिल के ये आंकड़े",
-   "t": 1793705451000
-  },
-  {
-   "slug": "op-rajbhar-banda-jan-adhikar-rally-speech-targets-samajwadi-party",
-   "url": "https://www.patrika.com/banda-news/op-rajbhar-banda-jan-adhikar-rally-speech-targets-samajwadi-party-21027859",
-   "title": "‘हमसे बड़ा गुंडा पूरे देश में कोई नहीं…’, बांदा में मुख्तार अंसारी और धनंजय सिंह का जिक्र कर ये क्या बोल गए OP राजभर",
-   "t": 1793705446000
-  },
-  {
-   "slug": "jodhpur-bhavi-gram-panchayat-sarpanch-election-controversy",
-   "url": "https://www.patrika.com/jodhpur-news/jodhpur-bhavi-gram-panchayat-sarpanch-election-controversy-21027919",
-   "title": "राजस्थान: भावी गांव में सरपंच चुनाव को लेकर तनाव, दो बार टला मतदान; जानिए क्या बोले ग्रामीण",
-   "t": 1793705351000
-  },
-  {
-   "slug": "oman-coast-commercial-ship-attack-indian-crew-member-killed-mea",
-   "url": "https://www.patrika.com/world-news/oman-coast-commercial-ship-attack-indian-crew-member-killed-mea-21027923",
-   "title": "समंदर में मौत का मंजर: ओमान के पास कमर्शियल जहाज पर हुए हमले पर विदेश मंत्रालय ने जताई चिंता, शांति की अपील",
-   "t": 1793705302000
-  },
-  {
-   "slug": "bigg-boss-20-asif-khan-love-gill-viral-video-wife-zeba-trolling",
-   "url": "https://www.patrika.com/entertainment-news/bigg-boss-20-asif-khan-love-gill-viral-video-wife-zeba-trolling-21027875",
-   "title": "‘वे DM में मेरी पत्नी और बहन को गालियां दे रहे हैं’ बिग बॉस 20 के आसिफ खान का ट्रोलर्स पर फूटा गुस्सा, बोले- हद पार मत करो!",
-   "t": 1793705014000
-  },
-  {
-   "slug": "kawardha-four-cattle-cruelly-transported-in-pickup",
-   "url": "https://www.patrika.com/kawardha-news/kawardha-four-cattle-cruelly-transported-in-pickup-21027887",
-   "title": "Kawardha News: सांस लेने तक की जगह नहीं थी, पिकअप में ठूंसकर ले जाए जा रहे थे चार गौवंश, एक आरोपी गिरफ्तार",
-   "t": 1793704916000
-  },
-  {
-   "slug": "man-confesses-to-killing-friend-after-20-days-in-dombivli",
-   "url": "https://www.patrika.com/national-news/man-confesses-to-killing-friend-after-20-days-in-dombivli-21027893",
-   "title": "दोस्त ने ही की दोस्त की हत्या, 20 दिन तक छिपाकर रखा शव, सपने में आकर सताने लगा तो थाने पहुंचकर किया सरेंडर",
-   "t": 1793704871000
-  },
-  {
-   "slug": "tejashwi-yadav-attack-bihar-government-seven-murder-accused",
-   "url": "https://www.patrika.com/patna-news/tejashwi-yadav-attack-bihar-government-seven-murder-accused-21027898",
-   "title": "‘बिहार में क्राइम हो सकता है, लेकिन अपराध नहीं’, CM सम्राट चौधरी के इस बयान पर तेजस्वी यादव ने साधा निशाना",
-   "t": 1793704794000
-  },
-  {
-   "slug": "bina-godna-village-mother-daughter-burnt-kerosene-family-dispute",
-   "url": "https://www.patrika.com/sagar-news/bina-godna-village-mother-daughter-burnt-kerosene-family-dispute-21027900",
-   "title": "मां सागर के अस्पताल में भर्ती, बेटी भोपाल में जिंदगी से लड़ रही, बीना की घटना ने झकझोरा",
-   "t": 1793704736000
-  },
-  {
-   "slug": "shubman-gill-confirm-top-4-batting-order-for-team-india-in-world-cup-2027-know-full-story",
-   "url": "https://www.patrika.com/cricket-news/shubman-gill-confirm-top-4-batting-order-for-team-india-in-world-cup-2027-know-full-story-21027835",
-   "title": "IND vs NZ: वर्ल्डकप 2027 के लिए टीम इंडिया के टॉप 4 पोजिशन कन्फर्म, कप्तान शुभमन गिल ने किया बड़ा खुलासा",
-   "t": 1793704674000
-  },
-  {
-   "slug": "aga-syed-ruhullah-mehdi-resigns-as-srinagar-mp-quits-national-conference",
-   "url": "https://www.patrika.com/national-news/aga-syed-ruhullah-mehdi-resigns-as-srinagar-mp-quits-national-conference-21027895",
-   "title": "J&K Politics: सांसद पद से इस्तीफा और NC से नाता तोड़ने के बाद आगा सैयद रुहुल्लाह मेहदी का बड़ा बयान, जानें क्या कहा",
-   "t": 1793704526000
-  },
-  {
-   "slug": "gonda-police-igrs-ranking-first-in-up-october-2026",
-   "url": "https://www.patrika.com/gonda-news/gonda-police-igrs-ranking-first-in-up-october-2026-21027748",
-   "title": "Gonda News: यूपी में गोंडा पुलिस का जलवा, आईजीआरएस रैंकिंग में पूरे प्रदेश में मिला पहला स्थान",
-   "t": 1793704193000
-  },
-  {
-   "slug": "bengaluru-robbery-update-woman-hands-stuck-with-fevikwik-gold-chain-stolen",
-   "url": "https://www.patrika.com/national-news/bengaluru-robbery-update-woman-hands-stuck-with-fevikwik-gold-chain-stolen-21027853",
-   "title": "‘शोर मचाया तो जान से मार दूंगा’, महिला के हाथ मेज से चिपकाए, मुंह में ठूंसा कपड़ा; बेंगलुरु लूट में बड़ा खुलासा",
-   "t": 1793704034000
-  },
-  {
-   "slug": "neha-bora-nazia-elahi-khan-questions",
-   "url": "https://www.patrika.com/ghaziabad-news/neha-bora-nazia-elahi-khan-questions-21027804",
-   "title": "नेहा बोरा के बयान पर नाजिया इलाही खान ने उठाए सवाल, पूछा- नागपुर और संदेशखाली पर चुप्पी क्यों?",
-   "t": 1793703709000
-  },
-  {
-   "slug": "bengaluru-court-wife-linkedin-profile-maintenance-allowance",
-   "url": "https://www.patrika.com/national-news/bengaluru-court-wife-linkedin-profile-maintenance-allowance-21027823",
-   "title": "पत्नी की LinkedIn प्रोफाइल नौकरी का सबूत नहीं, कोर्ट ने पति से कहा- हर महीने 20 हजार रुपये गुजारा भत्ता देना ही होगा",
-   "t": 1793703294000
-  },
-  {
-   "slug": "ransom-call-to-tushar-kapoor-ranveer-singh-lawrence-bishnoi-gang-after-salman-khan",
-   "url": "https://www.patrika.com/entertainment-news/ransom-call-to-tushar-kapoor-ranveer-singh-lawrence-bishnoi-gang-after-salman-khan-21027736",
-   "title": "टाइगर श्रॉफ पर फायरिंग के बाद तुषार से फिरौती की मांग-क्या बॉलीवुड को खौफजदा करने पर आमादा हो गया है अंडरवर्ल्ड?",
-   "t": 1793703266000
-  },
-  {
-   "slug": "why-anti-india-sentiment-is-rising-in-bangladesh-2026",
-   "url": "https://www.patrika.com/world-news/why-anti-india-sentiment-is-rising-in-bangladesh-2026-21027333",
-   "title": "Analysis: बांग्लादेश में फिर क्यों जोर पकड़ रही है भारत-विरोधी बयानबाजी?",
-   "t": 1793703197000
-  },
-  {
-   "slug": "panchkula-school-assault-case-pubg-claim-two-teachers-suspended",
-   "url": "https://www.patrika.com/mumbai-news/panchkula-school-assault-case-pubg-claim-two-teachers-suspended-21027782",
-   "title": "पंचकूला स्कूल हमला: 6 साल की बच्ची पर अटैक का PUBG कनेक्शन! परिजनों का दावा- आरोपी छात्र खेलता था हिंसक गेम",
-   "t": 1793702950000
-  },
-  {
-   "slug": "jitu-patwari-expresses-concern-over-the-deaths-of-two-youths-from-mp-in-gujarat",
-   "url": "https://www.patrika.com/bhopal-news/jitu-patwari-expresses-concern-over-the-deaths-of-two-youths-from-mp-in-gujarat-21027708",
-   "title": "गुजरात में MP के 2 युवकों की मौत पर नाराज हुए जीतू पटवारी, CM से की उच्चस्तरीय जांच की मांग",
-   "t": 1793702927000
-  },
-  {
-   "slug": "pandit-pradeep-mishra-shiv-mahapuran-katha-fifth-day",
-   "url": "https://www.patrika.com/unnao-news/pandit-pradeep-mishra-shiv-mahapuran-katha-fifth-day-21027731",
-   "title": "उन्नाव में शिव महापुराण कथा: पंडित प्रदीप मिश्रा बोले- हम उत्तर प्रदेश वाले, हमें जो छेड़ता है उसे छोड़ते नहीं",
-   "t": 1793702894000
-  },
-  {
-   "slug": "plane-crash-in-new-zealand-2-people-killed",
-   "url": "https://www.patrika.com/world-news/plane-crash-in-new-zealand-2-people-killed-21027737",
-   "title": "न्यूज़ीलैंड में प्लेन हुआ क्रैश, 2 लोगों की मौत",
-   "t": 1793702865000
-  },
-  {
-   "slug": "many-children-fell-ill-after-midday-meal-narsinghpur-teachers-took-them-hospital",
-   "url": "https://www.patrika.com/narsinghpur-news/many-children-fell-ill-after-midday-meal-narsinghpur-teachers-took-them-hospital-21027785",
-   "title": "नरसिंहपुर में मध्यान्ह भोजन के बाद दो दर्जन बच्चों की तबीयत बिगड़ी, शिक्षक लेकर पहुंचे अस्पताल",
-   "t": 1793702542000
-  },
-  {
-   "slug": "young-man-murder-in-house-from-sharp-weapon",
-   "url": "https://www.patrika.com/ambikapur-news/young-man-murder-in-house-from-sharp-weapon-21027739",
-   "title": "Murder in Surguja: पत्नी चली गई थी मायके, घर पर पति की धारदार हथियार से हत्या, मिले संघर्ष के निशान",
-   "t": 1793702339000
-  },
-  {
-   "slug": "jodhpur-gets-rs-200-crore-innovation-hub-to-create-new-opportunities-for-youth",
-   "url": "https://www.patrika.com/jodhpur-news/jodhpur-gets-rs-200-crore-innovation-hub-to-create-new-opportunities-for-youth-21027750",
-   "title": "ग्राउंड रिपोर्ट: जोधपुर में 200 करोड़ की लागत से तैयार हुआ इनोवेशन हब, युवाओं को मिलेंगे तरक्की के नए अवसर",
-   "t": 1793702284000
-  },
-  {
-   "slug": "rajasthan-mukhyamantri-mangla-pashu-bima-yojana-boon-for-livestock-farmers",
-   "url": "https://www.patrika.com/jaipur-news/rajasthan-mukhyamantri-mangla-pashu-bima-yojana-boon-for-livestock-farmers-21027721",
-   "title": "Rajasthan : मुख्यमंत्री मंगला पशु बीमा योजना पशुपालकों के लिए बनी वरदान, अब तक 108 करोड़ की बीमा राशि का हुआ भुगतान",
-   "t": 1793702094000
-  },
-  {
-   "slug": "ind-vs-nz-1st-odi-update-big-role-of-toss-in-auckland-know-record-highest-chase",
-   "url": "https://www.patrika.com/cricket-news/ind-vs-nz-1st-odi-update-big-role-of-toss-in-auckland-know-record-highest-chase-21027692",
-   "title": "IND vs NZ: ऑकलैंड में टॉस होने वाला है सबसे अहम, पिछले 2 मैचों में रन चेज करने वाली टीमों का हुआ है बुरा हाल",
-   "t": 1793701924000
-  },
-  {
-   "slug": "chambal-water-project-rajasthan-villages-water-supply-update",
-   "url": "https://www.patrika.com/rajsamand-news/chambal-water-project-rajasthan-villages-water-supply-update-21027521",
-   "title": "राजसमंद के इन गांवों को पानी के लिए करना होगा 1 साल का और इंतजार, 2 बार टली चंबल परियोजना की डेडलाइन",
-   "t": 1793701882000
-  },
-  {
-   "slug": "strong-rally-in-share-market-today-sensex-closes-1200-points-higher-know-reasons",
-   "url": "https://www.patrika.com/business-news/strong-rally-in-share-market-today-sensex-closes-1200-points-higher-know-reasons-21027659",
-   "title": "Stock Market: लगातार चौथे दिन बाजार में भारी तेजी, 1200 पॉइंट बढ़कर बंद हुआ सेंसेक्स, जानिए इस उछाल के 5 बड़े कारण",
-   "t": 1793701420000
-  },
-  {
-   "slug": "chhindwara-lokayukta-trap-tribal-department-employee-caught-taking-bribe-case",
-   "url": "https://www.patrika.com/chhindwara-news/chhindwara-lokayukta-trap-tribal-department-employee-caught-taking-bribe-case-21027677",
-   "title": "Chhindwara : कूलर के नीचे रिश्वत का पैसा छुपाकर भाग रहा था कर्मचारी, ऐसे पकड़ा गया",
-   "t": 1793701388000
-  },
-  {
-   "slug": "chhattisgarh-census-2027-72000-employees-duty-transfer-ban",
-   "url": "https://www.patrika.com/raipur-news/chhattisgarh-census-2027-72000-employees-duty-transfer-ban-21027637",
-   "title": "छत्तीसगढ़ में 72 हजार कर्मचारियों की लगेगी ड्यूटी, जनगणना के लिए सरकार ने उठाया बड़ा कदम",
-   "t": 1793701358000
-  },
-  {
-   "slug": "saudi-led-coalition-downs-drone-over-mecca-region-houthis-say-no-attacks-targeting-saudi-arabia-today",
-   "url": "https://www.patrika.com/world-news/saudi-led-coalition-downs-drone-over-mecca-region-houthis-say-no-attacks-targeting-saudi-arabia-today-21027629",
-   "title": "मक्का के पास सऊदी-नेतृत्व वाले गठबंधन की सेना ने मार गिराया ड्रोन, हूती विद्रोहियों ने कह दी बड़ी बात",
-   "t": 1793701230000
-  },
-  {
-   "slug": "rupali-ganguly-ai-deepfake-personality-rights-bombay-high-court",
-   "url": "https://www.patrika.com/tv-news/rupali-ganguly-ai-deepfake-personality-rights-bombay-high-court-21027648",
-   "title": "‘अनुपमा’ फेम रूपाली गांगुली की तस्वीरों से AI ने बनाई आपत्तिजनक तस्वीरें और वीडियो? अभिनेत्री पहुंचीं बॉम्बे हाई कोर्ट",
-   "t": 1793701075000
-  },
-  {
-   "slug": "mamata-rahul-infiltrators-suvendu-adhikari-delhi-rally",
-   "url": "https://www.patrika.com/national-news/mamata-rahul-infiltrators-suvendu-adhikari-delhi-rally-21027638",
-   "title": "ममता और राहुल घुसपैठियों को भारत में रखने के लिए लड़ रहे, दिल्ली रैली को लेकर बंगाल सीएम शुभेंदु अधिकारी ने निशाना साधा",
-   "t": 1793701013000
-  },
-  {
-   "slug": "rajkumar-lohani-rajya-sabha-nomination-rejected-madhya-pradesh-congress",
-   "url": "https://www.patrika.com/bhopal-news/rajkumar-lohani-rajya-sabha-nomination-rejected-madhya-pradesh-congress-21027643",
-   "title": "राज्यसभा उम्मीदवार का नामांकन निरस्त, कांग्रेस ने किया था समर्थन, हरदीप सिंह से भी जवाब तलब",
-   "t": 1793700964000
-  },
-  {
-   "slug": "gonda-15-year-old-girl-recovered-itiathok-police-arrest",
-   "url": "https://www.patrika.com/gonda-news/gonda-15-year-old-girl-recovered-itiathok-police-arrest-21027557",
-   "title": "Gonda News: 15 वर्षीय किशोरी लापता होने से मचा हड़कंप, रेलवे स्टेशन के पास युवक के साथ मिली",
-   "t": 1793700888000
-  },
-  {
-   "slug": "cg-dev-uthani-holiday",
-   "url": "https://www.patrika.com/raipur-news/cg-dev-uthani-holiday-21027574",
-   "title": "Holiday Breaking: छत्तीसगढ़ में छुट्टी का ऐलान! देवउठनी एकादशी पर बंद रहेंगे सरकारी कार्यालय, आदेश जारी",
-   "t": 1793700720000
-  },
-  {
-   "slug": "shivraj-singh-chouhan-attacks-india-alliance-bjp-loktantra-bachao-march",
-   "url": "https://www.patrika.com/lucknow-news/shivraj-singh-chouhan-attacks-india-alliance-bjp-loktantra-bachao-march-21027461",
-   "title": "सपनों की दुनिया में जी रही है कांग्रेस: विपक्ष के ‘तख्तापलट’ वाले अरमानों पर शिवराज सिंह का करारा तंज",
-   "t": 1793700561000
-  },
-  {
-   "slug": "local-holiday-date-changed-november-20-2026",
-   "url": "https://www.patrika.com/jagdalpur-news/local-holiday-date-changed-november-20-2026-21027569",
-   "title": "Holiday: गोवर्धन पूजा की छुट्टी में बड़ा बदलाव, अब इस जिले में 20 नवंबर को रहेगा स्थानीय अवकाश, आदेश जारी",
-   "t": 1793700276000
-  },
-  {
-   "slug": "sunita-ahuja-diwali-statement-dogs-scared-avoid-firecrackers-amid-dia-mirza-controversy",
-   "url": "https://www.patrika.com/bollywood-news/sunita-ahuja-diwali-statement-dogs-scared-avoid-firecrackers-amid-dia-mirza-controversy-21027522",
-   "title": "‘कुत्तों को डर लगता है’, दीया मिर्जा विवाद के बीच सुनीता आहूजा ने की पटाखे न जलाने की अपील",
-   "t": 1793700272000
-  },
-  {
-   "slug": "shah-rukh-khan-king-tu-mil-jaaye-song-24-hours-record",
-   "url": "https://www.patrika.com/entertainment-news/shah-rukh-khan-king-tu-mil-jaaye-song-24-hours-record-21027539",
-   "title": "24 घंटे में 36 मिलियन व्यूज, ‘किंग’ के Tu Mil Jaaye के गाने ने ‘जवान’ और ‘आदिपुरुष’ के रिकॉर्ड तोड़े",
-   "t": 1793700262000
-  },
-  {
-   "slug": "tejashwi-yadav-madhubani-asi-case",
-   "url": "https://www.patrika.com/new-delhi-news/tejashwi-yadav-madhubani-asi-case-21027570",
-   "title": "मधुबनी में पुलिसकर्मी की करतूत पर भड़के तेजस्वी, पूछा- आरोपी फरार है या फरार कराया गया?",
-   "t": 1793700259000
-  },
-  {
-   "slug": "silver-prices-drop-just-in-time-for-diwali-from-1100-rs-coins-to-3-lakh-rs-idols",
-   "url": "https://www.patrika.com/udaipur-news/silver-prices-drop-just-in-time-for-diwali-from-1100-rs-coins-to-3-lakh-rs-idols-21027529",
-   "title": "Silver Price Fall: 1100 से लेकर 3.5 लाख रुपए तक के शानदार दिवाली गिफ्ट्स, जानिए क्या है लोगों की पहली पसंद",
-   "t": 1793700255000
-  },
-  {
-   "slug": "west-bengal-sir-appeal-tribunals-ec-judges-pan-aadhaar-authentication",
-   "url": "https://www.patrika.com/national-news/west-bengal-sir-appeal-tribunals-ec-judges-pan-aadhaar-authentication-21027578",
-   "title": "जजों से ही मांगी पहचान! SIR अपील पर चुनाव आयोग का नया फरमान, 21 सितंबर से नहीं हुआ एक भी निपटारा",
-   "t": 1793700254000
-  },
-  {
-   "slug": "bareilly-bjp-shakti-pradarshan-2027-election-nadda-maurya-jayant",
-   "url": "https://www.patrika.com/bareilly-news/bareilly-bjp-shakti-pradarshan-2027-election-nadda-maurya-jayant-21027520",
-   "title": "2027 की चुनावी जंग से पहले बरेली में भाजपा ने दिखाई संगठन की ताकत, नड्डा-मौर्य और जयंत संग सड़कों पर उतरे कार्यकर्ता",
-   "t": 1793700241000
-  },
-  {
-   "slug": "rajasthan-government-schools-new-system-holiday-entry-module-launched",
-   "url": "https://www.patrika.com/sikar-news/rajasthan-government-schools-new-system-holiday-entry-module-launched-21027545",
-   "title": "Rajasthan : राजस्थान में सरकारी स्कूलों में नई व्यवस्था, शिक्षकों और कर्मिकों देना होगा गैरहाजिरी का हिसाब",
-   "t": 1793700220000
-  },
-  {
-   "slug": "silver-become-cheaper-by-rs-50000-in-1-month-dropping-by-rs-8-000-today-know-price-outlook",
-   "url": "https://www.patrika.com/business-news/silver-become-cheaper-by-rs-50000-in-1-month-dropping-by-rs-8-000-today-know-price-outlook-21027527",
-   "title": "Explainer: 1 महीने में 50,000 रुपये सस्ती हुई चांदी, आज करीब 8000 रुपये टूटी, जानिए आगे कहां जा सकते हैं भाव",
-   "t": 1793700216000
-  },
-  {
-   "slug": "pappu-yadav-challenges-dhirendra-shastri-ramayana-gita-debate",
-   "url": "https://www.patrika.com/patna-news/pappu-yadav-challenges-dhirendra-shastri-ramayana-gita-debate-21027551",
-   "title": "पप्पू यादव ने धीरेंद्र शास्त्री को दी बहस की चुनौती, बोले- 10 नवंबर को रामलीला मैदान आइए, रामायण-गीता पर करिए चर्चा",
-   "t": 1793700192000
-  },
-  {
-   "slug": "supreme-court-says-protestors-cannot-occupy-protest-sites-indefinitely",
-   "url": "https://www.patrika.com/national-news/supreme-court-says-protestors-cannot-occupy-protest-sites-indefinitely-21027560",
-   "title": "सुप्रीम कोर्ट की दोटूक- प्रदर्शन स्थल पर हमेशा के लिए कब्जा नहीं कर सकते, दूसरों को भी है विरोध का अधिकार",
-   "t": 1793700181000
-  },
-  {
-   "slug": "rajnath-singh-chairs-defence-consultative-committee-meeting-jaisalmer-modernization-2029-target",
-   "url": "https://www.patrika.com/jaisalmer-news/rajnath-singh-chairs-defence-consultative-committee-meeting-jaisalmer-modernization-2029-target-21027536",
-   "title": "Rajnath Singh Jaisalmer Visit: ‘3 लाख करोड़ के रक्षा उत्पादन से लेकर 50 हज़ार करोड़ के रक्षा निर्यात तक’, रक्षा मंत्री राजनाथ सिंह ने बताया पूरा प्लान",
-   "t": 1793700103000
-  },
-  {
-   "slug": "meenakshi-shinde-seeks-police-protection-for-ram-purnekar",
-   "url": "https://www.patrika.com/national-news/meenakshi-shinde-seeks-police-protection-for-ram-purnekar-21027537",
-   "title": "प्रदीप पूर्णेकर हत्याकांड में चौंकाने वाला मोड़, मीनाक्षी शिंदे पर हत्या की साजिश के आरोप, अब उन्हीं ने राम की सुरक्षा मांगी",
-   "t": 1793699785000
-  },
-  {
-   "slug": "akhilesh-yadav-slams-dhirendra-shastri-over-lord-ram-five-fathers-viral-video-statement",
-   "url": "https://www.patrika.com/lucknow-news/akhilesh-yadav-slams-dhirendra-shastri-over-lord-ram-five-fathers-viral-video-statement-21027457",
-   "title": "‘पहले भगवान श्रीकृष्ण, अब भगवान राम’, धीरेंद्र शास्त्री के नए वायरल वीडियो पर भड़के अखिलेश यादव, कहा- सभी कार्यक्रम रद्द हो",
-   "t": 1793699736000
-  },
-  {
-   "slug": "why-did-us-attack-qeshm-island-know-importance-of-this-region-for-iran",
-   "url": "https://www.patrika.com/world-news/why-did-us-attack-qeshm-island-know-importance-of-this-region-for-iran-21027494",
-   "title": "केशम आइलैंड पर ही क्यों किए अमेरिका ने हमले? ईरान के लिए बेहद अहम है होर्मुज स्ट्रेट के पास स्थित यह क्षेत्र",
-   "t": 1793699664000
-  },
-  {
-   "slug": "israel-avigdor-liberman-government-without-arab-parties-new-election",
-   "url": "https://www.patrika.com/world-news/israel-avigdor-liberman-government-without-arab-parties-new-election-21027517",
-   "title": "न अरब पार्टियों की जरूरत, न नए चुनाव की! इजरायल में सरकार बनाने का लिबरमैन ने दिया फॉर्मूला",
-   "t": 1793699046000
-  },
-  {
-   "slug": "ram-madhav-attacks-rahul-gandhi-congress-anarchy-regime-change",
-   "url": "https://www.patrika.com/national-news/ram-madhav-attacks-rahul-gandhi-congress-anarchy-regime-change-21027515",
-   "title": "राम माधव ने कांग्रेस से पूछा- क्या घुसपैठियों को वोट का अधिकार देना चाहती है?",
-   "t": 1793699044000
-  },
-  {
-   "slug": "surguja-commissioner-suspended-biharpur-in-charge-tehsildar",
-   "url": "https://www.patrika.com/surajpur-news/surguja-commissioner-suspended-biharpur-in-charge-tehsildar-21027509",
-   "title": "Surajpur News: कुबेरपुर सडक़ हादसा मामले में कमिश्नर ने प्रभारी तहसीलदार को किया सस्पेंड, मंत्री ने जताई थी आपत्ति",
-   "t": 1793699010000
-  },
-  {
-   "slug": "surveillance-at-simhastha-2028-will-be-conducted-using-ai-cameras",
-   "url": "https://www.patrika.com/ujjain-news/surveillance-at-simhastha-2028-will-be-conducted-using-ai-cameras-21027505",
-   "title": "सिंहस्थ 2028: उज्जैन स्टेशन पर AI से होगी निगरानी, कैमरों से  तुरंत मिलेगी ‘भगदड़’ की चेतावनी",
-   "t": 1793698704000
-  },
-  {
-   "slug": "bihar-nda-mlc-bjp-chirag-paswan-jdu-controversy",
-   "url": "https://www.patrika.com/national-news/bihar-nda-mlc-bjp-chirag-paswan-jdu-controversy-21027495",
-   "title": "2 निर्दलीय MLC के BJP में शामिल होने पर NDA में बढ़ती जा रही तकरार, जदयू के बाद चिराग पासवान ने खोला मोर्चा",
-   "t": 1793698288000
-  },
-  {
-   "slug": "municipal-officers-transfer-order-cancellation",
-   "url": "https://www.patrika.com/raipur-news/municipal-officers-transfer-order-cancellation-21027290",
-   "title": "निकायों में 100 से ज्यादा तबादलों के बाद हलचल, आखिर आदेश रुकवाने में क्यों जुटे अधिकारी? जानें मामला",
-   "t": 1793698121000
-  },
-  {
-   "slug": "raipur-muddy-water-supply-thousands-homes",
-   "url": "https://www.patrika.com/raipur-news/raipur-muddy-water-supply-thousands-homes-21027466",
-   "title": "रायपुर में हजारों घरों में पहुंचा मटमैला पानी, फिल्टर प्लांट में बड़ी चूक, फेंकना पड़ीं पानी की कई बाल्टियां",
-   "t": 1793698088000
-  },
-  {
-   "slug": "cm-sai-delhi-visit-solar-energy-chhattisgarh",
-   "url": "https://www.patrika.com/raipur-news/cm-sai-delhi-visit-solar-energy-chhattisgarh-21027440",
-   "title": "Delhi से लौटकर CM साय का बड़ा ऐलान, छत्तीसगढ़ में सौर ऊर्जा को बढ़ावा देने पर सरकार का फोकस",
-   "t": 1793697726000
   }
  ]
 }
