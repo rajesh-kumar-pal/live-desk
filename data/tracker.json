@@ -1,18 +1,18 @@
 {
- "lastRunAt": 1793775581837,
+ "lastRunAt": 1793807273867,
  "method": "GitHub Actions",
  "windowHours": 3.0,
  "kept": 80,
- "gaps": 77,
+ "gaps": 76,
  "sources": {
   "pat": {
    "name": "Patrika",
    "ok": true,
-   "count": 602,
+   "count": 650,
    "sitemaps": [
     "https://www.patrika.com/google-news-sitemap-v1.xml"
    ],
-   "newest": 1793774742000
+   "newest": 1793806247000
   },
   "au": {
    "name": "Amar Ujala",
@@ -21,21 +21,21 @@
    "sitemaps": [
     "https://www.amarujala.com/sitemap-news-v1.xml"
    ],
-   "newest": 1793775303000
+   "newest": 1793806835000
   },
   "at": {
    "name": "Aaj Tak",
    "ok": true,
-   "count": 860,
+   "count": 1019,
    "sitemaps": [
     "https://www.aajtak.in/rssfeeds/news-sitemap.xml"
    ],
-   "newest": 1793775460000
+   "newest": 1793806891000
   },
   "zee": {
    "name": "Zee News Hindi",
    "ok": true,
-   "count": 1610,
+   "count": 1601,
    "sitemaps": [
     "https://zeenews.india.com/hindi/sitemaps/news-sitemap.xml",
     "https://zeenews.india.com/hindi/india/rajasthan/news-sitemap.xml"
@@ -49,17 +49,17 @@
    "sitemaps": [
     "https://www.bhaskar.com/sitemaps-v1--sitemap-google-news-index.xml"
    ],
-   "newest": 1793795385000
+   "newest": 1793827076000
   },
   "abp": {
    "name": "ABP Live",
    "ok": true,
-   "count": 594,
+   "count": 806,
    "sitemaps": [
     "https://www.abplive.com/news-sitemap.xml",
     "https://www.abplive.com/google-news-sitemap.xml"
    ],
-   "newest": 1793775089000
+   "newest": 1793806355000
   },
   "ndtv": {
    "name": "NDTV Hindi",
@@ -69,13 +69,13 @@
   "nbt": {
    "name": "Navbharat Times",
    "ok": true,
-   "count": 11471,
+   "count": 11673,
    "sitemaps": [
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-48hours.xml",
     "https://navbharattimes.indiatimes.com/news-sitemap.xml",
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-index.xml"
    ],
-   "newest": 1793775508000
+   "newest": 1793806724000
   }
  }
 }
