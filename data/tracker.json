@@ -1,5 +1,5 @@
 {
- "lastRunAt": 1793893772761,
+ "lastRunAt": 1793917349415,
  "method": "GitHub Actions",
  "windowHours": 3.0,
  "kept": 80,
@@ -8,34 +8,34 @@
   "pat": {
    "name": "Patrika",
    "ok": true,
-   "count": 613,
+   "count": 612,
    "sitemaps": [
     "https://www.patrika.com/google-news-sitemap-v1.xml"
    ],
-   "newest": 1793892306000
+   "newest": 1793916604000
   },
   "au": {
    "name": "Amar Ujala",
-   "ok": true,
-   "count": 700,
+   "ok": false,
+   "count": 0,
    "sitemaps": [
     "https://www.amarujala.com/sitemap-news-v1.xml"
    ],
-   "newest": 1793893657000
+   "note": "sitemap-news-v1.xml: ParseError"
   },
   "at": {
    "name": "Aaj Tak",
    "ok": true,
-   "count": 1064,
+   "count": 757,
    "sitemaps": [
     "https://www.aajtak.in/rssfeeds/news-sitemap.xml"
    ],
-   "newest": 1793893549000
+   "newest": 1793914979000
   },
   "zee": {
    "name": "Zee News Hindi",
    "ok": true,
-   "count": 1581,
+   "count": 1578,
    "sitemaps": [
     "https://zeenews.india.com/hindi/sitemaps/news-sitemap.xml",
     "https://zeenews.india.com/hindi/india/rajasthan/news-sitemap.xml"
@@ -45,7 +45,7 @@
   "bh": {
    "name": "Bhaskar",
    "ok": true,
-   "count": 1399,
+   "count": 700,
    "sitemaps": [
     "https://www.bhaskar.com/sitemaps-v1--sitemap-google-news-index.xml"
    ],
@@ -54,12 +54,12 @@
   "abp": {
    "name": "ABP Live",
    "ok": true,
-   "count": 772,
+   "count": 500,
    "sitemaps": [
     "https://www.abplive.com/news-sitemap.xml",
     "https://www.abplive.com/google-news-sitemap.xml"
    ],
-   "newest": 1793893349000
+   "newest": 1793916637000
   },
   "ndtv": {
    "name": "NDTV Hindi",
@@ -69,13 +69,13 @@
   "nbt": {
    "name": "Navbharat Times",
    "ok": true,
-   "count": 12104,
+   "count": 12148,
    "sitemaps": [
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-48hours.xml",
     "https://navbharattimes.indiatimes.com/news-sitemap.xml",
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-index.xml"
    ],
-   "newest": 1793893204000
+   "newest": 1793908098000
   }
  }
 }
