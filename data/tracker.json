@@ -1,5 +1,5 @@
 {
- "lastRunAt": 1794058557975,
+ "lastRunAt": 1794075643215,
  "method": "GitHub Actions",
  "windowHours": 3.0,
  "kept": 80,
@@ -8,34 +8,34 @@
   "pat": {
    "name": "Patrika",
    "ok": true,
-   "count": 508,
+   "count": 489,
    "sitemaps": [
     "https://www.patrika.com/google-news-sitemap-v1.xml"
    ],
-   "newest": 1794058125000
+   "newest": 1794073621000
   },
   "au": {
    "name": "Amar Ujala",
    "ok": true,
-   "count": 699,
+   "count": 700,
    "sitemaps": [
     "https://www.amarujala.com/sitemap-news-v1.xml"
    ],
-   "newest": 1794058203000
+   "newest": 1794075606000
   },
   "at": {
    "name": "Aaj Tak",
    "ok": true,
-   "count": 943,
+   "count": 981,
    "sitemaps": [
     "https://www.aajtak.in/rssfeeds/news-sitemap.xml"
    ],
-   "newest": 1794058329000
+   "newest": 1794074589000
   },
   "zee": {
    "name": "Zee News Hindi",
    "ok": true,
-   "count": 1555,
+   "count": 1547,
    "sitemaps": [
     "https://zeenews.india.com/hindi/sitemaps/news-sitemap.xml",
     "https://zeenews.india.com/hindi/india/rajasthan/news-sitemap.xml"
@@ -45,21 +45,21 @@
   "bh": {
    "name": "Bhaskar",
    "ok": true,
-   "count": 700,
+   "count": 1400,
    "sitemaps": [
     "https://www.bhaskar.com/sitemaps-v1--sitemap-google-news-index.xml"
    ],
-   "newest": 1794078361000
+   "newest": 1794095316000
   },
   "abp": {
    "name": "ABP Live",
    "ok": true,
-   "count": 687,
+   "count": 756,
    "sitemaps": [
     "https://www.abplive.com/news-sitemap.xml",
     "https://www.abplive.com/google-news-sitemap.xml"
    ],
-   "newest": 1794058308000
+   "newest": 1794075081000
   },
   "ndtv": {
    "name": "NDTV Hindi",
@@ -69,13 +69,13 @@
   "nbt": {
    "name": "Navbharat Times",
    "ok": true,
-   "count": 12575,
+   "count": 12585,
    "sitemaps": [
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-48hours.xml",
     "https://navbharattimes.indiatimes.com/news-sitemap.xml",
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-index.xml"
    ],
-   "newest": 1794058449000
+   "newest": 1794075292000
   }
  }
 }
