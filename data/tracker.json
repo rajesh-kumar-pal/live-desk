@@ -1,18 +1,18 @@
 {
- "lastRunAt": 1794165069940,
+ "lastRunAt": 1794208476375,
  "method": "GitHub Actions",
  "windowHours": 3.0,
  "kept": 80,
- "gaps": 80,
+ "gaps": 74,
  "sources": {
   "pat": {
    "name": "Patrika",
-   "ok": false,
-   "count": 0,
+   "ok": true,
+   "count": 337,
    "sitemaps": [
     "https://www.patrika.com/google-news-sitemap-v1.xml"
    ],
-   "note": "google-news-sitemap-v1.xml: HTTPError"
+   "newest": 1794207985000
   },
   "au": {
    "name": "Amar Ujala",
@@ -21,21 +21,21 @@
    "sitemaps": [
     "https://www.amarujala.com/sitemap-news-v1.xml"
    ],
-   "newest": 1794164549000
+   "newest": 1794208316000
   },
   "at": {
    "name": "Aaj Tak",
    "ok": true,
-   "count": 451,
+   "count": 553,
    "sitemaps": [
     "https://www.aajtak.in/rssfeeds/news-sitemap.xml"
    ],
-   "newest": 1794165006000
+   "newest": 1794208411000
   },
   "zee": {
    "name": "Zee News Hindi",
    "ok": true,
-   "count": 1530,
+   "count": 1525,
    "sitemaps": [
     "https://zeenews.india.com/hindi/sitemaps/news-sitemap.xml",
     "https://zeenews.india.com/hindi/india/rajasthan/news-sitemap.xml"
@@ -49,17 +49,17 @@
    "sitemaps": [
     "https://www.bhaskar.com/sitemaps-v1--sitemap-google-news-index.xml"
    ],
-   "newest": 1794184257000
+   "newest": 1794228274000
   },
   "abp": {
    "name": "ABP Live",
    "ok": true,
-   "count": 644,
+   "count": 500,
    "sitemaps": [
     "https://www.abplive.com/news-sitemap.xml",
     "https://www.abplive.com/google-news-sitemap.xml"
    ],
-   "newest": 1794164368000
+   "newest": 1794208122000
   },
   "ndtv": {
    "name": "NDTV Hindi",
@@ -69,13 +69,13 @@
   "nbt": {
    "name": "Navbharat Times",
    "ok": true,
-   "count": 12567,
+   "count": 12619,
    "sitemaps": [
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-48hours.xml",
     "https://navbharattimes.indiatimes.com/news-sitemap.xml",
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-index.xml"
    ],
-   "newest": 1794161801000
+   "newest": 1794208008000
   }
  }
 }
