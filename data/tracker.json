@@ -1,5 +1,5 @@
 {
- "lastRunAt": 1795332621484,
+ "lastRunAt": 1795362130754,
  "method": "GitHub Actions",
  "windowHours": 3.0,
  "kept": 80,
@@ -8,39 +8,39 @@
   "pat": {
    "name": "Patrika",
    "ok": true,
-   "count": 552,
+   "count": 531,
    "sitemaps": [
     "https://www.patrika.com/google-news-sitemap-v1.xml"
    ],
-   "newest": 1795332227000
+   "newest": 1795361584000
   },
   "au": {
    "name": "Amar Ujala",
-   "ok": false,
-   "count": 0,
+   "ok": true,
+   "count": 700,
    "sitemaps": [
     "https://www.amarujala.com/sitemap-news-v1.xml"
    ],
-   "note": "sitemap-news-v1.xml: ParseError"
+   "newest": 1795361819000
   },
   "at": {
    "name": "Aaj Tak",
    "ok": true,
-   "count": 733,
+   "count": 835,
    "sitemaps": [
     "https://www.aajtak.in/rssfeeds/news-sitemap.xml"
    ],
-   "newest": 1795331332000
+   "newest": 1795361387000
   },
   "zee": {
    "name": "Zee News Hindi",
-   "ok": true,
-   "count": 1500,
+   "ok": false,
+   "count": 0,
    "sitemaps": [
     "https://zeenews.india.com/hindi/sitemaps/news-sitemap.xml",
     "https://zeenews.india.com/hindi/india/rajasthan/news-sitemap.xml"
    ],
-   "newest": 1794285579000
+   "note": "news-sitemap.xml: HTTPError; news-sitemap.xml: HTTPError"
   },
   "bh": {
    "name": "Bhaskar",
@@ -49,17 +49,17 @@
    "sitemaps": [
     "https://www.bhaskar.com/sitemaps-v1--sitemap-google-news-index.xml"
    ],
-   "newest": 1795352427000
+   "newest": 1795381932000
   },
   "abp": {
    "name": "ABP Live",
    "ok": true,
-   "count": 540,
+   "count": 661,
    "sitemaps": [
     "https://www.abplive.com/news-sitemap.xml",
     "https://www.abplive.com/google-news-sitemap.xml"
    ],
-   "newest": 1795331890000
+   "newest": 1795361705000
   },
   "ndtv": {
    "name": "NDTV Hindi",
@@ -69,13 +69,13 @@
   "nbt": {
    "name": "Navbharat Times",
    "ok": true,
-   "count": 17191,
+   "count": 17331,
    "sitemaps": [
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-48hours.xml",
     "https://navbharattimes.indiatimes.com/news-sitemap.xml",
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-index.xml"
    ],
-   "newest": 1795332126000
+   "newest": 1795361682000
   }
  }
 }
