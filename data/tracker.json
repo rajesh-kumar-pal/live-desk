@@ -1,5 +1,5 @@
 {
- "lastRunAt": 1795382337434,
+ "lastRunAt": 1795421901740,
  "method": "GitHub Actions",
  "windowHours": 3.0,
  "kept": 80,
@@ -8,11 +8,11 @@
   "pat": {
    "name": "Patrika",
    "ok": true,
-   "count": 538,
+   "count": 529,
    "sitemaps": [
     "https://www.patrika.com/google-news-sitemap-v1.xml"
    ],
-   "newest": 1795381135000
+   "newest": 1795421379000
   },
   "au": {
    "name": "Amar Ujala",
@@ -26,11 +26,11 @@
   "at": {
    "name": "Aaj Tak",
    "ok": true,
-   "count": 549,
+   "count": 689,
    "sitemaps": [
     "https://www.aajtak.in/rssfeeds/news-sitemap.xml"
    ],
-   "newest": 1795381321000
+   "newest": 1795421747000
   },
   "zee": {
    "name": "Zee News Hindi",
@@ -45,21 +45,21 @@
   "bh": {
    "name": "Bhaskar",
    "ok": true,
-   "count": 1400,
+   "count": 700,
    "sitemaps": [
     "https://www.bhaskar.com/sitemaps-v1--sitemap-google-news-index.xml"
    ],
-   "newest": 1795397149000
+   "newest": 1795433691000
   },
   "abp": {
    "name": "ABP Live",
    "ok": true,
-   "count": 500,
+   "count": 516,
    "sitemaps": [
     "https://www.abplive.com/news-sitemap.xml",
     "https://www.abplive.com/google-news-sitemap.xml"
    ],
-   "newest": 1795373551000
+   "newest": 1795421637000
   },
   "ndtv": {
    "name": "NDTV Hindi",
@@ -69,13 +69,13 @@
   "nbt": {
    "name": "Navbharat Times",
    "ok": true,
-   "count": 17374,
+   "count": 17553,
    "sitemaps": [
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-48hours.xml",
     "https://navbharattimes.indiatimes.com/news-sitemap.xml",
     "https://navbharattimes.indiatimes.com/staticsitemap/nbt/news/sitemap-index.xml"
    ],
-   "newest": 1795374806000
+   "newest": 1795421771000
   }
  }
 }
