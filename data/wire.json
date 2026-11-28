@@ -1,239 +1,145 @@
 {
- "generatedAt": 1795806720607,
+ "generatedAt": 1795854539316,
  "items": [
   {
-   "id": "bh-rewari-police-traffic-drive-impound-vehicles-challan-update-139816581.html",
+   "id": "bh-bhaduruna-panchayat-samiti-up-pradhan-chunav-voting-update-139821447.html",
    "src": "bh",
    "pub": "Bhaskar",
-   "title": "रेवाड़ी में 4 घंटे की नाकाबंदी, 670 वाहनों के चालान: अनियमितता और दस्तावेजों की कमी पर 47 वाहन इंपाउंड, सबसे ज्यादा ट्रिपल राइडिंग पर शिकंजा",
-   "url": "https://www.bhaskar.com/local/haryana/rewari/news/rewari-police-traffic-drive-impound-vehicles-challan-update-139816581.html",
-   "t": 1795806680000,
-   "time": "00:41",
+   "title": "भादरूणा पंचायत समिति में आज उप प्रधान का चुनाव: कांग्रेस से गंगा देवी देवासी, भाजपा से पुनमा राम देवासी ने नामांकन किया; शाम तक नतीजे",
+   "url": "https://www.bhaskar.com/local/rajasthan/jalore/chitalwana/news/bhaduruna-panchayat-samiti-up-pradhan-chunav-voting-update-139821447.html",
+   "t": 1795855137000,
+   "time": "14:08",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.32,
+   "patrikaMatch": {
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
+   }
+  },
+  {
+   "id": "bh-sawai-madhopur-panchayat-samiti-up-pradhan-chunav-congress-jeet-139821437.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "जिले की 8 पंचायत समितियों में उपप्रधान के लिए नामांकन: सवाई माधोपुर में कांग्रेस की शमीम बानो और भाजपा की मोबिना मीणा मैदान में",
+   "url": "https://www.bhaskar.com/local/rajasthan/sawai-madhopur/news/sawai-madhopur-panchayat-samiti-up-pradhan-chunav-congress-jeet-139821437.html",
+   "t": 1795855036000,
+   "time": "14:07",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.23
+  },
+  {
+   "id": "bh-jabalpur-sub-station-operator-murder-patan-gajendra-singh-case-139821425.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "जबलपुर के पास BJP विधायक के साले की हत्या: हमलावरों ने पहले पीठ में गोली मारी, फिर सिर पर धारदार हथियार से हमला किया",
+   "url": "https://www.bhaskar.com/local/mp/jabalpur/news/jabalpur-sub-station-operator-murder-patan-gajendra-singh-case-139821425.html",
+   "t": 1795855000000,
+   "time": "14:06",
    "score": 11,
    "tags": [
     "MP",
-    "HINDI",
     "CRIME",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "bh-rajasthan-pradhan-election-results-hanuman-beniwal-bjp-congress-news-139816547.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "कांग्रेस-विधायक की पत्नी-बहू को टिकट नहीं मिला,BJP बिना बहुमत जीती: हार के डर से बेनीवाल ने बहन को नहीं लड़वाया प्रधान चुनाव; 3 परिवार हारे",
-   "url": "https://www.bhaskar.com/local/rajasthan/news/rajasthan-pradhan-election-results-hanuman-beniwal-bjp-congress-news-139816547.html",
-   "t": 1795806508000,
-   "time": "00:38",
-   "score": 7,
-   "tags": [
-    "RAJ",
-    "POL"
-   ],
-   "status": "GAP",
-   "match": 0.33,
-   "patrikaMatch": {
-    "title": "Nagaur Pradhan Result Live: नागौर में 8 पंचायतों में RLP के प्रधान, 4 सीटों पर कांग्रेस, भाजपा का नहीं खुला खाता",
-    "url": "https://www.patrika.com/nagaur-news/nagaur-pradhan-result-live-rlp-bjp-panchayat-samiti-election-2026-21093545"
-   }
-  },
-  {
-   "id": "nbt-136232163.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "राज्यसभा चुनाव विवाद में तीन सांसदों पर 1000-1000 रुपये का जुर्माना, हाईकोर्ट ने दिया अंतिम मौका",
-   "url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/jabalpur/meenakshi-natrajan-rajya-sabha-nomination-case-high-court-cost-3-mp/articleshow/136232163.cms",
-   "t": 1795806483000,
-   "time": "00:38",
-   "score": 6,
-   "tags": [
-    "MP",
-    "POL"
-   ],
-   "status": "GAP",
-   "match": 0.1
-  },
-  {
-   "id": "bh-kanpur-police-assault-chakeri-thana-bike-key-dispute-139816532.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "कानपुर में पुलिस और बाइक सवारों में मारपीट, 4 घायल: बाइकें टच होने पर विवाद हुआ; 2 युवक हिरासत में, एक फरार",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/kanpur/chakeri/news/kanpur-police-assault-chakeri-thana-bike-key-dispute-139816532.html",
-   "t": 1795806382000,
-   "time": "00:36",
-   "score": 5,
-   "tags": [
-    "HINDI",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.12
-  },
-  {
-   "id": "au-car-crashes-into-tree-and-turns-into-a-fireball-driver-dies-mainpuri-news-c-174-1-sagr1036-171790-2026-11-28",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Mainpuri News पेड़ से टकराई कार बनी आग का गोला, चालक की मौत",
-   "url": "https://www.amarujala.com/uttar-pradesh/mainpuri/car-crashes-into-tree-and-turns-into-a-fireball-driver-dies-mainpuri-news-c-174-1-sagr1036-171790-2026-11-28",
-   "t": 1795806183000,
-   "time": "00:33",
-   "score": 5,
-   "tags": [
-    "HINDI",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.33,
-   "patrikaMatch": {
-    "title": "कार चालक ही निकला लूट की वारदात का मास्टरमाइंड",
-    "url": "https://www.patrika.com/ratlam-news/the-car-driver-turned-out-to-be-the-mastermind-of-the-robbery-21096436"
-   }
-  },
-  {
-   "id": "au-cash-and-jewellery-stolen-from-the-house-bahraich-news-c-98-1-bhr1029-160880-2026-11-28",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Bahraich News घर से नकदी और जेवर चोरी",
-   "url": "https://www.amarujala.com/uttar-pradesh/bahraich/cash-and-jewellery-stolen-from-the-house-bahraich-news-c-98-1-bhr1029-160880-2026-11-28",
-   "t": 1795806159000,
-   "time": "00:32",
-   "score": 5,
-   "tags": [
-    "HINDI",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "au-bike-goes-out-of-control-after-rider-dozes-off-one-youth-killed-friendbike-goes-out-of-control-after-rider-dozes-off-one-youth-killed-friend-injured-injured-orai-news-c-224-1-ori1005-1530",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Jalaun News झपकी से बाइक बेकाबू, युवक की मौत, दोस्त घायल",
-   "url": "https://www.amarujala.com/uttar-pradesh/jalaun/bike-goes-out-of-control-after-rider-dozes-off-one-youth-killed-friendbike-goes-out-of-control-after-rider-dozes-off-one-youth-killed-friend-injured-injured-orai-news-c-224-1-ori1005-153093-2026-11-28",
-   "t": 1795806151000,
-   "time": "00:32",
-   "score": 5,
-   "tags": [
-    "HINDI",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.2
-  },
-  {
-   "id": "au-wires-from-seven-ac-units-stolen-from-tarawadi-community-health-centre-karnal-news-c-18-knl1018-1040094-2026-11-28",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Karnal News तरावड़ी सामुदायिक स्वास्थ्य केंद्र से सात एसी की तारें चोरी",
-   "url": "https://www.amarujala.com/haryana/karnal/wires-from-seven-ac-units-stolen-from-tarawadi-community-health-centre-karnal-news-c-18-knl1018-1040094-2026-11-28",
-   "t": 1795806135000,
-   "time": "00:32",
-   "score": 5,
-   "tags": [
-    "HINDI",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "au-additional-police-forces-will-be-deployed-in-highly-sensitive-areas-during-the-elections-sitapur-news-c-102-1-brp1007-168519-2026-11-28",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Sitapur News चुनाव में अतिसंवेदनशील क्षेत्रों में तैनात होगा अतिरिक्त पुलिस बल",
-   "url": "https://www.amarujala.com/uttar-pradesh/sitapur/additional-police-forces-will-be-deployed-in-highly-sensitive-areas-during-the-elections-sitapur-news-c-102-1-brp1007-168519-2026-11-28",
-   "t": 1795806112000,
-   "time": "00:31",
-   "score": 7,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "POL"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "au-short-circuit-causes-explosion-in-refrigerator-family-flees-to-safety-hamirpur-news-c-223-1-hmp1028-148201-2026-11-28",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Hamirpur News शॉर्ट-सर्किट से फ्रीज में धमाका, जान बचाकर भागा परिवार",
-   "url": "https://www.amarujala.com/uttar-pradesh/hamirpur/short-circuit-causes-explosion-in-refrigerator-family-flees-to-safety-hamirpur-news-c-223-1-hmp1028-148201-2026-11-28",
-   "t": 1795806052000,
-   "time": "00:30",
-   "score": 5,
-   "tags": [
-    "HINDI",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "au-a-special-train-will-run-from-azamgarh-for-the-ajmer-urs-fair-azamgarh-news-c-258-1-svns1002-161299-2026-11-28",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Azamgarh News अजमेर उर्स मेले के लिए आजमगढ़ से चलेगी विशेष ट्रेन",
-   "url": "https://www.amarujala.com/uttar-pradesh/azamgarh/a-special-train-will-run-from-azamgarh-for-the-ajmer-urs-fair-azamgarh-news-c-258-1-svns1002-161299-2026-11-28",
-   "t": 1795805958000,
-   "time": "00:29",
-   "score": 7,
-   "tags": [
-    "RAJ",
-    "HINDI"
-   ],
-   "status": "GAP",
-   "match": 0.31,
-   "patrikaMatch": {
-    "title": "काशी तमिल संगमम् के लिए विशेष ट्रेन रवाना",
-    "url": "https://www.patrika.com/chennai-news/special-train-launched-for-kashi-tamil-sangamam-prt-21094506"
-   }
-  },
-  {
-   "id": "au-60-year-old-accused-denied-bail-in-case-involving-rape-of-a-minor-bilaspur-news-c-92-1-ssml1001-172618-2026-11-28",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Bilaspur News नाबालिग से दुष्कर्म के मामले में 60 वर्षीय आरोपी को नहीं मिली जमानत",
-   "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/60-year-old-accused-denied-bail-in-case-involving-rape-of-a-minor-bilaspur-news-c-92-1-ssml1001-172618-2026-11-28",
-   "t": 1795805790000,
-   "time": "00:26",
-   "score": 6,
-   "tags": [
-    "CG",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.26
-  },
-  {
-   "id": "au-constable-rahul-dies-of-a-heart-attack-while-pursuing-a-wanted-suspect-mathura-news-c-412-1-mt21013-14241-2026-11-28",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Mathura News वांछित का पीछा करते सिपाही राहुल की हार्ट अटैक से मौत",
-   "url": "https://www.amarujala.com/uttar-pradesh/mathura/constable-rahul-dies-of-a-heart-attack-while-pursuing-a-wanted-suspect-mathura-news-c-412-1-mt21013-14241-2026-11-28",
-   "t": 1795805774000,
-   "time": "00:26",
-   "score": 9,
-   "tags": [
-    "HINDI",
-    "ACC",
     "POL",
     "WAR"
    ],
    "status": "GAP",
-   "match": 0.21
+   "match": 0.16
   },
   {
-   "id": "bh-rajasthan-top-news-headlines-bjp-congress-zila-pradhan-symbol-jaipur-double-murder-139816446.html",
+   "id": "bh-pugal-panchayat-samiti-up-pradhan-election-result-congress-update-139821422.html",
    "src": "bh",
    "pub": "Bhaskar",
-   "title": "राजस्थान दिनभर, 10 बड़ी खबरें: भाजपा-कांग्रेस ने एक ही प्रत्याशी को दिया सिंबल; महिला पर हथौड़े से किए 17 वार; बीजेपी के पंचायत-समिति सदस्यों पर हमला",
-   "url": "https://www.bhaskar.com/local/rajasthan/news/rajasthan-top-news-headlines-bjp-congress-zila-pradhan-symbol-jaipur-double-murder-139816446.html",
-   "t": 1795805756000,
-   "time": "00:25",
+   "title": "पूगल पंचायत समिति में आज उप प्रधान का चुनाव: कांग्रेस के पास बहुमत, भाजपा से शारदा देवी और कांग्रेस से कमला देवी ने नामांकन किया",
+   "url": "https://www.bhaskar.com/local/rajasthan/bikaner/pungal/news/pugal-panchayat-samiti-up-pradhan-election-result-congress-update-139821422.html",
+   "t": 1795854989000,
+   "time": "14:06",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.48,
+   "patrikaMatch": {
+    "title": "राजस्थान प्रधान चुनाव में बड़ा उलटफेर, 230 जगह बहुमत वाली कांग्रेस के बने 255 प्रधान, 6 जिलों में BJP का नहीं खुला खाता",
+    "url": "https://www.patrika.com/jaipur-news/rajasthan-pradhan-election-result-2026-congress-wins-255-panchayat-samiti-pradhan-posts-despite-majority-in-230-21096697"
+   }
+  },
+  {
+   "id": "bh-chitalwana-panchayat-samiti-up-pradhan-chunav-live-update-139821421.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "चितलवाना में कांग्रेस की मांगी देवी उप प्रधान बनीं: भाजपा से एक भी नामांकन दाखिल नहीं हुआ; प्रधान भी कांग्रेस की निर्विरोध निर्वाचित हुईं",
+   "url": "https://www.bhaskar.com/local/rajasthan/jalore/chitalwana/news/chitalwana-panchayat-samiti-up-pradhan-chunav-live-update-139821421.html",
+   "t": 1795854987000,
+   "time": "14:06",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.4,
+   "patrikaMatch": {
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
+   }
+  },
+  {
+   "id": "bh-churu-panchayat-samiti-up-pradhan-chunav-live-update-139821416.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "चूरू उत्तर पंचायत समिति में भंवरलाल कुल्हारी बने निर्विरोध उपप्रधान: बीजेपी के अलावा किसी ने नहीं भरा नामांकन",
+   "url": "https://www.bhaskar.com/local/rajasthan/churu/news/churu-panchayat-samiti-up-pradhan-chunav-live-update-139821416.html",
+   "t": 1795854956000,
+   "time": "14:05",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.23
+  },
+  {
+   "id": "bh-baap-panchayat-samiti-up-pradhan-chunav-live-update-139821413.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "बाप पंचायत समिति में उपप्रधान का चुनाव: कांग्रेस से सफियत और भाजपा से श्रवण कुमार ने किया नामांकन",
+   "url": "https://www.bhaskar.com/local/rajasthan/phalodi/kanasar/news/baap-panchayat-samiti-up-pradhan-chunav-live-update-139821413.html",
+   "t": 1795854917000,
+   "time": "14:05",
+   "score": 9,
+   "tags": [
+    "RAJ",
+    "POL",
+    "CRK"
+   ],
+   "status": "GAP",
+   "match": 0.33,
+   "patrikaMatch": {
+    "title": "चित्तौड़गढ़ पंचायत समिति चुनाव: ‘किंगमेकर’ रही शंकरीबाई ने पलट दिया पूरा गेम, जानें कौन जीता",
+    "url": "https://www.patrika.com/chittorgarh-news/chittorgarh-panchayat-samiti-election-result-2026-shankari-bai-kingmaker-bhanwar-singh-pradhan-21098091"
+   }
+  },
+  {
+   "id": "bh-bhilwara-panchayat-samiti-up-pradhan-chunav-voting-result-update-139821410.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "खजूरी में भाजपा विधायक और एसपी में नोक-झोंक: कल प्रत्याशियों की बस में हुई तोड़ फोड़ की जांच के लिए पहुंची थी पुलिस",
+   "url": "https://www.bhaskar.com/local/rajasthan/bhilwara/news/bhilwara-panchayat-samiti-up-pradhan-chunav-voting-result-update-139821410.html",
+   "t": 1795854867000,
+   "time": "14:04",
    "score": 12,
    "tags": [
     "RAJ",
@@ -242,675 +148,40 @@
     "WAR"
    ],
    "status": "GAP",
-   "match": 0.38,
+   "match": 0.3,
    "patrikaMatch": {
-    "title": "Jhunjhunu Pradhan Result Live: झुंझुनूं में भाजपा को बड़ा झटका, 12 पंचायत समितियों में कांग्रेस के प्रधान, दो सीटों पर सिमटी बीजेपी",
-    "url": "https://www.patrika.com/jhunjhunu-news/jhunjhunu-pradhan-result-live-congress-winners-2026-21094703"
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
    }
   },
   {
-   "id": "au-demand-for-the-installation-of-cctv-cameras-addressed-to-the-municipality-yamuna-nagar-news-c-246-1-sknl1023-166759-2026-11-28",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Yamuna Nagar News नगर पालिका से सीसीटीवी कैमरे लगवाने की मांग",
-   "url": "https://www.amarujala.com/haryana/yamuna-nagar/demand-for-the-installation-of-cctv-cameras-addressed-to-the-municipality-yamuna-nagar-news-c-246-1-sknl1023-166759-2026-11-28",
-   "t": 1795805733000,
-   "time": "00:25",
-   "score": 7,
-   "tags": [
-    "RAJ",
-    "HINDI"
-   ],
-   "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "au-mla-slp-gajipur-sultanpur-news-c-103-1-slko1047-170259-2026-11-28",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Sultanpur News गाजीपुर विधायक के गनर हत्याकांड में गवाह गैरहाजिर",
-   "url": "https://www.amarujala.com/uttar-pradesh/sultanpur/mla-slp-gajipur-sultanpur-news-c-103-1-slko1047-170259-2026-11-28",
-   "t": 1795805599000,
-   "time": "00:23",
-   "score": 7,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "POL"
-   ],
-   "status": "GAP",
-   "match": 0.18
-  },
-  {
-   "id": "au-elder-brother-attacked-with-a-stone-during-a-panchayat-convened-to-resolve-a-land-dispute-bilaspur-news-c-92-1-ssml1001-172638-2026-11-28",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Bilaspur News जमीन विवाद सुलझाने को बुलाई पंचायत में बड़े भाई पर पत्थर से हमला",
-   "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/elder-brother-attacked-with-a-stone-during-a-panchayat-convened-to-resolve-a-land-dispute-bilaspur-news-c-92-1-ssml1001-172638-2026-11-28",
-   "t": 1795805568000,
-   "time": "00:22",
-   "score": 7,
-   "tags": [
-    "CG",
-    "POL",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.12
-  },
-  {
-   "id": "au-up-police-constable-dies-of-a-heart-attack-during-an-investigation-gurgaon-news-c-24-1-fbd1020-108676-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Gurugram News जांच के दौरान यूपी पुलिस के सिपाही की हार्ट अटैक से मौत",
-   "url": "https://www.amarujala.com/delhi-ncr/gurgaon/up-police-constable-dies-of-a-heart-attack-during-an-investigation-gurgaon-news-c-24-1-fbd1020-108676-2026-11-27",
-   "t": 1795805216000,
-   "time": "00:16",
-   "score": 8,
-   "tags": [
-    "CRIME",
-    "ACC",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.22
-  },
-  {
-   "id": "bh-ratlam-kalukheda-student-accident-death-tanker-bike-collision-139816313.html",
+   "id": "bh-arai-panchayat-samiti-up-pradhan-election-result-live-update-139821409.html",
    "src": "bh",
    "pub": "Bhaskar",
-   "title": "टैंकर-बाइक की भिड़ंत में 10वीं के 2 छात्रों की मौत: रतलाम में मालिक और ड्राइवर गिरफ्तार; 3 घंटे से ज्यादा देर तक सड़क पर बैठे परिजन",
-   "url": "https://www.bhaskar.com/local/mp/ratlam/news/ratlam-kalukheda-student-accident-death-tanker-bike-collision-139816313.html",
-   "t": 1795805035000,
-   "time": "00:13",
-   "score": 6,
-   "tags": [
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.2
-  },
-  {
-   "id": "nbt-136231569.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "कार छोड़ बैलगाड़ी पर सवार होकर गांव पहुंचे ‘धर्मशाला वाले बाबा’, विधायक बालकृष्ण पाटीदार ने खुद थामी बैलों की कमान",
-   "url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/khargone/balakrishna-patidar-bullock-cart-ride-dharamshala-wale-baba/articleshow/136231569.cms",
-   "t": 1795804741000,
-   "time": "00:09",
-   "score": 6,
-   "tags": [
-    "MP",
-    "POL"
-   ],
-   "status": "GAP",
-   "match": 0.12
-  },
-  {
-   "id": "au-minister-performs-puja-for-the-reconstruction-of-250-year-old-hanumangarhi-temple-varanasi-news-c-20-vns1021-1631428-2026-11-28",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Varanasi News 250 वर्ष पुराने हनुमानगढ़ी मंदिर के नवनिर्माण के लिए मंत्री ने की पूजा",
-   "url": "https://www.amarujala.com/uttar-pradesh/varanasi/minister-performs-puja-for-the-reconstruction-of-250-year-old-hanumangarhi-temple-varanasi-news-c-20-vns1021-1631428-2026-11-28",
-   "t": 1795804636000,
-   "time": "00:07",
+   "title": "अराई पंचायत समिति में उपप्रधान का चुनाव जारी: भाजपा से न्याला और आरएलपी से राकेश भरा नामांकन, शाम तक नतीजे आएंगे",
+   "url": "https://www.bhaskar.com/local/rajasthan/ajmer/araai/news/arai-panchayat-samiti-up-pradhan-election-result-live-update-139821409.html",
+   "t": 1795854863000,
+   "time": "14:04",
    "score": 7,
    "tags": [
     "RAJ",
-    "HINDI"
-   ],
-   "status": "GAP",
-   "match": 0.12
-  },
-  {
-   "id": "au-riot-control-exercise-at-the-police-lines-ahead-of-the-assembly-elections-firozabad-news-c-169-1-mt11005-191994-2026-11-28",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Firozabad News विधानसभा चुनाव से पहले पुलिस लाइन में दंगा नियंत्रण अभ्यास",
-   "url": "https://www.amarujala.com/uttar-pradesh/firozabad/riot-control-exercise-at-the-police-lines-ahead-of-the-assembly-elections-firozabad-news-c-169-1-mt11005-191994-2026-11-28",
-   "t": 1795804388000,
-   "time": "00:03",
-   "score": 7,
-   "tags": [
-    "HINDI",
-    "CRIME",
     "POL"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "au-siddharthnagar-news-nepali-citizens-living-abroad-should-also-be-granted-the-right-to-vote-siddharthnagar-news-c-227-1-sdn1035-168872-2026-11-28",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Siddharthnagar News विदेश में रहने वाले नेपाली नागरिकों को भी मिले मतदान का अधिकार",
-   "url": "https://www.amarujala.com/uttar-pradesh/siddharthnagar/siddharthnagar-news-nepali-citizens-living-abroad-should-also-be-granted-the-right-to-vote-siddharthnagar-news-c-227-1-sdn1035-168872-2026-11-28",
-   "t": 1795804356000,
-   "time": "00:02",
-   "score": 7,
-   "tags": [
-    "RAJ",
-    "HINDI"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "bh-mathura-baldeo-jashodaben-modi-dauji-maharaj-mandir-visit-darshan-139816203.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "मथुरा में युवा मतदाता बनेंगे लोकतंत्र की नई ताकत: डीएम ने विद्यार्थियों से की मतदाता बनने की अपील",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/mathura/news/mathura-baldeo-jashodaben-modi-dauji-maharaj-mandir-visit-darshan-139816203.html",
-   "t": 1795804206000,
-   "time": "00:00",
-   "score": 6,
-   "tags": [
-    "HINDI",
-    "POL",
-    "CRK"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "au-wife-had-her-clerk-husband-murdered-by-her-lover-three-convicts-including-the-wife-sentenced-to-life-imprisonment-rewari-news-c-198-1-rew1001-249417-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News प्रेमी से कराई थी क्लर्क पति की हत्या, पत्नी समेत तीन दोषियों को उम्रकैद",
-   "url": "https://www.amarujala.com/haryana/rewari/wife-had-her-clerk-husband-murdered-by-her-lover-three-convicts-including-the-wife-sentenced-to-life-imprisonment-rewari-news-c-198-1-rew1001-249417-2026-11-27",
-   "t": 1795804047000,
-   "time": "23:57",
-   "score": 11,
-   "tags": [
-    "MP",
-    "HINDI",
-    "CRIME",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.31,
-   "patrikaMatch": {
-    "title": "Crime News: धमतरी में खाना बनाने को लेकर हुआ विवाद, पति ने पत्नी की कर दी हत्या",
-    "url": "https://www.patrika.com/dhamtari-news/dhamtari-husband-kills-wife-over-cooking-dispute-21095107"
-   }
-  },
-  {
-   "id": "au-teenager-stabbed-to-death-following-a-dispute-over-dancing-to-dj-music-gonda-news-c-100-1-slko1026-170650-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Gonda News डीजे पर नाचने के विवाद में किशोर की चाकू घोंपकर हत्या",
-   "url": "https://www.amarujala.com/uttar-pradesh/gonda/teenager-stabbed-to-death-following-a-dispute-over-dancing-to-dj-music-gonda-news-c-100-1-slko1026-170650-2026-11-27",
-   "t": 1795803982000,
-   "time": "23:56",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.25
-  },
-  {
-   "id": "au-owner-dies-from-electric-shock-while-rushing-to-save-a-calf-rewari-news-c-198-1-rew1001-249425-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News कटड़ी को बचाने दौड़ी मालकिन की करंट लगने से मौत",
-   "url": "https://www.amarujala.com/haryana/rewari/owner-dies-from-electric-shock-while-rushing-to-save-a-calf-rewari-news-c-198-1-rew1001-249425-2026-11-27",
-   "t": 1795803891000,
-   "time": "23:54",
-   "score": 11,
-   "tags": [
-    "MP",
-    "HINDI",
-    "ACC",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.12
-  },
-  {
-   "id": "au-flaws-discovered-in-the-construction-of-the-legacy-west-site-construction-agency-to-be-blacklisted-rewari-news-c-198-1-rew1001-249431-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News लेगेसी वेस्ट स्थल के निर्माण में मिलीं खामियां, निर्माण एजेंसी होगी ब्लैकलिस्ट",
-   "url": "https://www.amarujala.com/haryana/rewari/flaws-discovered-in-the-construction-of-the-legacy-west-site-construction-agency-to-be-blacklisted-rewari-news-c-198-1-rew1001-249431-2026-11-27",
-   "t": 1795803805000,
-   "time": "23:53",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "au-670-motorists-fined-and-47-vehicles-impounded-during-a-four-hour-special-drive-rewari-news-c-198-1-rew1001-249434-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News चार घंटे के विशेष अभियान में 670 वाहन चालकों के चालान, 47 वाहन जब्त",
-   "url": "https://www.amarujala.com/haryana/rewari/670-motorists-fined-and-47-vehicles-impounded-during-a-four-hour-special-drive-rewari-news-c-198-1-rew1001-249434-2026-11-27",
-   "t": 1795803712000,
-   "time": "23:51",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.15
-  },
-  {
-   "id": "au-councilors-expressed-opposition-to-changes-in-the-sanitation-system-rewari-news-c-198-1-rew1001-249446-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News सफाई व्यवस्था में बदलाव पर पार्षदों ने जताया विरोध",
-   "url": "https://www.amarujala.com/haryana/rewari/councilors-expressed-opposition-to-changes-in-the-sanitation-system-rewari-news-c-198-1-rew1001-249446-2026-11-27",
-   "t": 1795803620000,
-   "time": "23:50",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.07
-  },
-  {
-   "id": "au-two-youths-on-a-motorcycle-arrested-with-126-grams-of-chitta-synthetic-drug-bilaspur-news-c-92-1-ssml1001-172625-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Bilaspur News बाइक सवार दो युवक 12.6 ग्राम चिट्टे के साथ गिरफ्तार",
-   "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/two-youths-on-a-motorcycle-arrested-with-126-grams-of-chitta-synthetic-drug-bilaspur-news-c-92-1-ssml1001-172625-2026-11-27",
-   "t": 1795803569000,
-   "time": "23:49",
-   "score": 6,
-   "tags": [
-    "CG",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "au-leaders-have-been-in-power-yet-there-are-no-libraries-in-the-villages-beniwal-raises-questions-jind-news-c-199-1-sroh1006-164506-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Jind News सत्ता में रहे नेता, फिर भी गांवों में लाइब्रेरी नहीं; बेनीवाल ने उठाए सवाल",
-   "url": "https://www.amarujala.com/haryana/jind/leaders-have-been-in-power-yet-there-are-no-libraries-in-the-villages-beniwal-raises-questions-jind-news-c-199-1-sroh1006-164506-2026-11-27",
-   "t": 1795803530000,
-   "time": "23:48",
-   "score": 7,
-   "tags": [
-    "RAJ",
-    "HINDI"
-   ],
-   "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "au-work-on-the-bilaspur-chowk-flyover-is-in-its-final-stage-rewari-news-c-198-1-rew1010-249400-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News बिलासपुर चौक फ्लाईओवर का काम अंतिम चरण में",
-   "url": "https://www.amarujala.com/haryana/rewari/work-on-the-bilaspur-chowk-flyover-is-in-its-final-stage-rewari-news-c-198-1-rew1010-249400-2026-11-27",
-   "t": 1795803506000,
-   "time": "23:48",
-   "score": 11,
-   "tags": [
-    "MP",
-    "CG",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.07
-  },
-  {
-   "id": "au-uproar-over-death-of-daily-wage-electrical-worker-villagers-take-to-the-streets-sultanpur-news-c-103-1-slko1047-170257-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Sultanpur News दिलीप चौहान हत्याकांड में आरोपी शुभम ने किया समर्पण",
-   "url": "https://www.amarujala.com/uttar-pradesh/sultanpur/uproar-over-death-of-daily-wage-electrical-worker-villagers-take-to-the-streets-sultanpur-news-c-103-1-slko1047-170257-2026-11-27",
-   "t": 1795803412000,
-   "time": "23:46",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.07
-  },
-  {
-   "id": "au-rs-177-crore-missing-from-zila-parishad-and-block-samiti-accounts-rewari-news-c-198-1-rew1001-249445-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News जिला परिषद और ब्लॉक समिति के खाते से 1.77 करोड़ गायब, मुख्यालय स्तर पर जांच शुरू",
-   "url": "https://www.amarujala.com/haryana/rewari/rs-177-crore-missing-from-zila-parishad-and-block-samiti-accounts-rewari-news-c-198-1-rew1001-249445-2026-11-27",
-   "t": 1795803404000,
-   "time": "23:46",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "au-dense-fog-expected-in-the-district-until-tomorrow-rewari-news-c-198-1-rew1001-249441-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News जिले में कल तक घने कोहरा छाने के आसार",
-   "url": "https://www.amarujala.com/haryana/rewari/dense-fog-expected-in-the-district-until-tomorrow-rewari-news-c-198-1-rew1001-249441-2026-11-27",
-   "t": 1795803315000,
-   "time": "23:45",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.15
-  },
-  {
-   "id": "au-electricity-connection-disconnected-due-to-outstanding-bills-rewari-news-c-198-1-rew1001-249433-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News बिल बकाया होने पर काटा बिजली कनेक्शन",
-   "url": "https://www.amarujala.com/haryana/rewari/electricity-connection-disconnected-due-to-outstanding-bills-rewari-news-c-198-1-rew1001-249433-2026-11-27",
-   "t": 1795803241000,
-   "time": "23:44",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.14
-  },
-  {
-   "id": "au-safety-of-a-50-km-highway-rests-on-a-single-ambulance-patrolling-takes-six-hours-rewari-news-c-198-1-rew1001-249432-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News पचास किमी हाईवे की सुरक्षा एक एंबुलेंस के भरोसे, छह घंटे में होती है पेट्रोलिंग",
-   "url": "https://www.amarujala.com/haryana/rewari/safety-of-a-50-km-highway-rests-on-a-single-ambulance-patrolling-takes-six-hours-rewari-news-c-198-1-rew1001-249432-2026-11-27",
-   "t": 1795803172000,
-   "time": "23:42",
-   "score": 10,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR",
-    "MONEY"
-   ],
-   "status": "GAP",
-   "match": 0.1
-  },
-  {
-   "id": "au-three-transformers-stolen-in-one-night-rewari-news-c-198-1-rew1010-249392-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News एक ही रात में तीन ट्रांसफार्मर चोरी",
-   "url": "https://www.amarujala.com/haryana/rewari/three-transformers-stolen-in-one-night-rewari-news-c-198-1-rew1010-249392-2026-11-27",
-   "t": 1795803111000,
-   "time": "23:41",
-   "score": 11,
-   "tags": [
-    "MP",
-    "HINDI",
-    "CRIME",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.18
-  },
-  {
-   "id": "nbt-136229434.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "भोजपुरी गायिका नेहा सिंह राठौर के गीतों पर जमकर झूमे पूर्व सीएम दिग्विजय सिंह, ओरछा में दिखा अलग अंदाज",
-   "url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/niwari/neha-singh-rathore-bhojpuri-song-digvijay-singh-dance-orchha-yatra/articleshow/136229434.cms",
-   "t": 1795803061000,
-   "time": "23:41",
-   "score": 6,
-   "tags": [
-    "MP",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.07
-  },
-  {
-   "id": "au-the-family-of-the-ex-serviceman-will-receive-rs-48-lakh-as-compensation-following-his-death-rewari-news-c-198-1-rew1001-249403-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News पूर्व सैनिक की मौत पर परिवार को 48 लाख रुपये मुआवजा मिलेगा",
-   "url": "https://www.amarujala.com/haryana/rewari/the-family-of-the-ex-serviceman-will-receive-rs-48-lakh-as-compensation-following-his-death-rewari-news-c-198-1-rew1001-249403-2026-11-27",
-   "t": 1795803057000,
-   "time": "23:40",
-   "score": 11,
-   "tags": [
-    "MP",
-    "HINDI",
-    "ACC",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "au-demand-for-changes-to-obc-creamy-layer-and-reservation-rules-rewari-news-c-198-1-fth1001-249396-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News ओबीसी क्रीमीलेयर और आरक्षण नियमों में बदलाव की मांग",
-   "url": "https://www.amarujala.com/haryana/rewari/demand-for-changes-to-obc-creamy-layer-and-reservation-rules-rewari-news-c-198-1-fth1001-249396-2026-11-27",
-   "t": 1795803010000,
-   "time": "23:40",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.14
-  },
-  {
-   "id": "au-motorbike-crashes-into-car-parked-in-a-no-parking-zone-father-dies-son-injured-hapur-news-c-306-1-gha1001-125063-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Hapur News नो-पार्किंग में खड़ी कार से टकराई बाइक, पिता की मौत, बेटा घायल",
-   "url": "https://www.amarujala.com/uttar-pradesh/hapur/motorbike-crashes-into-car-parked-in-a-no-parking-zone-father-dies-son-injured-hapur-news-c-306-1-gha1001-125063-2026-11-27",
-   "t": 1795802969000,
-   "time": "23:39",
-   "score": 7,
-   "tags": [
-    "HINDI",
-    "ACC",
-    "MONEY"
-   ],
-   "status": "GAP",
-   "match": 0.2
-  },
-  {
-   "id": "au-woman-killed-after-being-struck-by-purbia-express-identity-established-hapur-news-c-306-1-gha1001-125058-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Hapur News पुरबिया एक्सप्रेस की चपेट में आने से महिला की मौत, हुई शिनाख्त",
-   "url": "https://www.amarujala.com/uttar-pradesh/hapur/woman-killed-after-being-struck-by-purbia-express-identity-established-hapur-news-c-306-1-gha1001-125058-2026-11-27",
-   "t": 1795802918000,
-   "time": "23:38",
-   "score": 7,
-   "tags": [
-    "HINDI",
-    "ACC",
-    "MONEY"
-   ],
-   "status": "GAP",
-   "match": 0.12
-  },
-  {
-   "id": "au-sms-messages-are-being-sent-to-citizens-regarding-54-points-related-to-their-family-id-rewari-news-c-198-1-fth1001-249395-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News फैमिली आईडी से जुड़े 54 बिंदुओं पर नागरिकों को भेजे जा रहे एसएमएस",
-   "url": "https://www.amarujala.com/haryana/rewari/sms-messages-are-being-sent-to-citizens-regarding-54-points-related-to-their-family-id-rewari-news-c-198-1-fth1001-249395-2026-11-27",
-   "t": 1795802910000,
-   "time": "23:38",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "at-cm-mohan-yadav-orders-suspension-of-industry-department-official-for-negligence-lcln-dskc-2708202-2026-11-27",
-   "src": "at",
-   "pub": "Aaj Tak",
-   "title": "देवास में CM मोहन यादव का 'ऑन द स्पॉट' एक्शन, उद्योग विभाग के GM सस्पेंड; एक ठेकेदार पर 10 लाख का जुर्माना",
-   "url": "https://www.aajtak.in/madhya-pradesh/story/cm-mohan-yadav-orders-suspension-of-industry-department-official-for-negligence-lcln-dskc-2708202-2026-11-27",
-   "t": 1795802752000,
-   "time": "23:35",
-   "score": 6,
-   "tags": [
-    "MP",
-    "POL"
-   ],
-   "status": "COVERED",
-   "match": 0.56,
-   "patrikaMatch": {
-    "title": "सीएम मोहन यादव का सख्त एक्शन, देवास के महाप्रबंधक सस्पेंड; ठेकेदार पर 10 लाख जुर्माना",
-    "url": "https://www.patrika.com/dewas-news/cm-mohan-yadav-action-officer-suspended-contractor-fine-21096352"
-   }
-  },
-  {
-   "id": "au-additional-coaches-will-be-added-to-trains-passing-through-rewari-in-december-rewari-news-c-198-1-rew1001-249421-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News दिसंबर में रेवाड़ी से गुजरने वाली ट्रेनों में बढ़ेंगे अतिरिक्त डिब्बे",
-   "url": "https://www.amarujala.com/haryana/rewari/additional-coaches-will-be-added-to-trains-passing-through-rewari-in-december-rewari-news-c-198-1-rew1001-249421-2026-11-27",
-   "t": 1795802744000,
-   "time": "23:35",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.15
-  },
-  {
-   "id": "bh-lucknow-mohanlalganj-girl-suicide-case-bindauwa-village-death-139815991.html",
-   "src": "bh",
-   "pub": "Bhaskar",
-   "title": "लखनऊ में किशोरी ने फंदा लगाकर सुसाइड किया: दुपट्टे के सहारे कमरे में लटकी मिली, पोस्टमॉर्टम के लिए भेजा शव",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/lucknow-mohanlalganj-girl-suicide-case-bindauwa-village-death-139815991.html",
-   "t": 1795802731000,
-   "time": "23:35",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.12
-  },
-  {
-   "id": "au-demand-for-dry-fruits-has-risen-with-the-onset-of-colder-weather-rewari-news-c-198-1-fth1001-249394-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News ठंड बढ़ते ही ड्राई फ्रूट्स की मांग बढ़ी",
-   "url": "https://www.amarujala.com/haryana/rewari/demand-for-dry-fruits-has-risen-with-the-onset-of-colder-weather-rewari-news-c-198-1-fth1001-249394-2026-11-27",
-   "t": 1795802681000,
-   "time": "23:34",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.12
-  },
-  {
-   "id": "au-financial-assistance-of-rs-7456-lakh-provided-to-45-victims-rewari-news-c-198-1-rew1001-249420-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News 45 पीड़ितों को 74.56 लाख रुपये की दी आर्थिक सहायता",
-   "url": "https://www.amarujala.com/haryana/rewari/financial-assistance-of-rs-7456-lakh-provided-to-45-victims-rewari-news-c-198-1-rew1001-249420-2026-11-27",
-   "t": 1795802636000,
-   "time": "23:33",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.17
-  },
-  {
-   "id": "au-upload-the-action-taken-on-complaints-city-magistrate-rewari-news-c-198-1-rew1001-249413-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "शिकायत की कार्रवाई करें अपलोड नगराधीश",
-   "url": "https://www.amarujala.com/haryana/rewari/upload-the-action-taken-on-complaints-city-magistrate-rewari-news-c-198-1-rew1001-249413-2026-11-27",
-   "t": 1795802591000,
-   "time": "23:33",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.15
-  },
-  {
-   "id": "nbt-136230486.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "पाकिस्तान ए ने कटाया फाइनल का टिकट, बांग्लादेश को सेमीफाइनल में दिखाया बाहर का रास्ता, अब श्रीलंका से सामना",
-   "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/pakistan-a-beat-bangladesh-a-by-5-wickets-reached-final-of-asia-cup-rising-stars/articleshow/136230486.cms",
-   "t": 1795802580000,
-   "time": "23:33",
-   "score": 6,
-   "tags": [
-    "WAR",
-    "CRK",
-    "MONEY"
    ],
    "status": "GAP",
    "match": 0.36,
    "patrikaMatch": {
-    "title": "PAK A vs BAN A: लगातार तीसरी बार फाइनल में पहुंचा पाकिस्तान, बांग्लादेश को सेमीफाइनल में 6 विकेट से रौंदा",
-    "url": "https://www.patrika.com/cricket-news/pak-a-reach-in-rising-stars-asia-cup-2026-final-beats-bangladesh-a-by-5-wickets-21096619"
+    "title": "चित्तौड़गढ़ पंचायत समिति चुनाव: ‘किंगमेकर’ रही शंकरीबाई ने पलट दिया पूरा गेम, जानें कौन जीता",
+    "url": "https://www.patrika.com/chittorgarh-news/chittorgarh-panchayat-samiti-election-result-2026-shankari-bai-kingmaker-bhanwar-singh-pradhan-21098091"
    }
   },
   {
-   "id": "bh-lucknow-kaushambi-colony-accident-child-death-fortuner-arrest-139815964.html",
+   "id": "bh-kaithal-kalayat-accident-scorpio-motorcycle-collision-death-update-139821408.html",
    "src": "bh",
    "pub": "Bhaskar",
-   "title": "लखनऊ में फॉर्च्यूनर ने 7 महीने की मासूम को कुचला: पिता वॉकर में टहला रहे थे, 20 साल की मन्नतों के बाद हुई थी",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/lucknow-kaushambi-colony-accident-child-death-fortuner-arrest-139815964.html",
-   "t": 1795802569000,
-   "time": "23:32",
+   "title": "जजपा नेता की स्कॉर्पियो ने पिता-पुत्र समेत 3 को कुचला: पहले टक्कर मार सड़क पर गिराया, फिर ऊपर चढ़ाई; कैथल पुलिस कर रही तलाश",
+   "url": "https://www.bhaskar.com/local/haryana/kaithal/news/kaithal-kalayat-accident-scorpio-motorcycle-collision-death-update-139821408.html",
+   "t": 1795854860000,
+   "time": "14:04",
    "score": 8,
    "tags": [
     "HINDI",
@@ -918,480 +189,425 @@
     "ACC"
    ],
    "status": "GAP",
-   "match": 0.18
-  },
-  {
-   "id": "au-names-can-be-added-to-the-voter-list-until-the-30th-rewari-news-c-198-1-rew1001-249411-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News मतदाता सूची में 30 तक जुड़वा सकेंगे नाम",
-   "url": "https://www.amarujala.com/haryana/rewari/names-can-be-added-to-the-voter-list-until-the-30th-rewari-news-c-198-1-rew1001-249411-2026-11-27",
-   "t": 1795802544000,
-   "time": "23:32",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
    "match": 0.14
   },
   {
-   "id": "au-condolences-expressed-on-the-passing-of-the-former-minister-rewari-news-c-198-1-rew1001-249410-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News पूर्व मंत्री के निधन पर जताया शोक",
-   "url": "https://www.amarujala.com/haryana/rewari/condolences-expressed-on-the-passing-of-the-former-minister-rewari-news-c-198-1-rew1001-249410-2026-11-27",
-   "t": 1795802522000,
-   "time": "23:32",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.17
-  },
-  {
-   "id": "au-construct-speed-breakers-at-the-school-gate-dc-rewari-news-c-198-1-rew1001-249412-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "विद्यालय के गेट पर बनवाएं स्पीड ब्रेकर डीसी",
-   "url": "https://www.amarujala.com/haryana/rewari/construct-speed-breakers-at-the-school-gate-dc-rewari-news-c-198-1-rew1001-249412-2026-11-27",
-   "t": 1795802423000,
-   "time": "23:30",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.15
-  },
-  {
-   "id": "nbt-136230149.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "ये होते हैं असली साधु, CM, मंत्री नंगे पैर हाथ जोड़े खड़े रहे, भेंट दी, संत ने देखा तक नहीं, 30 सालों से हैं मौन",
-   "url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/khandwa/cm-mohan-yadav-visits-to-seek-blessings-of-saint-sukhdev-muni-vow-of-silence-for-30-years/articleshow/136230149.cms",
-   "t": 1795802359000,
-   "time": "23:29",
-   "score": 6,
-   "tags": [
-    "MP",
-    "POL"
-   ],
-   "status": "GAP",
-   "match": 0.19
-  },
-  {
-   "id": "au-leaders-mourn-former-mlas-death-kaithal-news-c-245-1-kht1013-158512-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Kaithal News पूर्व विधायक के निधन पर नेताओं ने जताया शोक",
-   "url": "https://www.amarujala.com/haryana/kaithal/leaders-mourn-former-mlas-death-kaithal-news-c-245-1-kht1013-158512-2026-11-27",
-   "t": 1795802191000,
-   "time": "23:26",
-   "score": 7,
-   "tags": [
-    "HINDI",
-    "ACC",
-    "POL"
-   ],
-   "status": "GAP",
-   "match": 0.15
-  },
-  {
-   "id": "au-20000-students-from-government-schools-are-learning-the-tricks-of-entrepreneurship-rewari-news-c-198-1-fth1001-249391-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News सरकारी स्कूलों के 20 हजार विद्यार्थी सीख रहे उद्यमिता के गुर",
-   "url": "https://www.amarujala.com/haryana/rewari/20000-students-from-government-schools-are-learning-the-tricks-of-entrepreneurship-rewari-news-c-198-1-fth1001-249391-2026-11-27",
-   "t": 1795802149000,
-   "time": "23:25",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.14
-  },
-  {
-   "id": "au-video-on-the-third-day-a-jcb-rumbled-toward-sungadhi-police-station-from-chhatri-square-demolishing-illegal-platforms-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "तीसरे दिन छतरी चौराहे से सुनगढ़ी थाने की ओर गरजी जेसीबी, अवैध चबूतरे किए ध्वस्त",
-   "url": "https://www.amarujala.com/video/uttar-pradesh/pilibhit/video-on-the-third-day-a-jcb-rumbled-toward-sungadhi-police-station-from-chhatri-square-demolishing-illegal-platforms-2026-11-27",
-   "t": 1795802112000,
-   "time": "23:25",
-   "score": 7,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.14
-  },
-  {
-   "id": "au-information-provided-on-how-to-protect-against-cyber-fraud-rewari-news-c-198-1-fth1001-249390-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News साइबर ठगी से बचाव की दी गई जानकारी",
-   "url": "https://www.amarujala.com/haryana/rewari/information-provided-on-how-to-protect-against-cyber-fraud-rewari-news-c-198-1-fth1001-249390-2026-11-27",
-   "t": 1795802081000,
-   "time": "23:24",
-   "score": 11,
-   "tags": [
-    "MP",
-    "HINDI",
-    "CRIME",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.31,
-   "patrikaMatch": {
-    "title": "पुणे में साइबर ठगों का बड़ा खेल! कंपनी मालिक बनकर 30 लाख की ठगी, 82 साल के बुजुर्ग को लगाया 24.64 लाख का चूना",
-    "url": "https://www.patrika.com/mumbai-news/pune-cyber-fraud-30-lakh-whatsapp-24-lakh-forex-trading-scam-21094912"
-   }
-  },
-  {
-   "id": "au-youth-dies-under-suspicious-circumstances-body-found-hanging-from-a-neem-tree-shahjahanpur-news-c-122-1-spn1004-191138-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Shahjahanpur News युवक की संदिग्ध हालात में मौत, नीम के पेड़ से लटका मिला शव",
-   "url": "https://www.amarujala.com/uttar-pradesh/shahjahanpur/youth-dies-under-suspicious-circumstances-body-found-hanging-from-a-neem-tree-shahjahanpur-news-c-122-1-spn1004-191138-2026-11-27",
-   "t": 1795802058000,
-   "time": "23:24",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.2
-  },
-  {
-   "id": "au-female-students-were-provided-with-information-about-the-pocso-act-rewari-news-c-198-1-fth1001-249398-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News छात्राओं को पॉक्सो एक्ट की दी जानकारी",
-   "url": "https://www.amarujala.com/haryana/rewari/female-students-were-provided-with-information-about-the-pocso-act-rewari-news-c-198-1-fth1001-249398-2026-11-27",
-   "t": 1795802046000,
-   "time": "23:24",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.07
-  },
-  {
-   "id": "au-114-out-of-165-students-were-selected-at-the-job-fair-rewari-news-c-198-1-fth1001-249401-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News रोजगार मेले में 165 में से 114 विद्यार्थियों का किया गया चयन",
-   "url": "https://www.amarujala.com/haryana/rewari/114-out-of-165-students-were-selected-at-the-job-fair-rewari-news-c-198-1-fth1001-249401-2026-11-27",
-   "t": 1795801992000,
-   "time": "23:23",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.17
-  },
-  {
-   "id": "au-cycle-rally-tomorrow-to-raise-awareness-against-drug-abuse-rewari-news-c-198-1-rew1001-249414-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News नशे के खिलाफ जागरूकता के लिए साइकिल रैली कल",
-   "url": "https://www.amarujala.com/haryana/rewari/cycle-rally-tomorrow-to-raise-awareness-against-drug-abuse-rewari-news-c-198-1-rew1001-249414-2026-11-27",
-   "t": 1795801952000,
-   "time": "23:22",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.13
-  },
-  {
-   "id": "au-husband-mother-in-law-and-sister-in-law-convicted-in-dowry-death-case-ayodhya-news-c-97-1-ayo1002-164057-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Ayodhya News दहेज हत्या में पति, सास व ननद दोषी",
-   "url": "https://www.amarujala.com/uttar-pradesh/ayodhya/husband-mother-in-law-and-sister-in-law-convicted-in-dowry-death-case-ayodhya-news-c-97-1-ayo1002-164057-2026-11-27",
-   "t": 1795801914000,
-   "time": "23:21",
-   "score": 8,
-   "tags": [
-    "HINDI",
-    "CRIME",
-    "ACC"
-   ],
-   "status": "GAP",
-   "match": 0.19
-  },
-  {
-   "id": "au-the-basketball-team-will-be-selected-tomorrow-rewari-news-c-198-1-fth1001-249384-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "Rewari News बास्केटबॉल टीम का चयन कल होगा",
-   "url": "https://www.amarujala.com/haryana/rewari/the-basketball-team-will-be-selected-tomorrow-rewari-news-c-198-1-fth1001-249384-2026-11-27",
-   "t": 1795801905000,
-   "time": "23:21",
-   "score": 8,
-   "tags": [
-    "MP",
-    "HINDI",
-    "WAR"
-   ],
-   "status": "GAP",
-   "match": 0.2
-  },
-  {
-   "id": "au-delhi-ncr-air-pollution-parents-appeal-pm-modi-children-health-2026-11-27",
-   "src": "au",
-   "pub": "Amar Ujala",
-   "title": "&#39;बच्चे घरों में कैद&#39; दिल्ली-NCR की जहरीली हवा पर PM से सीधा दखल की मांग, राजधानी में एकजुट अभिभावकों की अपील",
-   "url": "https://www.amarujala.com/delhi-ncr/delhi-ncr-air-pollution-parents-appeal-pm-modi-children-health-2026-11-27",
-   "t": 1795801892000,
-   "time": "23:21",
-   "score": 6,
-   "tags": [
-    "HINDI",
-    "POL",
-    "CRK"
-   ],
-   "status": "GAP",
-   "match": 0.11
-  },
-  {
-   "id": "at-chhattisgarh-liquor-scam-accused-vikas-agrawal-deported-from-uae-ntc-pvzs-rpti-2708192-2026-11-27",
-   "src": "at",
-   "pub": "Aaj Tak",
-   "title": "छत्तीसगढ़ शराब घोटाले का आरोपी विकास अग्रवाल UAE से भारत लाया गया, 1,280 करोड़ के भ्रष्टाचार केस में था फरार",
-   "url": "https://www.aajtak.in/crime/news/story/chhattisgarh-liquor-scam-accused-vikas-agrawal-deported-from-uae-ntc-pvzs-rpti-2708192-2026-11-27",
-   "t": 1795801674000,
-   "time": "23:17",
-   "score": 6,
-   "tags": [
-    "CG",
-    "CRIME"
-   ],
-   "status": "GAP",
-   "match": 0.2
-  },
-  {
-   "id": "bh-deoria-rajasthan-youths-arrested-liquor-smuggling-rto-office-139815821.html",
+   "id": "bh-kolayat-panchayat-samiti-up-pradhan-chunav-nomination-voting-139821403.html",
    "src": "bh",
    "pub": "Bhaskar",
-   "title": "चार कारों से 37 पेटी शराब मिली: देवरिया में राजस्थान के सात युवक गिरफ्तार; आरटीओ कार्यालय के पास पुलिस ने पकड़ा",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/news/deoria-rajasthan-youths-arrested-liquor-smuggling-rto-office-139815821.html",
-   "t": 1795801672000,
-   "time": "23:17",
-   "score": 10,
+   "title": "कोलायत पंचायत समिति में उपप्रधान का चुनाव जारी: कांग्रेस से रामेश्वर कुम्हार और बीजेपी से विनोद कुमार ने भरा नामांकन",
+   "url": "https://www.bhaskar.com/local/rajasthan/bikaner/gajner/news/kolayat-panchayat-samiti-up-pradhan-chunav-nomination-voting-139821403.html",
+   "t": 1795854777000,
+   "time": "14:02",
+   "score": 7,
    "tags": [
     "RAJ",
-    "HINDI",
-    "CRIME"
+    "POL"
    ],
    "status": "GAP",
-   "match": 0.17
+   "match": 0.29
   },
   {
-   "id": "abp-asia-cup-rising-stars-semi-final-pakistan-a-beat-bangladesh-a-by-5-wickets-3220345",
-   "src": "abp",
-   "pub": "ABP Live",
-   "title": "asia cup rising stars semi final pakistan a beat bangladesh a by 5 wickets",
-   "url": "https://www.abplive.com/sports/cricket/asia-cup-rising-stars-semi-final-pakistan-a-beat-bangladesh-a-by-5-wickets-3220345",
-   "t": 1795801122000,
-   "time": "23:08",
-   "score": 6,
+   "id": "bh-tatarpur-panchayat-samiti-up-pradhan-chunav-voting-update-139821399.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "ततारपुर पंचायत समिति में आज उप प्रधान का चुनाव: कांग्रेस से बलवान सारण और भाजपा से महिपाल ने बीच मुकाबला, बहुमत के लिए 8 सीटे जरूरी",
+   "url": "https://www.bhaskar.com/local/rajasthan/khairthal/sodawas/news/tatarpur-panchayat-samiti-up-pradhan-chunav-voting-update-139821399.html",
+   "t": 1795854753000,
+   "time": "14:02",
+   "score": 7,
    "tags": [
-    "WAR",
-    "CRK",
-    "MONEY"
+    "RAJ",
+    "POL"
    ],
-   "status": "COVERED",
-   "match": 0.7,
+   "status": "GAP",
+   "match": 0.32,
    "patrikaMatch": {
-    "title": "PAK A vs BAN A: लगातार तीसरी बार फाइनल में पहुंचा पाकिस्तान, बांग्लादेश को सेमीफाइनल में 6 विकेट से रौंदा",
-    "url": "https://www.patrika.com/cricket-news/pak-a-reach-in-rising-stars-asia-cup-2026-final-beats-bangladesh-a-by-5-wickets-21096619"
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
    }
   },
   {
-   "id": "bh-kushinagar-bjp-pankaj-chaudhary-assembly-election-strategy-meeting-139815651.html",
+   "id": "bh-bhadrajun-panchayat-samiti-up-pradhan-chunav-voting-live-update-139821389.html",
    "src": "bh",
    "pub": "Bhaskar",
-   "title": "यूपी भाजपा अध्यक्ष पंकज चौधरी के काफिले की गाड़ियां टकराईं: आगे निकलने की होड़ में हादसा, बाल-बाल बचे लोग",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/news/kushinagar-bjp-pankaj-chaudhary-assembly-election-strategy-meeting-139815651.html",
-   "t": 1795800396000,
-   "time": "22:56",
+   "title": "भाद्राजून पंचायत समिति में उप प्रधान का चुनाव जारी: बीजेपी से पेमा राम और कांग्रेस से चंदन सिंह ने भरा नामांकन",
+   "url": "https://www.bhaskar.com/local/rajasthan/jalore/bhadrajun/news/bhadrajun-panchayat-samiti-up-pradhan-chunav-voting-live-update-139821389.html",
+   "t": 1795854612000,
+   "time": "14:00",
    "score": 7,
    "tags": [
-    "HINDI",
-    "ACC",
+    "RAJ",
     "POL"
    ],
    "status": "GAP",
-   "match": 0.17
+   "match": 0.32,
+   "patrikaMatch": {
+    "title": "Rajasthan Panchayat Election: बूंदी पंचायत समिति में कांग्रेस का चौथी बार दबदबा बरकरार, जगरूप सिंह रंधावा बने प्रधान",
+    "url": "https://www.patrika.com/bundi-news/congress-retains-its-dominance-for-the-fourth-time-in-bundi-panchayat-samiti-jagroop-singh-randhawa-becomes-chief-prt-21097716"
+   }
   },
   {
-   "id": "nbt-136229417.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "बीजेपी सांसद लक्ष्मी वर्मा का एक्सीडेंट, हाथ फ्रैक्चर, एम्स में एडमिट, हादसे के वक्त कार में 4 लोग थे सवार",
-   "url": "https://navbharattimes.indiatimes.com/state/chhattisgarh/raipur/bjp-mp-lakshmi-verma-suffers-a-fractured-arm-in-a-road-accident-admitted-to-aiims/articleshow/136229417.cms",
-   "t": 1795800356000,
-   "time": "22:55",
-   "score": 8,
-   "tags": [
-    "CG",
-    "ACC",
-    "POL"
-   ],
-   "status": "GAP",
-   "match": 0.14
-  },
-  {
-   "id": "bh-ayodhya-akhilesh-yadav-ram-mandir-statement-raj-bhushan-nishad-139815628.html",
+   "id": "bh-bijolia-panchayat-samiti-up-pradhan-election-nomination-update-139821382.html",
    "src": "bh",
    "pub": "Bhaskar",
-   "title": "चुनाव आते ही अखिलेश को राम की याद आने लगी: केंद्रीय जलशक्ति राज्यमंत्री बोले- इन्हीं की सरकार में कारसेवकों पर गोली चलवाने का काम किया गया",
-   "url": "https://www.bhaskar.com/local/uttar-pradesh/ayodhya/news/ayodhya-akhilesh-yadav-ram-mandir-statement-raj-bhushan-nishad-139815628.html",
-   "t": 1795800243000,
-   "time": "22:54",
-   "score": 7,
+   "title": "बिजोलिया पंचायत समिति में आज उप प्रधान चुनाव: भाजपा ने प्रकाश चंद्र शर्मा, कांग्रेस ने भंवर मीणा को उम्मीदवार बनाया",
+   "url": "https://www.bhaskar.com/local/rajasthan/bhilwara/bijoliya/news/bijolia-panchayat-samiti-up-pradhan-election-nomination-update-139821382.html",
+   "t": 1795854575000,
+   "time": "13:59",
+   "score": 9,
    "tags": [
-    "HINDI",
-    "CRIME",
-    "POL"
-   ],
-   "status": "GAP",
-   "match": 0.21
-  },
-  {
-   "id": "abp-up-politics-bjp-attack-on-akhilesh-yadav-and-samajwadi-party-on-crime-3220332",
-   "src": "abp",
-   "pub": "ABP Live",
-   "title": "up politics bjp attack on akhilesh yadav and samajwadi party on crime",
-   "url": "https://www.abplive.com/states/up-uk/up-politics-bjp-attack-on-akhilesh-yadav-and-samajwadi-party-on-crime-3220332",
-   "t": 1795800026000,
-   "time": "22:50",
-   "score": 7,
-   "tags": [
-    "CRIME",
+    "RAJ",
     "POL",
     "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.33,
+   "patrikaMatch": {
+    "title": "Rajasthan Panchayat Election: बूंदी पंचायत समिति में कांग्रेस का चौथी बार दबदबा बरकरार, जगरूप सिंह रंधावा बने प्रधान",
+    "url": "https://www.patrika.com/bundi-news/congress-retains-its-dominance-for-the-fourth-time-in-bundi-panchayat-samiti-jagroop-singh-randhawa-becomes-chief-prt-21097716"
+   }
+  },
+  {
+   "id": "bh-jalore-panchayat-samiti-up-pradhan-election-result-live-updates-139821379.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "14 पंचायत समितियों में उप प्रधान के लिए नामांकन: दोपहर 3 से 5 बजे तक होगा मतदान, इसके तुरंत बाद मतगणना",
+   "url": "https://www.bhaskar.com/local/rajasthan/jalore/news/jalore-panchayat-samiti-up-pradhan-election-result-live-updates-139821379.html",
+   "t": 1795854548000,
+   "time": "13:59",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.44,
+   "patrikaMatch": {
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
+   }
+  },
+  {
+   "id": "bh-falsund-panchayat-samiti-up-pradhan-chunav-voting-update-139821375.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "फलसूंड पंचायत समिति में आज उप प्रधान का चुनाव: कांग्रेस से सलीमान खां, भाजपा से जेठाराम और निर्दलीय पपु कंवर मैदान में",
+   "url": "https://www.bhaskar.com/local/rajasthan/jaisalmer/phalasund/news/falsund-panchayat-samiti-up-pradhan-chunav-voting-update-139821375.html",
+   "t": 1795854524000,
+   "time": "13:58",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
    ],
    "status": "GAP",
    "match": 0.38,
    "patrikaMatch": {
-    "title": "‘झूठ कौन बोल रहा है’, अखिलेश यादव ने BJP पर साधा निशाना, बोले- वोटर लिस्ट पर CM योगी और चुनाव आयोग के आंकड़ों में अंतर",
-    "url": "https://www.patrika.com/lucknow-news/akhilesh-yadav-targets-bjp-and-election-commission-press-conference-update-21093665"
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
    }
   },
   {
-   "id": "nbt-136228793.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "एमपी में अब हर शादी का पंचायत में कराना होगा रजिस्ट्रेशन, बाल विवाह रोकने के लिए मंत्री प्रहलाद पटेल का बड़ा ऐलान",
-   "url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/rajgarh/mp-marriage-registration-mandatory-panchayat-child-marriage-prevention/articleshow/136228793.cms",
-   "t": 1795798644000,
-   "time": "22:27",
-   "score": 6,
+   "id": "bh-ghantiyali-panchayat-samiti-up-pradhan-chunav-voting-result-update-139821369.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "घंटियाली पंचायत समिति में उप प्रधान का चुनाव: कांग्रेस की पूजा राजपूत निर्विरोध निर्वाचित हुईं",
+   "url": "https://www.bhaskar.com/local/rajasthan/phalodi/denok/news/ghantiyali-panchayat-samiti-up-pradhan-chunav-voting-result-update-139821369.html",
+   "t": 1795854504000,
+   "time": "13:58",
+   "score": 9,
    "tags": [
-    "MP",
-    "POL"
-   ],
-   "status": "COVERED",
-   "match": 0.5,
-   "patrikaMatch": {
-    "title": "‘गांव में शादी हुई तो पंचायत में दर्ज कराना होगा रिकॉर्ड’, प्रहलाद पटेल ने राजगढ़ से किया ऐलान",
-    "url": "https://www.patrika.com/rajgarh-news/mp-village-marriage-registration-mandatory-child-marriage-prevention-21095353"
-   }
-  },
-  {
-   "id": "abp-delimitation-bill-live-updates-modi-cabinet-meeting-and-congress-stand-dmk-sharad-pawar-3220030",
-   "src": "abp",
-   "pub": "ABP Live",
-   "title": "delimitation bill live updates modi cabinet meeting and congress stand dmk sharad pawar",
-   "url": "https://www.abplive.com/news/india/delimitation-bill-live-updates-modi-cabinet-meeting-and-congress-stand-dmk-sharad-pawar-3220030",
-   "t": 1795798615000,
-   "time": "22:26",
-   "score": 6,
-   "tags": [
+    "RAJ",
     "POL",
-    "WAR",
     "CRK"
    ],
    "status": "GAP",
    "match": 0.42,
    "patrikaMatch": {
-    "title": "INDIA गठबंधन की बैठक में पहुंचेगी शरद पवार की पार्टी, लेकिन परिसीमन बिल पर दिया समर्थन",
-    "url": "https://www.patrika.com/national-news/ncp-sharad-pawar-support-delimitation-bill-india-alliance-meeting-21096180"
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
    }
   },
   {
-   "id": "at-chhattisgarh-mp-laxmi-verma-car-accident-driver-injured-raipur-aims-bangoli-kharora-ntc-aktw-rptc-2708171-2026-11-27",
-   "src": "at",
-   "pub": "Aaj Tak",
-   "title": "छत्तीसगढ़ में BJP सांसद लक्ष्मी वर्मा की कार का एक्सीडेंट, एम्स में भर्ती, ड्राइवर का पैर टूटा",
-   "url": "https://www.aajtak.in/india/chhattisgarh/story/chhattisgarh-mp-laxmi-verma-car-accident-driver-injured-raipur-aims-bangoli-kharora-ntc-aktw-rptc-2708171-2026-11-27",
-   "t": 1795798290000,
-   "time": "22:21",
+   "id": "bh-anandpuri-panchayat-samiti-up-pradhan-chunav-voting-result-update-139821356.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "आनंदपुरी पंचायत समिति में उप प्रधान के लिए नामांकन: BAP से कृष्णा गरासिया, कांग्रेस से हुरजी और 3 निर्दलीयों ने भी पर्चा भरा",
+   "url": "https://www.bhaskar.com/local/rajasthan/banswara/anandpuri/news/anandpuri-panchayat-samiti-up-pradhan-chunav-voting-result-update-139821356.html",
+   "t": 1795854413000,
+   "time": "13:56",
+   "score": 9,
+   "tags": [
+    "RAJ",
+    "POL",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.33,
+   "patrikaMatch": {
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
+   }
+  },
+  {
+   "id": "abp-kota-new-hospital-pregnant-woman-dies-family-alleges-negligence-ann-3220494",
+   "src": "abp",
+   "pub": "ABP Live",
+   "title": "कोटा के नए अस्पताल में गर्भवती महिला की मौत, परिजनों ने लगाए लापरवाही के आरोप",
+   "url": "https://www.abplive.com/states/rajasthan/kota-new-hospital-pregnant-woman-dies-family-alleges-negligence-ann-3220494",
+   "t": 1795854385000,
+   "time": "13:56",
    "score": 8,
    "tags": [
-    "CG",
-    "ACC",
+    "RAJ",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.11
+  },
+  {
+   "id": "abp-jaipur-3-members-same-family-die-son-kills-mother-sister-then-suicide-ann-3220469",
+   "src": "abp",
+   "pub": "ABP Live",
+   "title": "जयपुर में एक ही परिवार के 3 लोगों की मौत, मां-बहन की हत्या कर बेटे ने किया सुसाइड",
+   "url": "https://www.abplive.com/states/rajasthan/jaipur-3-members-same-family-die-son-kills-mother-sister-then-suicide-ann-3220469",
+   "t": 1795854373000,
+   "time": "13:56",
+   "score": 11,
+   "tags": [
+    "RAJ",
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.16
+  },
+  {
+   "id": "bh-rashmi-panchayat-samiti-up-pradhan-chunav-result-update-139821348.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "राशमी पंचायत समिति में उप प्रधान का नामांकन: वार्ड 13 से भाजपा की भंवर कंवर, वार्ड 2 से कांग्रेस से कंकू जाट ने पर्चा भरा; समर्थक भी जुटे",
+   "url": "https://www.bhaskar.com/local/rajasthan/chittorgarh/rashmi/news/rashmi-panchayat-samiti-up-pradhan-chunav-result-update-139821348.html",
+   "t": 1795854359000,
+   "time": "13:55",
+   "score": 7,
+   "tags": [
+    "RAJ",
     "POL"
    ],
    "status": "GAP",
-   "match": 0.25
-  },
-  {
-   "id": "nbt-136228252.cms",
-   "src": "nbt",
-   "pub": "Navbharat Times",
-   "title": "सपा से तकरार के बीच कांग्रेस का बड़ा दांव, सहारनपुर से राहुल गांधी करेंगे यूपी चुनाव अभियान का आगाज",
-   "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/lucknow/rahul-gandh-election-campaign-from-saharanpur-increased-friction-between-sp-and-congress/articleshow/136228252.cms",
-   "t": 1795797698000,
-   "time": "22:11",
-   "score": 7,
-   "tags": [
-    "HINDI",
-    "ACC",
-    "POL"
-   ],
-   "status": "COVERED",
-   "match": 0.62,
+   "match": 0.36,
    "patrikaMatch": {
-    "title": "यूपी चुनाव 2027: सपा-कांग्रेस के बीच तीसरी बैठक आज, राहुल और प्रियंका गांधी भी करेंगे चर्चा; सीट बंटवारे पर बनेगी रणनीति",
-    "url": "https://www.patrika.com/lucknow-news/up-election-20027-sp-congress-third-seat-sharing-meeting-lucknow-update-21093436"
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
    }
   },
   {
-   "id": "at-rajasthan-panchayat-election-results-congress-wins-255-pradhan-posts-ntc-dhrj-rpti-2708162-2026-11-27",
-   "src": "at",
-   "pub": "Aaj Tak",
-   "title": "राजस्थान पंचायत चुनाव में कांग्रेस का दबदबा, BJP से दोगुने से ज्यादा प्रधान जीते",
-   "url": "https://www.aajtak.in/rajasthan/story/rajasthan-panchayat-election-results-congress-wins-255-pradhan-posts-ntc-dhrj-rpti-2708162-2026-11-27",
-   "t": 1795796318000,
-   "time": "21:48",
+   "id": "bh-rajasthan-panchayat-samiti-up-pradhan-election-voting-result-update-139821343.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "भीलवाड़ा में बीजेपी MLA और एसपी भिड़े: भरतपुर में कांग्रेस के पूर्व विधायक की बेटी भाजपा से उप-प्रधान बनीं; 72 जगह निर्विरोध जीते",
+   "url": "https://www.bhaskar.com/local/rajasthan/jaipur/news/rajasthan-panchayat-samiti-up-pradhan-election-voting-result-update-139821343.html",
+   "t": 1795854348000,
+   "time": "13:55",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "COVERED",
+   "match": 0.55,
+   "patrikaMatch": {
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
+   }
+  },
+  {
+   "id": "bh-pali-panchayat-up-pradhan-chunav-cross-voting-update-139821341.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "रानी पंचायत समिति में भाजपा की मंजूश्री निर्विरोध उपप्रधान बनी: कांग्रेस के गोविंद सिंह ने लिया नाम वापस, आज भी क्रॉस वोटिंग का डर",
+   "url": "https://www.bhaskar.com/local/rajasthan/pali/news/pali-panchayat-up-pradhan-chunav-cross-voting-update-139821341.html",
+   "t": 1795854347000,
+   "time": "13:55",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.32,
+   "patrikaMatch": {
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
+   }
+  },
+  {
+   "id": "bh-umraen-panchayat-samiti-up-pradhan-chunav-voting-update-139821326.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "उमरैण पंचायत समिति में उप प्रधान का चुनाव जारी: कांग्रेस से वारिसा बानो और भाजपा से सुरेश जाटव ने भरा नामांकन; शाम तक नतीजे आएंगे",
+   "url": "https://www.bhaskar.com/local/rajasthan/alwar/umrain/news/umraen-panchayat-samiti-up-pradhan-chunav-voting-update-139821326.html",
+   "t": 1795854248000,
+   "time": "13:54",
+   "score": 9,
+   "tags": [
+    "RAJ",
+    "POL",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.32,
+   "patrikaMatch": {
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
+   }
+  },
+  {
+   "id": "bh-mundawar-panchayat-samiti-up-pradhan-election-result-live-139821325.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "मुण्डावर पंचायत समिति में आज उप प्रधान का चुनाव: कांग्रेस से शर्मिला यादव और भाजपा से संतोष ने भरा पर्चा, 3 बजे होगी वोटिंग",
+   "url": "https://www.bhaskar.com/local/rajasthan/khairthal/sodawas/news/mundawar-panchayat-samiti-up-pradhan-election-result-live-139821325.html",
+   "t": 1795854200000,
+   "time": "13:53",
+   "score": 9,
+   "tags": [
+    "RAJ",
+    "POL",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.41,
+   "patrikaMatch": {
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
+   }
+  },
+  {
+   "id": "au-video-deputy-cm-keshav-maurya-arrived-in-mahoba-and-paid-tribute-to-girjacharan-rajput-the-brother-of-a-former-mp-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "महोबा के चरखारी पहुंचे डिप्टी सीएम केशव मौर्य, पूर्व सांसद के भाई गिरजाचरण राजपूत को दी श्रद्धांजलि",
+   "url": "https://www.amarujala.com/video/uttar-pradesh/mahoba/video-deputy-cm-keshav-maurya-arrived-in-mahoba-and-paid-tribute-to-girjacharan-rajput-the-brother-of-a-former-mp-2026-11-28",
+   "t": 1795854164000,
+   "time": "13:52",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.06
+  },
+  {
+   "id": "bh-andhi-panchayat-samiti-up-pradhan-election-result-update-139821320.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "आंधी पंचायत समिति में कांग्रेस का उप प्रधान बना: रतन लाल गुर्जर ने निर्विरोध जीत दर्ज की, भाजपा के पास थी महज 1 सीट",
+   "url": "https://www.bhaskar.com/local/rajasthan/jaipur/aandhi/news/andhi-panchayat-samiti-up-pradhan-election-result-update-139821320.html",
+   "t": 1795854164000,
+   "time": "13:52",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.41,
+   "patrikaMatch": {
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
+   }
+  },
+  {
+   "id": "bh-banswara-panchayat-samiti-up-pradhan-election-result-political-update-139821312.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "बांसवाड़ा की 16 पंचायत समितियों में आज बनेंगे उप प्रधान: प्रधान चुनाव में हुए उलटफेर के बाद बढ़ी सियासी सरगर्मी, तीनों पार्टियों के लिए चुनौती",
+   "url": "https://www.bhaskar.com/local/rajasthan/banswara/news/banswara-panchayat-samiti-up-pradhan-election-result-political-update-139821312.html",
+   "t": 1795854107000,
+   "time": "13:51",
+   "score": 9,
+   "tags": [
+    "RAJ",
+    "POL",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.36,
+   "patrikaMatch": {
+    "title": "राजस्थान प्रधान चुनाव में बड़ा उलटफेर, 230 जगह बहुमत वाली कांग्रेस के बने 255 प्रधान, 6 जिलों में BJP का नहीं खुला खाता",
+    "url": "https://www.patrika.com/jaipur-news/rajasthan-pradhan-election-result-2026-congress-wins-255-panchayat-samiti-pradhan-posts-despite-majority-in-230-21096697"
+   }
+  },
+  {
+   "id": "bh-bakani-panchayat-samiti-up-pradhan-chunav-voting-result-update-139821304.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "बकानी पंचायत समिति में उप प्रधान का चुनाव जारी: भाजपा से मुकेश सुथार और कांग्रेस से चारूल शर्मा ने भरा नामांकन",
+   "url": "https://www.bhaskar.com/local/rajasthan/jhalawar/bakani/news/bakani-panchayat-samiti-up-pradhan-chunav-voting-result-update-139821304.html",
+   "t": 1795854019000,
+   "time": "13:50",
+   "score": 9,
+   "tags": [
+    "RAJ",
+    "POL",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.36,
+   "patrikaMatch": {
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
+   }
+  },
+  {
+   "id": "bh-bishala-panchayat-samiti-up-pradhan-chunav-live-update-139821300.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "बिशाला पंचायत समिति में उप प्रधान का चुनाव जारी: बीजेपी-कांग्रेस-आरएलपी में त्रिकोणीय मुकाबला, शाम तक नतीजे आएंगे",
+   "url": "https://www.bhaskar.com/local/rajasthan/barmer/bishala/news/bishala-panchayat-samiti-up-pradhan-chunav-live-update-139821300.html",
+   "t": 1795853975000,
+   "time": "13:49",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.29
+  },
+  {
+   "id": "bh-rajsamand-panchayat-samiti-pradhan-election-congress-bjp-results-139821299.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "कुंभलगढ़ पंचायत समिति में कांग्रेस के मांगीलाल ​निर्विरोध उपप्रधान बने: दोपहर 3 से शाम 5 बजे तक होगा मतदान",
+   "url": "https://www.bhaskar.com/local/rajasthan/rajsamand/news/rajsamand-panchayat-samiti-pradhan-election-congress-bjp-results-139821299.html",
+   "t": 1795853934000,
+   "time": "13:48",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.4,
+   "patrikaMatch": {
+    "title": "Rajasthan Panchayat Election: बूंदी पंचायत समिति में कांग्रेस का चौथी बार दबदबा बरकरार, जगरूप सिंह रंधावा बने प्रधान",
+    "url": "https://www.patrika.com/bundi-news/congress-retains-its-dominance-for-the-fourth-time-in-bundi-panchayat-samiti-jagroop-singh-randhawa-becomes-chief-prt-21097716"
+   }
+  },
+  {
+   "id": "bh-vallabhnagar-panchayat-samiti-up-pradhan-chunav-live-update-139821291.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "वल्लभनगर पंचायत समिति में उप प्रधान का चुनाव: भाजपा के कन्हैयालाल डांगी निर्विरोध चुने गए, विपक्ष में कोई नहीं था",
+   "url": "https://www.bhaskar.com/local/rajasthan/udaipur/wallabhnagar/news/vallabhnagar-panchayat-samiti-up-pradhan-chunav-live-update-139821291.html",
+   "t": 1795853842000,
+   "time": "13:47",
    "score": 7,
    "tags": [
     "RAJ",
@@ -1400,9 +616,874 @@
    "status": "GAP",
    "match": 0.35,
    "patrikaMatch": {
-    "title": "Phalodi Pradhan Result: फलोदी जिले में कांग्रेस की एक तरफा जीत, 8 पंचायत समितियों में प्रधान, भाजपा का नहीं खुला खाता",
-    "url": "https://www.patrika.com/jodhpur-news/phalodi-panchayat-samiti-pradhan-result-congress-wins-8-seats-21096141"
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
    }
+  },
+  {
+   "id": "bh-arnod-panchayat-samiti-up-pradhan-election-voting-result-update-139821286.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "अरनोद में उप प्रधान पद का चुनाव आज: भाजपा के राहुल ढागी, रालोपा के कंवरलाल और निर्दलीय राजूबाई के बीच मुकाबला",
+   "url": "https://www.bhaskar.com/local/rajasthan/pratapgarh/arnod/news/arnod-panchayat-samiti-up-pradhan-election-voting-result-update-139821286.html",
+   "t": 1795853819000,
+   "time": "13:46",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.4,
+   "patrikaMatch": {
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
+   }
+  },
+  {
+   "id": "bh-barmer-panchayat-samiti-up-pradhan-chunav-live-update-139821279.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "बाड़मेर में 6, बालोतरा में 2 उप प्रधान निर्विरोध: चार कांग्रेस, दो-दो रालोपा-बीजेपी और एक निर्दलीय बने, 11 पंचायत समितियों वोटिंग",
+   "url": "https://www.bhaskar.com/local/rajasthan/barmer/news/barmer-panchayat-samiti-up-pradhan-chunav-live-update-139821279.html",
+   "t": 1795853751000,
+   "time": "13:45",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.35,
+   "patrikaMatch": {
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
+   }
+  },
+  {
+   "id": "bh-nagaur-panchayat-samiti-up-pradhan-election-voting-live-update-139821256.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "मुंडवा, पांचौड़ी और खींवसर में RLP ने दोनों पद जीते: भाजपा का भेरूंदा में खाता खुला; डेगाना और नागौर में मुकाबला",
+   "url": "https://www.bhaskar.com/local/rajasthan/nagaur/news/nagaur-panchayat-samiti-up-pradhan-election-voting-live-update-139821256.html",
+   "t": 1795853589000,
+   "time": "13:43",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.33,
+   "patrikaMatch": {
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
+   }
+  },
+  {
+   "id": "bh-neemrana-panchayat-samiti-up-pradhan-election-result-update-139821251.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "नीमराना पंचायत समिति में उप प्रधान का चुनाव: भाजपा से वेदप्रकाश यादव और कांग्रेस के शमशेर यादव मैदान में, शाम तक नतीजे आएंगे",
+   "url": "https://www.bhaskar.com/local/rajasthan/alwar/neemrana/news/neemrana-panchayat-samiti-up-pradhan-election-result-update-139821251.html",
+   "t": 1795853510000,
+   "time": "13:41",
+   "score": 9,
+   "tags": [
+    "RAJ",
+    "POL",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.38,
+   "patrikaMatch": {
+    "title": "चित्तौड़गढ़ पंचायत समिति चुनाव: ‘किंगमेकर’ रही शंकरीबाई ने पलट दिया पूरा गेम, जानें कौन जीता",
+    "url": "https://www.patrika.com/chittorgarh-news/chittorgarh-panchayat-samiti-election-result-2026-shankari-bai-kingmaker-bhanwar-singh-pradhan-21098091"
+   }
+  },
+  {
+   "id": "nbt-136241990.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "भोपाल ग्रामीण की सड़कों पर 10 महीने में 121 मौतें, बिना डिवाइडर और अधूरी मार्किंग बनी जानलेवा; 75% मृतक दोपहिया सवार",
+   "url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/bhopal/bhopal-rural-road-accidents-berasia-two-wheeler-fatalities-police-study/articleshow/136241990.cms",
+   "t": 1795853407000,
+   "time": "13:40",
+   "score": 10,
+   "tags": [
+    "MP",
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.14
+  },
+  {
+   "id": "bh-siwana-panchayat-samiti-up-pradhan-election-result-live-update-139821236.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "सिवाना पंचायत समिति में आज उपप्रधान का चुनाव: कांग्रेस के शैताना राम और भाजपा के वगतावर सिंह ने भरा पर्चा, बहुमत के लिए 8 सीटें जरूरी",
+   "url": "https://www.bhaskar.com/local/rajasthan/balotra/mokalsar/news/siwana-panchayat-samiti-up-pradhan-election-result-live-update-139821236.html",
+   "t": 1795853370000,
+   "time": "13:39",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.36,
+   "patrikaMatch": {
+    "title": "चित्तौड़गढ़ पंचायत समिति चुनाव: ‘किंगमेकर’ रही शंकरीबाई ने पलट दिया पूरा गेम, जानें कौन जीता",
+    "url": "https://www.patrika.com/chittorgarh-news/chittorgarh-panchayat-samiti-election-result-2026-shankari-bai-kingmaker-bhanwar-singh-pradhan-21098091"
+   }
+  },
+  {
+   "id": "bh-nokha-panchayat-samiti-up-pradhan-chunav-voting-update-139821233.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "नोखा पंचायत समिति में आज उप प्रधान चुनाव: भाजपा से विशाल सिंह, कांग्रेस से संतोष देवी मैदान में",
+   "url": "https://www.bhaskar.com/local/rajasthan/bikaner/nokha/news/nokha-panchayat-samiti-up-pradhan-chunav-voting-update-139821233.html",
+   "t": 1795853332000,
+   "time": "13:38",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.37,
+   "patrikaMatch": {
+    "title": "Rajasthan Panchayat Election: बूंदी पंचायत समिति में कांग्रेस का चौथी बार दबदबा बरकरार, जगरूप सिंह रंधावा बने प्रधान",
+    "url": "https://www.patrika.com/bundi-news/congress-retains-its-dominance-for-the-fourth-time-in-bundi-panchayat-samiti-jagroop-singh-randhawa-becomes-chief-prt-21097716"
+   }
+  },
+  {
+   "id": "bh-chittorgarh-panchayat-samiti-up-pradhan-election-shankari-bai-rlp-139821231.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "शंकरी बाई-ज्योति नामधरानी के बीच उप प्रधान पद की टक्कर: विधायक आक्या बोले-भील समाज का किया सम्मान, पूर्व विधायक जाड़ावत ने बताया इसे लोकतंत्र की हत्या",
+   "url": "https://www.bhaskar.com/local/rajasthan/chittorgarh/news/chittorgarh-panchayat-samiti-up-pradhan-election-shankari-bai-rlp-139821231.html",
+   "t": 1795853322000,
+   "time": "13:38",
+   "score": 10,
+   "tags": [
+    "RAJ",
+    "CRIME",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.32,
+   "patrikaMatch": {
+    "title": "चित्तौड़गढ़ पंचायत समिति चुनाव: ‘किंगमेकर’ रही शंकरीबाई ने पलट दिया पूरा गेम, जानें कौन जीता",
+    "url": "https://www.patrika.com/chittorgarh-news/chittorgarh-panchayat-samiti-election-result-2026-shankari-bai-kingmaker-bhanwar-singh-pradhan-21098091"
+   }
+  },
+  {
+   "id": "au-rajasthan-bjp-show-cause-notice-two-zila-parishad-members-panchayat-election-indiscipline-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "पंचायत चुनाव में भीतरघात पर भाजपा सख्त, ब्यावर और पाली के दो जिला परिषद सदस्यों को नोटिस; 5 दिन में मांगा जवाब",
+   "url": "https://www.amarujala.com/rajasthan/jaipur/rajasthan-bjp-show-cause-notice-two-zila-parishad-members-panchayat-election-indiscipline-2026-11-28",
+   "t": 1795853259000,
+   "time": "13:37",
+   "score": 9,
+   "tags": [
+    "RAJ",
+    "POL",
+    "CRK"
+   ],
+   "status": "GAP",
+   "match": 0.44,
+   "patrikaMatch": {
+    "title": "राजस्थान पंचायत चुनाव में क्रॉस वोटिंग पर बड़ा एक्शन, कांग्रेस ने 5 सदस्यों को पार्टी से निकाला, BJP ने 2 को थमाए नोटिस",
+    "url": "https://www.patrika.com/jaipur-news/rajasthan-panchayat-election-2026-cross-voting-congress-expels-five-members-bjp-issues-notice-to-two-members-21097265"
+   }
+  },
+  {
+   "id": "bh-dungla-panchayat-samiti-up-pradhan-election-result-update-139821217.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "डूंगला पंचायत समिति में आज उप प्रधान का चुनाव: कांग्रेस से मंजू और भाजपा से ऊंकार फ़ामडा गुर्जर ने भरा पर्चा",
+   "url": "https://www.bhaskar.com/local/rajasthan/chittorgarh/dungla/news/dungla-panchayat-samiti-up-pradhan-election-result-update-139821217.html",
+   "t": 1795853202000,
+   "time": "13:36",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.4,
+   "patrikaMatch": {
+    "title": "चित्तौड़गढ़ पंचायत समिति चुनाव: ‘किंगमेकर’ रही शंकरीबाई ने पलट दिया पूरा गेम, जानें कौन जीता",
+    "url": "https://www.patrika.com/chittorgarh-news/chittorgarh-panchayat-samiti-election-result-2026-shankari-bai-kingmaker-bhanwar-singh-pradhan-21098091"
+   }
+  },
+  {
+   "id": "au-mother-and-son-killed-after-being-struck-by-train-bodies-found-on-railway-tracks-in-mirzapur-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "मिर्जापुर दर्दनाक हादसा ट्रेन की चपेट में आने से मां और एक साल के बेटे की मौत, परिवार में मचा कोहराम",
+   "url": "https://www.amarujala.com/uttar-pradesh/mirzapur/mother-and-son-killed-after-being-struck-by-train-bodies-found-on-railway-tracks-in-mirzapur-2026-11-28",
+   "t": 1795853012000,
+   "time": "13:33",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "ACC",
+    "CRK"
+   ],
+   "status": "GAP",
+   "match": 0.37,
+   "patrikaMatch": {
+    "title": "मिर्जापुर में मां ने 11 महीने के बेटे के साथ ट्रेन से कटकर दी जान, पारिवारिक कलह से थी परेशान, 7 साल की बेटी के सिर से उठा मां का साया",
+    "url": "https://www.patrika.com/mirzapur-news/mirzapur-woman-dies-with-son-21098351"
+   }
+  },
+  {
+   "id": "nbt-136241733.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "लखनऊ: सात दिनों के भीतर दो कैदियों ने की आत्महत्या, NHRC ने किया नोटिस जारी, दो सप्ताह में रिपोर्ट तलब",
+   "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/lucknow/two-prisoners-died-seven-days-national-human-rights-commission-notice/articleshow/136241733.cms",
+   "t": 1795852985000,
+   "time": "13:33",
+   "score": 8,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.17
+  },
+  {
+   "id": "bh-jaisalmer-panchayat-samiti-up-pradhan-chunav-voting-counting-update-139821196.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "10 में से 5 समितियों में कांग्रेस के निर्विरोध-उपप्रधान बने: पांच पंचायत समितियों में दोपहर 3 से शाम 5 बजे तक होंगे मतदान",
+   "url": "https://www.bhaskar.com/local/rajasthan/jaisalmer/news/jaisalmer-panchayat-samiti-up-pradhan-chunav-voting-counting-update-139821196.html",
+   "t": 1795852900000,
+   "time": "13:31",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.3,
+   "patrikaMatch": {
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
+   }
+  },
+  {
+   "id": "au-kota-police-asi-dismissed-mess-irregularities-three-policemen-suspended-gambling-negligence-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "कोटा मेस में गड़बड़ी पर एएसआई बर्खास्त, तीन पुलिसकर्मी निलंबित",
+   "url": "https://www.amarujala.com/rajasthan/kota/kota-police-asi-dismissed-mess-irregularities-three-policemen-suspended-gambling-negligence-2026-11-28",
+   "t": 1795852892000,
+   "time": "13:31",
+   "score": 8,
+   "tags": [
+    "RAJ",
+    "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.25
+  },
+  {
+   "id": "au-truck-set-on-fire-after-compensation-dispute-fir-filed-against-owner-and-driver-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "आगरा एक लाख रुपये का मुआवजा नहीं मिला तो ट्रक में लगा दी आग! मालिक-चालक पर FIR; पुलिस जांच में जुटी",
+   "url": "https://www.amarujala.com/uttar-pradesh/agra/truck-set-on-fire-after-compensation-dispute-fir-filed-against-owner-and-driver-2026-11-28",
+   "t": 1795852588000,
+   "time": "13:26",
+   "score": 8,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.14
+  },
+  {
+   "id": "bh-ajmer-panchayat-samiti-up-pradhan-election-bjp-congress-result-139821175.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "बड़ल्या में भाजपा, पीसांगन में कांग्रेस के निर्विरोध उप-प्रधान बने: सिलोरा में प्रधान का चुनाव हारने वाली उम्मीदवार; 8 पंचायत समितियों में होगी वोटिंग",
+   "url": "https://www.bhaskar.com/local/rajasthan/ajmer/news/ajmer-panchayat-samiti-up-pradhan-election-bjp-congress-result-139821175.html",
+   "t": 1795852534000,
+   "time": "13:25",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "COVERED",
+   "match": 0.5,
+   "patrikaMatch": {
+    "title": "राजस्थान प्रधान चुनाव में बड़ा उलटफेर, 230 जगह बहुमत वाली कांग्रेस के बने 255 प्रधान, 6 जिलों में BJP का नहीं खुला खाता",
+    "url": "https://www.patrika.com/jaipur-news/rajasthan-pradhan-election-result-2026-congress-wins-255-panchayat-samiti-pradhan-posts-despite-majority-in-230-21096697"
+   }
+  },
+  {
+   "id": "au-rajasthan-pti-recruitment-2022-high-court-orders-publication-expert-committee-report-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "राजस्थान पीटीआई भर्ती-2022 हाईकोर्ट का बड़ा आदेश, विशेषज्ञ समिति की रिपोर्ट होगी सार्वजनिक",
+   "url": "https://www.amarujala.com/rajasthan/jaipur/rajasthan-pti-recruitment-2022-high-court-orders-publication-expert-committee-report-2026-11-28",
+   "t": 1795852522000,
+   "time": "13:25",
+   "score": 9,
+   "tags": [
+    "RAJ",
+    "POL",
+    "MONEY"
+   ],
+   "status": "GAP",
+   "match": 0.1
+  },
+  {
+   "id": "bh-rajasthan-panchayat-pradhan-wealth-analysis-dayaram-parmar-list-139821164.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "विधायक का भाई करोड़पति, 21 गाड़ियों का मालिक: पूर्व मंत्री के बेटे के पास सिर्फ 3.70 लाख, जानिए राजनीतिक परिवारों से जुड़े प्रधानों के पास कितना पैसा?",
+   "url": "https://www.bhaskar.com/local/rajasthan/news/rajasthan-panchayat-pradhan-wealth-analysis-dayaram-parmar-list-139821164.html",
+   "t": 1795852381000,
+   "time": "13:23",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.18
+  },
+  {
+   "id": "au-following-the-death-of-a-6-year-old-child-an-enraged-crowd-attacked-the-police-and-set-vehicles-on-fire-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "6 साल के बच्चे की मौत के बाद भड़के लोगों ने पुलिस पर किया हमला और गाड़ियों में लगाई आग!",
+   "url": "https://www.amarujala.com/video/bihar/following-the-death-of-a-6-year-old-child-an-enraged-crowd-attacked-the-police-and-set-vehicles-on-fire-2026-11-28",
+   "t": 1795852302000,
+   "time": "13:21",
+   "score": 10,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "ACC",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "bh-pratapgarh-panchayat-samiti-up-pradhan-chunav-bjp-bap-congress-139821151.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "प्रतापगढ़ की 8 पंचायत समितियों में आज उपप्रधान चुनाव: प्रधान चुनाव के बाद आज भी दिलचस्प मुकाबले के आसार; 3 बजे से होगी वोटिंग",
+   "url": "https://www.bhaskar.com/local/rajasthan/pratapgarh/news/pratapgarh-panchayat-samiti-up-pradhan-chunav-bjp-bap-congress-139821151.html",
+   "t": 1795852149000,
+   "time": "13:19",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.35,
+   "patrikaMatch": {
+    "title": "राजस्थान प्रधान चुनाव में बड़ा उलटफेर, 230 जगह बहुमत वाली कांग्रेस के बने 255 प्रधान, 6 जिलों में BJP का नहीं खुला खाता",
+    "url": "https://www.patrika.com/jaipur-news/rajasthan-pradhan-election-result-2026-congress-wins-255-panchayat-samiti-pradhan-posts-despite-majority-in-230-21096697"
+   }
+  },
+  {
+   "id": "au-agra-s-sn-medical-college-reports-over-1-800-new-cancer-patients-annually-oral-and-throat-cancers-dominate-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "खतरनाक है ये रिपोर्ट आगरा में हर साल कैंसर के 1800 नए मरीज, पांच अंगों में हो रहा ये जानलेवा रोग",
+   "url": "https://www.amarujala.com/uttar-pradesh/agra/agra-s-sn-medical-college-reports-over-1-800-new-cancer-patients-annually-oral-and-throat-cancers-dominate-2026-11-28",
+   "t": 1795852026000,
+   "time": "13:17",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "ACC",
+    "MONEY"
+   ],
+   "status": "GAP",
+   "match": 0.09
+  },
+  {
+   "id": "bh-salumbar-panchayat-samiti-up-pradhan-election-voting-results-live-139821114.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "सलूंबर की सात पंचायत समितियों में आज उपप्रधान चुनाव: सलूंबर में भाजपा-कांग्रेस प्रत्याशियों ने किया नामांकन, झल्लारा में एक नामांकन खारिज",
+   "url": "https://www.bhaskar.com/local/rajasthan/salumber-/news/salumbar-panchayat-samiti-up-pradhan-election-voting-results-live-139821114.html",
+   "t": 1795851692000,
+   "time": "13:11",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.4,
+   "patrikaMatch": {
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
+   }
+  },
+  {
+   "id": "au-video-prayagraj-youth-who-went-out-with-a-friend-dies-under-suspicious-circumstances-police-investigating-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "प्रयागराज - दोस्त के साथ निकले युवक की संदिग्ध दशा में मौत, छानबीन में जुटी पुलिस",
+   "url": "https://www.amarujala.com/video-shots/uttar-pradesh/allahabad/video-prayagraj-youth-who-went-out-with-a-friend-dies-under-suspicious-circumstances-police-investigating-2026-11-28",
+   "t": 1795851643000,
+   "time": "13:10",
+   "score": 8,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "au-52-second-video-of-rohtak-quadruple-murder-surfaces-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "रोहतक चौहरे हत्याकांड का सामने आया वीडियो 52 सेकंड में चार को मारा, बेखौफ अंदाज में हमलावरों ने चलाईं गोलियां",
+   "url": "https://www.amarujala.com/haryana/rohtak/52-second-video-of-rohtak-quadruple-murder-surfaces-2026-11-28",
+   "t": 1795851530000,
+   "time": "13:08",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.2
+  },
+  {
+   "id": "bh-phalodi-panchayat-samiti-up-pradhan-election-result-live-update-139821094.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "फलोदी पंचायत समिति में उप प्रधान के लिए 6 नामांकन: तीन ने वापस लिए नाम, पीलवा में कांग्रेस के पप्पूराम निर्विरोध उप प्रधान बने",
+   "url": "https://www.bhaskar.com/local/rajasthan/phalodi/news/phalodi-panchayat-samiti-up-pradhan-election-result-live-update-139821094.html",
+   "t": 1795851380000,
+   "time": "13:06",
+   "score": 9,
+   "tags": [
+    "RAJ",
+    "POL",
+    "CRK"
+   ],
+   "status": "GAP",
+   "match": 0.43,
+   "patrikaMatch": {
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
+   }
+  },
+  {
+   "id": "au-misdeed-and-pocso-cases-punjab-ranks-first-in-securing-convictions-haryana-leads-in-disposal-of-cases-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "दुष्कर्म-पॉक्सो केस दोषियों को सजा दिलाने में पंजाब देशभर में नंबर वन, मुकदमों के निपटारे में हरियाणा आगे",
+   "url": "https://www.amarujala.com/punjab/chandigarh-punjab/misdeed-and-pocso-cases-punjab-ranks-first-in-securing-convictions-haryana-leads-in-disposal-of-cases-2026-11-28",
+   "t": 1795851171000,
+   "time": "13:02",
+   "score": 8,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.08
+  },
+  {
+   "id": "nbt-136241258.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "'जो कहा वो कर दिखाया', सीकर में डोटासरा ने भाजपा का बुला दिया 'मोरिया', कांग्रेस की सुनामी में बह गई BJP",
+   "url": "https://navbharattimes.indiatimes.com/state/rajasthan/sikar/govind-singh-dotasra-special-politics-in-sikar-panchayat-samiti-pradhan-election-results/articleshow/136241258.cms",
+   "t": 1795851045000,
+   "time": "13:00",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.2
+  },
+  {
+   "id": "au-youth-who-left-with-a-friend-dies-under-suspicious-circumstances-police-investigating-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "प्रयागराज दोस्त के साथ निकले युवक की संदिग्ध दशा में मौत, छानबीन में जुटी पुलिस",
+   "url": "https://www.amarujala.com/uttar-pradesh/allahabad/crime/youth-who-left-with-a-friend-dies-under-suspicious-circumstances-police-investigating-2026-11-28",
+   "t": 1795850899000,
+   "time": "12:58",
+   "score": 8,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "bh-keshav-maurya-meerut-visit-baba-saheb-samvidhan-bjp-statement-139821033.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "2024 के संविधान विरोधी नैरेटिव से उबरने में जुटी भाजपा: मेरठ में केशव मौर्य ने 30 मिनट में 10 बार लिया संविधान का नाम",
+   "url": "https://www.bhaskar.com/local/uttar-pradesh/meerut/news/keshav-maurya-meerut-visit-baba-saheb-samvidhan-bjp-statement-139821033.html",
+   "t": 1795850377000,
+   "time": "12:49",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.11
+  },
+  {
+   "id": "bh-khairthal-tijara-panchayat-samiti-up-pradhan-chunav-vote-result-139821030.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "खैरथल-तिजारा की 6 पंचायत समितियों में उपप्रधान चुनाव: किशनगढ़बास में भाजपा से टिंकेश ने किया नामांकन, कोटकासिम में प्रेमलता निर्विरोध निर्वाचित",
+   "url": "https://www.bhaskar.com/local/rajasthan/khairthal/news/khairthal-tijara-panchayat-samiti-up-pradhan-chunav-vote-result-139821030.html",
+   "t": 1795850263000,
+   "time": "12:47",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.27
+  },
+  {
+   "id": "bh-balotra-panchayat-samiti-up-pradhan-election-result-update-139821025.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "बालोतरा की तीन पंचायत समितियों में निर्विरोध उप प्रधान बने: बालोतरा में भाजपा से अमराराम ने किया नामांकन, मतदान दोपहर 3 बजे से; शाम तक नतीजे",
+   "url": "https://www.bhaskar.com/local/rajasthan/balotra/news/balotra-panchayat-samiti-up-pradhan-election-result-update-139821025.html",
+   "t": 1795849985000,
+   "time": "12:43",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.36,
+   "patrikaMatch": {
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
+   }
+  },
+  {
+   "id": "bh-rajasthan-mla-police-controversy-batti-devi-pradhan-election-139821010.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "घूंघट निकालकर 3 बार भरा पर्चा, बन गईं प्रधान: बागी सदस्य लेकर पहुंचे MLA की थानेदार से 'भिड़ंत'; ऐसे पूरा हुआ '36 का आंकड़ा'",
+   "url": "https://www.bhaskar.com/local/rajasthan/news/rajasthan-mla-police-controversy-batti-devi-pradhan-election-139821010.html",
+   "t": 1795849197000,
+   "time": "12:29",
+   "score": 10,
+   "tags": [
+    "RAJ",
+    "CRIME",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.2
+  },
+  {
+   "id": "nbt-136240800.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "Rapido कैंसिल करने पर भड़का राइडर, धर्म पर कमेंट कर लड़की को भेजा अश्लील फोटो, पांच दिन बाद दर्ज हुआ केस",
+   "url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/bhopal/bhopal-bagsewania-rapido-ride-cancel-abuse-obscene-photo-fir-police/articleshow/136240800.cms",
+   "t": 1795848952000,
+   "time": "12:25",
+   "score": 7,
+   "tags": [
+    "MP",
+    "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.11
+  },
+  {
+   "id": "bh-kotputli-behror-panchayat-samiti-up-pradhan-election-result-update-139821003.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "कोटपूतली-बहरोड़ की 3 पंचायत समितियों में निर्विरोध उप प्रधान बने: बानसूर में भाजपा ने निर्दलीय को बनाया उम्मीदवार, कांग्रेस से अंजू देवी ने किया नामांकन",
+   "url": "https://www.bhaskar.com/local/rajasthan/kotputli/news/kotputli-behror-panchayat-samiti-up-pradhan-election-result-update-139821003.html",
+   "t": 1795848943000,
+   "time": "12:25",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.41,
+   "patrikaMatch": {
+    "title": "Rajasthan Up Pradhan Election Live: कांग्रेस की दिनेश कंवर और भाजपा की मुनेश निर्विरोध बनी उप प्रधान; कई जगह उलटफेर की संभावना",
+    "url": "https://www.patrika.com/live-blog/jaipur-news/rajasthan-panchayat-samiti-up-pradhan-election-result-2026-live-voting-updates-candidates-list-21097050"
+   }
+  },
+  {
+   "id": "at-ind-vs-nz-2nd-test-day-2-india-collapse-to-116-for-6-rishabh-pant-shubman-gill-shot-selection-poor-fielding-tspoa-dskc-2708518-2026-11-28",
+   "src": "at",
+   "pub": "Aaj Tak",
+   "title": "IND vs NZ: पंत की जल्दबाजी, गिल-पडिक्कल की गलती... खराब शॉट सेलेक्शन और कमजोर फील्डिंग ने टीम इंडिया को संकट में डाला",
+   "url": "https://www.aajtak.in/sports/cricket/story/ind-vs-nz-2nd-test-day-2-india-collapse-to-116-for-6-rishabh-pant-shubman-gill-shot-selection-poor-fielding-tspoa-dskc-2708518-2026-11-28",
+   "t": 1795848523000,
+   "time": "12:18",
+   "score": 7,
+   "tags": [
+    "ACC",
+    "POL",
+    "CRK"
+   ],
+   "status": "GAP",
+   "match": 0.28
+  },
+  {
+   "id": "au-video-haryana-chief-minister-nayab-saini-pays-tribute-on-the-death-anniversary-of-mahatma-jyotiba-phule-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "हरियाणा के मुख्यमंत्री नायब सैनी ने महात्मा ज्योतिबा फुले की पुण्यतिथि पर किया नमन",
+   "url": "https://www.amarujala.com/video/haryana/chandigarh-haryana/video-haryana-chief-minister-nayab-saini-pays-tribute-on-the-death-anniversary-of-mahatma-jyotiba-phule-2026-11-28",
+   "t": 1795848522000,
+   "time": "12:18",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "ACC",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "au-shikhar-agarwal-gets-no-relief-from-supreme-court-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "राजस्थान शिखर अग्रवाल को सुप्रीम कोर्ट से राहत नहीं, हाईकोर्ट में अंतरिम राहत मांगने की छूट",
+   "url": "https://www.amarujala.com/rajasthan/jaipur/shikhar-agarwal-gets-no-relief-from-supreme-court-2026-11-28",
+   "t": 1795848245000,
+   "time": "12:14",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "au-polytechnic-student-killed-after-being-hit-by-an-unidentified-vehicle-he-had-left-home-to-appear-for-an-exami-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "प्रयागराज अज्ञात वाहन की टक्कर से पॉलिटेक्निक छात्र की मौत, परीक्षा देने के लिए निकला था घर से",
+   "url": "https://www.amarujala.com/uttar-pradesh/allahabad/crime/polytechnic-student-killed-after-being-hit-by-an-unidentified-vehicle-he-had-left-home-to-appear-for-an-exami-2026-11-28",
+   "t": 1795847953000,
+   "time": "12:09",
+   "score": 8,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.09
+  },
+  {
+   "id": "nbt-136239985.cms",
+   "src": "nbt",
+   "pub": "Navbharat Times",
+   "title": "बीजेपी बहुमत के बाद भी हारी तो सचिन पायलट के 'खास' ने दिया मूंछों पर तांव, लाडनूं में मुकेश भाकर का जलवा",
+   "url": "https://navbharattimes.indiatimes.com/state/rajasthan/nagaur/mukesh-bhakar-mustache-scene-ladnun-pradhan-election-congress-win-didwana-kuchaman/articleshow/136239985.cms",
+   "t": 1795847813000,
+   "time": "12:06",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.08
+  },
+  {
+   "id": "au-vinay-shankar-mastermind-of-gold-robbery-identified-as-victor-vinay-on-social-media-in-jaunpur-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "सोना लूटकांड सोशल मीडिया विक्टर विनय के नाम से था सिपाही का भौकाल, लग्जरी लाइफस्टाइल का दिखाता था जलवे",
+   "url": "https://www.amarujala.com/uttar-pradesh/jaunpur/vinay-shankar-mastermind-of-gold-robbery-identified-as-victor-vinay-on-social-media-in-jaunpur-2026-11-28",
+   "t": 1795847807000,
+   "time": "12:06",
+   "score": 7,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "MONEY"
+   ],
+   "status": "GAP",
+   "match": 0.1
+  },
+  {
+   "id": "au-muzaffarnagar-woman-dies-by-suicide-10-months-after-marriage-family-alleges-husband-s-involvement-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "शादी के 10 महीने बाद मौत मुजफ्फरनगर में विवाहिता ने फंदा लगाकर दी जान, मायके पक्ष ने पति पर हत्या का आरोप",
+   "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/muzaffarnagar-woman-dies-by-suicide-10-months-after-marriage-family-alleges-husband-s-involvement-2026-11-28",
+   "t": 1795847686000,
+   "time": "12:04",
+   "score": 8,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.21
+  },
+  {
+   "id": "au-video-seven-youths-from-rajasthan-arrested-with-37-boxes-of-english-liquor-near-rto-office-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "देवरिया 37 पेटी अवैध अंग्रेजी शराब के साथ राजस्थान के सात युवक गिरफ्तार",
+   "url": "https://www.amarujala.com/video/uttar-pradesh/deoria/video-seven-youths-from-rajasthan-arrested-with-37-boxes-of-english-liquor-near-rto-office-2026-11-28",
+   "t": 1795847448000,
+   "time": "12:00",
+   "score": 10,
+   "tags": [
+    "RAJ",
+    "HINDI",
+    "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.1
+  },
+  {
+   "id": "au-gunshots-fired-in-petwad-the-village-of-the-cji-and-a-congress-mla-four-rounds-fired-after-entering-a-house-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "सीजेआई व कांग्रेस विधायक के गांव में चली गोलीयां प्रॉपर्टी कारोबारी के घर पर फायरिंग, घटना सीसीटीवी में कैद",
+   "url": "https://www.amarujala.com/haryana/hisar/gunshots-fired-in-petwad-the-village-of-the-cji-and-a-congress-mla-four-rounds-fired-after-entering-a-house-2026-11-28",
+   "t": 1795847395000,
+   "time": "11:59",
+   "score": 10,
+   "tags": [
+    "HINDI",
+    "CRIME",
+    "ACC",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.12
+  },
+  {
+   "id": "au-a-motorcyclist-was-crushed-by-the-sdos-official-vehicle-dying-on-the-spot-an-hour-long-commotion-erupted-at-the-hospital-regarding-the-post-mortem-guna-news-c-1-1-noi1454-4978652-2026-11-",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "एमपी गुना में एसडीओ की सरकारी गाड़ी से टकराकर बाइक सवार की मौत, पोस्टमार्टम पर अड़े परिजन; बिना कराए ले गए शव",
+   "url": "https://www.amarujala.com/madhya-pradesh/guna/a-motorcyclist-was-crushed-by-the-sdos-official-vehicle-dying-on-the-spot-an-hour-long-commotion-erupted-at-the-hospital-regarding-the-post-mortem-guna-news-c-1-1-noi1454-4978652-2026-11-28",
+   "t": 1795847103000,
+   "time": "11:55",
+   "score": 10,
+   "tags": [
+    "MP",
+    "CRIME",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.11
+  },
+  {
+   "id": "abp-jalore-4-children-drowned-water-tank-playing-3-died-search-fourth-underway-ann-3220453",
+   "src": "abp",
+   "pub": "ABP Live",
+   "title": "jalore 4 children drowned water tank playing 3 died search fourth underway ann",
+   "url": "https://www.abplive.com/states/rajasthan/jalore-4-children-drowned-water-tank-playing-3-died-search-fourth-underway-ann-3220453",
+   "t": 1795846920000,
+   "time": "11:52",
+   "score": 8,
+   "tags": [
+    "RAJ",
+    "ACC"
+   ],
+   "status": "GAP",
+   "match": 0.27
+  },
+  {
+   "id": "au-sapna-and-pawan-s-family-members-unaware-of-each-other-arrived-after-they-were-struck-by-amrapali-express-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "सपना और पवन के प्यार का दर्दनाक अंत पहले से थे शादीशुदा, दोनों को है एक-एक बच्चा; परिचित ने खोले नए राज",
+   "url": "https://www.amarujala.com/haryana/sonipat/sapna-and-pawan-s-family-members-unaware-of-each-other-arrived-after-they-were-struck-by-amrapali-express-2026-11-28",
+   "t": 1795846553000,
+   "time": "11:45",
+   "score": 9,
+   "tags": [
+    "RAJ",
+    "HINDI",
+    "WAR"
+   ],
+   "status": "GAP",
+   "match": 0.09
+  },
+  {
+   "id": "bh-bharatpur-panchayat-election-results-jawahar-singh-bedham-bjp-victory-139820968.html",
+   "src": "bh",
+   "pub": "Bhaskar",
+   "title": "भाजपा के मंत्रियों पर भारी पड़ी हनुमान बेनीवाल की रणनीति: किरोड़ी के गढ़ में भी नहीं खुला पार्टी का खाता; चूरू में राठौड़ का फिर चला जादू",
+   "url": "https://www.bhaskar.com/local/rajasthan/news/bharatpur-panchayat-election-results-jawahar-singh-bedham-bjp-victory-139820968.html",
+   "t": 1795846293000,
+   "time": "11:41",
+   "score": 7,
+   "tags": [
+    "RAJ",
+    "POL"
+   ],
+   "status": "GAP",
+   "match": 0.24
+  },
+  {
+   "id": "au-fifth-arrest-in-rs-113-crore-cyber-fraud-network-accused-arrested-from-delhi-2026-11-28",
+   "src": "au",
+   "pub": "Amar Ujala",
+   "title": "सीजी 113 करोड़ के साइबर ठगी नेटवर्क में पांचवीं गिरफ्तारी, दिल्ली से पकड़ा गया आरोपी",
+   "url": "https://www.amarujala.com/chhattisgarh/fifth-arrest-in-rs-113-crore-cyber-fraud-network-accused-arrested-from-delhi-2026-11-28",
+   "t": 1795844105000,
+   "time": "11:05",
+   "score": 8,
+   "tags": [
+    "CG",
+    "HINDI",
+    "CRIME"
+   ],
+   "status": "GAP",
+   "match": 0.11
   }
  ]
 }
